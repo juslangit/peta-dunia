@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peta Dunia: a clickable SVG world map with charts</title>
+<meta name="description" content="One self-contained SVG of every country and its 4,602 states and provinces. Click any region and a chart opens inside the map, drawn from JSON. No libraries.">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:title" content="Peta Dunia: 4,602 regions, one SVG file">
+<meta property="og:description" content="Click any country, state or province and a chart opens inside the map, drawn from JSON you control.">
+<meta property="og:image" content="https://peta-dunia.pages.dev/img/og.png">
+<meta property="og:url" content="https://peta-dunia.pages.dev/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="img/icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- taste-skill-ignore: Plex Mono is used only inside real code blocks --><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@300;400;600&display=swap">
+<link rel="stylesheet" href="css/site.css">
+<script>document.documentElement.classList.add("js")</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="nav">
+  <a class="nav__mark" translate="no" href="#map" aria-label="Peta Dunia, back to the map">Peta Dunia</a>
+  <nav class="nav__links" aria-label="Sections">
+    <a href="#data">Data</a>
+    <a href="#zoom">Zoom</a>
+    <a href="#embed">Embed</a>
+    <a href="#files">Files</a>
+    <a href="#faq">FAQ</a>
+  </nav>
+  <a class="nav__code" href="https://github.com/juslangit/peta-dunia">GitHub</a>
+  <a class="button button--small" href="#files">Get the files</a>
+</header>
+
+<main id="main">
+
+<section class="hero" id="map" aria-labelledby="hero-title">
+  <div class="hero__text wrap">
+    <h1 id="hero-title" class="display" data-rise>4,602 regions,<br> one SVG file.</h1>
+    <div class="hero__aside" data-rise style="--i:1">
+      <p class="lead">Click any country, state or province and a chart opens inside the map, drawn from JSON you control. No libraries. It works in a blank HTML page.</p>
+      <div class="actions">
+        <a class="button" href="blank.html">Run the acceptance test</a>
+        <a class="link-plain" href="https://github.com/juslangit/peta-dunia">Source on GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="stage" data-rise style="--i:2">
+    <div class="stage__tab" data-ui role="group" aria-label="Data shown on the map">
+      <button type="button" class="switch" data-src="data/world.json" aria-pressed="true">Real data</button>
+      <button type="button" class="switch" data-src="data/sample.json" aria-pressed="false">Sample JSON (mock)</button>
+    </div>
+    <div class="stage__body" data-ui>
+      <iframe id="map-frame" class="stage__map" src="peta-dunia.svg?data=data/world.json" title="Interactive world map. Tab into it, use the arrow keys to move between regions and Enter to open a chart."></iframe>
+      <div class="stage__bar">
+        <p class="stage__read" aria-live="polite"><span class="stage__label">Last click</span> <span id="last-click">none yet: try Selangor or your own state</span></p>
+        <p class="stage__hint"><span class="hint-mouse">Drag to pan. <kbd>+</kbd> <kbd>&minus;</kbd> or Ctrl/&#8984; and scroll to zoom. Keyboard: Tab in, arrows move, Enter opens.</span><span class="hint-touch">Tap a region for its chart. Pinch to zoom, drag to pan once zoomed in.</span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="stats" id="data" aria-labelledby="stats-claim">
+  <div class="stats__head wrap" data-reveal>
+    <p class="figure nums">34.4M</p>
+    <h2 id="stats-claim" class="lead stats__claim">Malaysians, counted state by state</h2>
+    <p class="stats__note">Real figures, not filler: OpenDOSM&rsquo;s 2026 estimates for all 16 states and federal territories, the same series each state&rsquo;s chart shows. Every other country carries World Bank population, GDP per capita and life expectancy. Pick a bar to open that state on the map.</p>
+  </div>
+  <ol class="bars" data-ui aria-label="Population of Malaysia's states and federal territories, 2026, largest first">
+    <li class="is-accent is-labelled" style="--v:1"><button type="button" data-region="MY-10"><span class="bars__val nums">7.45M</span><span class="bars__name">Selangor</span></button></li>
+    <li class="is-labelled" style="--v:.5667"><button type="button" data-region="MY-01"><span class="bars__val nums">4.22M</span><span class="bars__name">Johor</span></button></li>
+    <li class="is-labelled" style="--v:.5054"><button type="button" data-region="MY-12"><span class="bars__val nums">3.77M</span><span class="bars__name">Sabah</span></button></li>
+    <li style="--v:.3458"><button type="button" data-region="MY-08"><span class="bars__val nums">2.58M</span><span class="bars__name">Perak</span></button></li>
+    <li style="--v:.3407"><button type="button" data-region="MY-13"><span class="bars__val nums">2.54M</span><span class="bars__name">Sarawak</span></button></li>
+    <li style="--v:.3002"><button type="button" data-region="MY-02"><span class="bars__val nums">2.24M</span><span class="bars__name">Kedah</span></button></li>
+    <li style="--v:.2793"><button type="button" data-region="MY-14"><span class="bars__val nums">2.08M</span><span class="bars__name">Kuala Lumpur</span></button></li>
+    <li style="--v:.2583"><button type="button" data-region="MY-03"><span class="bars__val nums">1.93M</span><span class="bars__name">Kelantan</span></button></li>
+    <li style="--v:.2426"><button type="button" data-region="MY-07"><span class="bars__val nums">1.81M</span><span class="bars__name">Pulau Pinang</span></button></li>
+    <li style="--v:.2262"><button type="button" data-region="MY-06"><span class="bars__val nums">1.69M</span><span class="bars__name">Pahang</span></button></li>
+    <li style="--v:.1692"><button type="button" data-region="MY-11"><span class="bars__val nums">1.26M</span><span class="bars__name">Terengganu</span></button></li>
+    <li style="--v:.1675"><button type="button" data-region="MY-05"><span class="bars__val nums">1.25M</span><span class="bars__name">Negeri Sembilan</span></button></li>
+    <li style="--v:.1419"><button type="button" data-region="MY-04"><span class="bars__val nums">1.06M</span><span class="bars__name">Melaka</span></button></li>
+    <li style="--v:.0399"><button type="button" data-region="MY-09"><span class="bars__val nums">297K</span><span class="bars__name">Perlis</span></button></li>
+    <li style="--v:.0163"><button type="button" data-region="MY-16"><span class="bars__val nums">121K</span><span class="bars__name">Putrajaya</span></button></li>
+    <li style="--v:.0136"><button type="button" data-region="MY-15"><span class="bars__val nums">101K</span><span class="bars__name">Labuan</span></button></li>
+  </ol>
+</section>
+
+<section class="zoom wrap" id="zoom" aria-labelledby="zoom-title">
+  <h2 id="zoom-title" class="display" data-reveal>Zoom in. It stays sharp.</h2>
+  <div class="zoom__grid">
+    <ol class="zoom__steps">
+      <li class="zoom__step is-on" data-shot="0" data-reveal>
+        <h3 class="lead">The whole world, at 1&times;</h3>
+        <p>257 countries and territories and 4,602 first-level regions in one file of 1.3&nbsp;MB, 417&nbsp;KB when the server compresses it. Each shape has its own ID: ISO&nbsp;3166-1 for countries, ISO&nbsp;3166-2 for regions, or Natural Earth&rsquo;s own code for the 349 without a unique one.</p>
+        <img class="zoom__inline" src="img/zoom-1-world.webp" width="1600" height="1000" alt="The full world map at its starting size, every country split into its states and provinces, Malaysia tinted blue." loading="lazy">
+      </li>
+      <li class="zoom__step" data-shot="1" data-reveal>
+        <h3 class="lead">Southeast Asia, at 8&times;</h3>
+        <p>Malaysia&rsquo;s states are tinted because they carry their own figures. Grey regions fall back to their country&rsquo;s numbers, and say so.</p>
+        <img class="zoom__inline" src="img/zoom-2-region.webp" width="1600" height="1000" alt="The map zoomed eight times on Southeast Asia: Peninsular Malaysia, Sabah and Sarawak tinted blue among grey neighbours." loading="lazy">
+      </li>
+      <li class="zoom__step" data-shot="2" data-reveal>
+        <h3 class="lead">Peninsular Malaysia, at 16&times;</h3>
+        <p>Borders stay one screen pixel wide however far you go in, so outlines read as lines, never as smudges.</p>
+        <img class="zoom__inline" src="img/zoom-3-peninsula.webp" width="1600" height="1000" alt="The map zoomed sixteen times on Peninsular Malaysia, each state outlined in thin white lines." loading="lazy">
+      </li>
+      <li class="zoom__step" data-shot="3" data-reveal>
+        <h3 class="lead">Selangor, at 32&times;, chart open</h3>
+        <p>The chart panel is drawn in screen pixels, so it keeps the same readable size at every zoom level and on every screen.</p>
+        <img class="zoom__inline" src="img/zoom-4-selangor.webp" width="1920" height="1200" alt="The map zoomed thirty-two times on Selangor, selected in blue, with its population chart panel open beside it." loading="lazy">
+      </li>
+    </ol>
+    <figure class="zoom__frame" aria-hidden="true">
+      <div class="zoom__pics">
+        <img class="is-on" src="img/zoom-1-world.webp" width="1600" height="1000" alt="" loading="lazy">
+        <img src="img/zoom-2-region.webp" width="1600" height="1000" alt="" loading="lazy">
+        <img src="img/zoom-3-peninsula.webp" width="1600" height="1000" alt="" loading="lazy">
+        <img src="img/zoom-4-selangor.webp" width="1920" height="1200" alt="" loading="lazy">
+      </div>
+      <figcaption class="small muted">Screenshots of peta-dunia.svg in Chrome.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="steps" id="embed" aria-labelledby="steps-title">
+  <h2 id="steps-title" class="sr-only">Embed it in four moves</h2>
+  <div class="steps__fields">
+    <div class="steps__words">
+      <p class="display steps__clause" id="step-clause" aria-live="polite">First, put the file on&nbsp;a&nbsp;page.</p>
+    </div>
+    <div class="steps__code" data-ui>
+      <div class="code" id="step-code">
+<pre translate="no" data-step="0" class="is-on"><code>&lt;object data="peta-dunia.svg"
+        type="image/svg+xml"
+        style="width:100%;aspect-ratio:2/1"&gt;
+  World map
+&lt;/object&gt;</code></pre>
+<pre translate="no" data-step="1"><code>&lt;!-- any JSON in the format below --&gt;
+&lt;object data="peta-dunia.svg?data=/sales.json"
+        type="image/svg+xml"&gt;&lt;/object&gt;
+
+{ "regions": { "MY-10": { "charts": [
+  { "type": "line", "title": "Orders",
+    "unit": "orders", "start": 2020,
+    "values": [120, 180, 260, 410] }
+] } } }</code></pre>
+<pre translate="no" data-step="2"><code>// from the page around the map
+window.addEventListener("message", (e) =&gt; {
+  if (e.data.type === "petadunia:select") {
+    console.log(e.data.detail.id);   // "MY-10"
+    console.log(e.data.detail.name); // "Selangor"
+  }
+});</code></pre>
+<pre translate="no" data-step="3"><code>const map = document.querySelector("object")
+  .contentWindow.PetaDunia;
+
+map.select("MY-10");          // open a chart
+map.zoomTo("MYS");            // frame a country
+map.load("/q3.json");         // swap the data
+map.close();</code></pre>
+      </div>
+    </div>
+  </div>
+  <div class="steps__rail wrap">
+    <label class="sr-only" for="step-range">Step</label>
+    <div class="steps__track" aria-hidden="true"><span></span></div>
+    <input type="range" id="step-range" min="0" max="3" step="1" value="0" aria-valuetext="Put the file on a page">
+    <ol class="steps__names">
+      <li class="is-on" style="--p:0"><button type="button" data-step="0">Put it on a page</button></li>
+      <li style="--p:.3333"><button type="button" data-step="1">Point it at JSON</button></li>
+      <li style="--p:.6667"><button type="button" data-step="2">Hear every click</button></li>
+      <li style="--p:1"><button type="button" data-step="3">Drive it from code</button></li>
+    </ol>
+  </div>
+</section>
+
+<section class="files wrap" id="files" aria-labelledby="files-title">
+  <h2 id="files-title" class="sr-only">The files you get</h2>
+  <div class="files__list" role="group" aria-label="Files">
+    <button type="button" class="files__name" translate="no" data-file="0" aria-pressed="true">peta-dunia.svg</button>
+    <button type="button" class="files__name" translate="no" data-file="1" aria-pressed="false">world.json</button>
+    <button type="button" class="files__name" translate="no" data-file="2" aria-pressed="false">sample.json</button>
+    <button type="button" class="files__name" translate="no" data-file="3" aria-pressed="false">regions.csv</button>
+    <button type="button" class="files__name" translate="no" data-file="4" aria-pressed="false">blank.html</button>
+  </div>
+  <div class="files__stage">
+    <article class="sheet is-on" data-ui data-file="0" aria-label="peta-dunia.svg">
+      <header class="sheet__head"><div><p class="sheet__name" translate="no">peta-dunia.svg</p><p class="sheet__meta">1.3 MB &middot; 417 KB gzipped &middot; the deliverable</p></div><a class="sheet__get" href="peta-dunia.svg" download>Download</a></header>
+      <p class="sheet__text">Every shape, the styles, the script and the real data in one minified file. Countries are groups, regions are paths:</p>
+<pre translate="no"><code>&lt;svg id="peta-dunia" class="pd" viewBox="0 0 2000 978"
+     role="group" aria-roledescription="interactive map"&gt;
+  &lt;g id="MYS" role="group" aria-label="Malaysia"&gt;
+    &lt;path id="MY-01" aria-label="Johor" d="M1567.5 470.7l-.5.6&hellip;"/&gt;
+    &lt;path id="MY-10" aria-label="Selangor" d="M1557.4 460.1l.5 1.1&hellip;"/&gt;
+    &hellip;
+  &lt;/g&gt;
+  &lt;script type="application/json" id="pd-data"&gt;&hellip;&lt;/script&gt;
+  &lt;script&gt;/* 23 KB, no dependencies */&lt;/script&gt;
+&lt;/svg&gt;</code></pre>
+    </article>
+    <article class="sheet" data-ui data-file="1" aria-label="world.json">
+      <header class="sheet__head"><div><p class="sheet__name" translate="no">world.json</p><p class="sheet__meta">173 KB &middot; real data, 233 regions</p></div><a class="sheet__get" href="data/world.json" download>Download</a></header>
+      <p class="sheet__text">World Bank series for 217 economies and OpenDOSM figures for Malaysia&rsquo;s 16 states, written by <code>tools/fetch-data.mjs</code>:</p>
+<pre translate="no"><code>{ "sources": {
+    "dosm": { "name": "Department of Statistics Malaysia",
+              "licence": "CC BY 4.0" } },
+  "regions": {
+    "MY-10": { "charts": [
+      { "type": "line", "title": "Population",
+        "unit": "people", "source": "dosm",
+        "start": 2000,
+        "values": [4188900, 4317500, &hellip; 7454200] },
+      { "type": "bar", "title": "Population by group, 2026",
+        "labels": ["Malay", "Chinese", "Indian", &hellip;],
+        "values": [4080200, 1757100, 731500, &hellip;] } ] } } }</code></pre>
+    </article>
+    <article class="sheet" data-ui data-file="2" aria-label="sample.json">
+      <header class="sheet__head"><div><p class="sheet__name" translate="no">sample.json</p><p class="sheet__meta">2 KB &middot; mock data, four regions</p></div><a class="sheet__get" href="data/sample.json" download>Download</a></header>
+      <p class="sheet__text">The brief&rsquo;s sample: invented numbers for Selangor, France, S&atilde;o Paulo and California, marked as mock everywhere they show.</p>
+<pre translate="no"><code>{ "mock": true,
+  "regions": {
+    "US-CA": { "charts": [
+      { "type": "bar",
+        "title": "Support tickets by topic",
+        "unit": "tickets",
+        "labels": ["Billing", "Shipping", "Returns",
+                   "Account", "Other"],
+        "values": [320, 510, 240, 130, 90] } ] },
+    "FRA":   { &hellip; },  "BR-SP": { &hellip; },  "MY-10": { &hellip; } } }</code></pre>
+    </article>
+    <article class="sheet" data-ui data-file="3" aria-label="regions.csv">
+      <header class="sheet__head"><div><p class="sheet__name" translate="no">regions.csv</p><p class="sheet__meta">177 KB &middot; 4,602 rows</p></div><a class="sheet__get" href="data/regions.csv" download>Download</a></header>
+      <p class="sheet__text">Every ID on the map with its name and country, so you can key your own data without opening the SVG.</p>
+      <table class="sheet__table" translate="no">
+        <thead><tr><th scope="col">id</th><th scope="col">name</th><th scope="col">country_id</th><th scope="col">has_data</th></tr></thead>
+        <tbody>
+          <tr><td>MY-01</td><td>Johor</td><td>MYS</td><td>region</td></tr>
+          <tr><td>MY-14</td><td>Kuala Lumpur</td><td>MYS</td><td>region</td></tr>
+          <tr><td>MY-10</td><td>Selangor</td><td>MYS</td><td>region</td></tr>
+          <tr><td>DE-BY</td><td>Bayern</td><td>DEU</td><td>country</td></tr>
+          <tr><td>FR-75</td><td>Paris</td><td>FRA</td><td>country</td></tr>
+          <tr><td>ATA-00</td><td>Antarctica</td><td>ATA</td><td>none</td></tr>
+        </tbody>
+      </table>
+    </article>
+    <article class="sheet" data-ui data-file="4" aria-label="blank.html">
+      <header class="sheet__head"><div><p class="sheet__name" translate="no">blank.html</p><p class="sheet__meta">1 KB &middot; the acceptance test</p></div><a class="sheet__get" href="blank.html">Open it</a></header>
+      <p class="sheet__text">The brief&rsquo;s test, word for word: a blank page, the SVG, nothing else. Click any region and the chart appears, with a clean console.</p>
+<pre translate="no"><code>&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;Peta Dunia: acceptance test&lt;/title&gt;
+&lt;body style="margin:0"&gt;
+&lt;object data="peta-dunia.svg" type="image/svg+xml"
+        style="display:block;width:100%;height:100vh"&gt;
+  World map
+&lt;/object&gt;</code></pre>
+    </article>
+  </div>
+</section>
+
+<section class="sources wrap" id="sources" aria-labelledby="sources-title">
+  <div class="sources__head" data-reveal>
+    <h2 id="sources-title" class="display"><span class="muted">Open shapes,</span><br> open numbers.</h2>
+    <a class="button" href="https://github.com/juslangit/peta-dunia/tree/main/tools">Read the build scripts</a>
+  </div>
+  <div class="sources__body">
+    <div class="sources__tabs" role="group" aria-label="Source">
+      <button type="button" class="tab" data-src-tab="0" aria-pressed="true"><span>Natural Earth</span><small>Public domain</small></button>
+      <button type="button" class="tab" data-src-tab="1" aria-pressed="false"><span>World Bank</span><small>CC BY 4.0</small></button>
+      <button type="button" class="tab" data-src-tab="2" aria-pressed="false"><span>OpenDOSM</span><small>CC BY 4.0</small></button>
+      <button type="button" class="tab" data-src-tab="3" aria-pressed="false"><span>Sample JSON</span><small>Mock data</small></button>
+    </div>
+    <div class="sources__panes">
+      <ul class="bands is-on" data-src-pane="0">
+        <li><span class="bands__when nums">1:10m</span><span class="bands__what"><b>States and provinces (admin-1), the detailed 1:10m set</b><small>4,596 regions, plus 7 small units from the country layer so no land is missing</small></span><a class="bands__who" href="https://www.naturalearthdata.com/">naturalearthdata.com</a></li>
+        <li><span class="bands__when nums">8%</span><span class="bands__what"><b>Simplified with mapshaper, every shape kept</b><small>Visvalingam weighted; 56 self-intersections repaired; 596 specks get a small marker</small></span><a class="bands__who" href="https://github.com/mbloch/mapshaper">mapshaper</a></li>
+        <li><span class="bands__when nums">8857</span><span class="bands__what"><b>Equal Earth projection (EPSG:8857)</b><small>Areas stay true, so big countries do not look bigger than they are</small></span><a class="bands__who" href="https://en.wikipedia.org/wiki/Equal_Earth_projection">Equal Earth</a></li>
+      </ul>
+      <ul class="bands" data-src-pane="1">
+        <li><span class="bands__when nums">2000&ndash;2025</span><span class="bands__what"><b>Population, total</b><small>SP.POP.TOTL, line chart, 217 economies</small></span><a class="bands__who" href="https://data.worldbank.org/indicator/SP.POP.TOTL">World Bank WDI</a></li>
+        <li><span class="bands__when nums">2000&ndash;2025</span><span class="bands__what"><b>GDP per capita, current US$</b><small>NY.GDP.PCAP.CD, bar chart</small></span><a class="bands__who" href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD">World Bank WDI</a></li>
+        <li><span class="bands__when nums">2000&ndash;2024</span><span class="bands__what"><b>Life expectancy at birth</b><small>SP.DYN.LE00.IN, line chart, in years</small></span><a class="bands__who" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN">World Bank WDI</a></li>
+      </ul>
+      <ul class="bands" data-src-pane="2">
+        <li><span class="bands__when nums">2000&ndash;2026</span><span class="bands__what"><b>Population by state</b><small>Dataset population_state, line chart for each of the 16 states and federal territories</small></span><a class="bands__who" href="https://open.dosm.gov.my/data-catalogue/population_state">OpenDOSM</a></li>
+        <li><span class="bands__when nums">2026</span><span class="bands__what"><b>Population by ethnic group</b><small>Malay, other Bumiputera, Chinese, Indian, other citizens, non-citizens; bar chart</small></span><a class="bands__who" href="https://open.dosm.gov.my/data-catalogue/population_state">OpenDOSM</a></li>
+        <li><span class="bands__when nums">&rsquo;000</span><span class="bands__what"><b>Published in thousands, stored as people</b><small>The fetch script multiplies by 1,000 so tooltips read in plain numbers</small></span><a class="bands__who" href="https://data.gov.my/">data.gov.my</a></li>
+      </ul>
+      <ul class="bands" data-src-pane="3">
+        <li><span class="bands__when nums">4</span><span class="bands__what"><b>Invented figures for four regions</b><small>Selangor, France, S&atilde;o Paulo and California: line, bar and category charts</small></span><a class="bands__who" href="data/sample.json">sample.json</a></li>
+        <li><span class="bands__when nums">0</span><span class="bands__what"><b>Every other region shows the no-data chart</b><small>A clear empty state that names the ID to add, never an error</small></span><a class="bands__who" href="#map" data-sample>Try it on the map</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="faq wrap" id="faq" aria-labelledby="faq-title">
+  <div class="faq__list">
+    <h2 id="faq-title" class="faq__title">Fair questions</h2>
+    <ul>
+      <li><button type="button" class="faq__q" data-q="0" aria-expanded="true" aria-controls="faq-a0">Does it pass the brief&rsquo;s acceptance test?</button>
+        <div class="faq__a" id="faq-a0"><p>Yes. blank.html is a blank page holding only the SVG. Click any region and its chart appears straight away, with no console errors, in Chrome, Firefox and Safari, opened from a server or straight from disk.</p></div></li>
+      <li><button type="button" class="faq__q" data-q="1" aria-expanded="false" aria-controls="faq-a1">What happens where there is no data?</button>
+        <div class="faq__a" id="faq-a1"><p>A region without its own figures shows its country&rsquo;s, labelled as such. Where neither exists, the panel draws an empty chart that says so and names the ID to add. It never throws.</p></div></li>
+      <li><button type="button" class="faq__q" data-q="2" aria-expanded="false" aria-controls="faq-a2">How do keyboard users get round 4,602 shapes?</button>
+        <div class="faq__a" id="faq-a2"><p>The map is one Tab stop. Arrow keys move to the nearest region in that direction, Page Up and Down jump between countries, and typing a name finds it. Enter opens the chart, Escape closes it.</p></div></li>
+      <li><button type="button" class="faq__q" data-q="3" aria-expanded="false" aria-controls="faq-a3">Can I use my own numbers?</button>
+        <div class="faq__a" id="faq-a3"><p>Point the map at any JSON with a <code>regions</code> object keyed by the IDs in regions.csv. Each region holds a list of line or bar charts: a start year and values, or labels and values.</p></div></li>
+      <li><button type="button" class="faq__q" data-q="4" aria-expanded="false" aria-controls="faq-a4">Why not D3 or a map library?</button>
+        <div class="faq__a" id="faq-a4"><p>The brief asked for minimal dependencies. Two chart types and pan and zoom fit in 23&nbsp;KB of plain JavaScript inside the SVG, so there is nothing else to load, update or break.</p></div></li>
+      <li><button type="button" class="faq__q" data-q="5" aria-expanded="false" aria-controls="faq-a5">Whose borders are these?</button>
+        <div class="faq__a" id="faq-a5"><p>Natural Earth&rsquo;s, which follow the boundaries in place on the ground. Disputed areas keep Natural Earth&rsquo;s own codes. Swap the source data and rebuild if a client needs another view.</p></div></li>
+    </ul>
+  </div>
+  <div class="faq__pane" role="region" aria-live="polite" aria-label="Answer"><p id="faq-pane">Yes. blank.html is a blank page holding only the SVG. Click any region and its chart appears straight away, with no console errors, in Chrome, Firefox and Safari, opened from a server or straight from disk.</p></div>
+</section>
+
+<section class="close" aria-labelledby="close-title">
+  <h2 id="close-title" class="display">Want it with your own numbers?</h2>
+  <div class="close__aside">
+    <p>Swap in your JSON and the same map charts it. The code is MIT, the build scripts are in the repo, and blank.html proves it in one click.</p>
+    <div class="actions">
+      <a class="button" href="https://github.com/juslangit/peta-dunia">Get it on GitHub</a>
+      <a class="link-plain" href="blank.html">Run the acceptance test</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="foot wrap">
+  <p class="muted">Peta Dunia, an SVG world map by <a href="https://github.com/juslangit">Luqman Hakeem</a></p>
+  <p class="foot__links"><a href="https://github.com/juslangit/peta-dunia">GitHub</a><a href="blank.html">Acceptance test</a><a href="peta-dunia.svg">Raw SVG</a></p>
+  <p class="muted foot__right">Boundaries: Natural Earth. Data: World Bank, OpenDOSM (CC BY 4.0). 2026, no cookies.</p>
+</footer>
+
+<script src="js/site.js" defer></script>
+</body>
+</html>
