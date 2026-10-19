@@ -474,8 +474,9 @@
     // Docked panels span the width, so the zoom buttons step aside until the panel closes.
     gCtl.setAttribute("visibility", W < 560 ? "hidden" : "visible");
     if (W < 560) {
-      // Phones: dock to the bottom edge, or to the top when the region sits in the lower half.
-      x = (W - w) / 2; y = a.y > H / 2 ? 8 : H - h - 8;
+      // Phones: dock to the bottom edge (the map hugs the top of a tall box), or to the top
+      // when the bottom panel would cover the region.
+      x = (W - w) / 2; y = a.y + 12 > H - h - 8 ? 8 : H - h - 8;
     } else {
       x = a.x + 20;
       if (x + w > W - 56) x = a.x - 20 - w;
