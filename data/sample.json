@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "mock": true,
+  "note": "MOCK DATA for demonstration only. These numbers are invented to show the chart structure; they are not real figures.",
+  "sources": {
+    "mock": { "name": "Mock data, not real figures", "short": "Mock data (not real)", "licence": "none", "mock": true }
+  },
+  "regions": {
+    "MY-10": {
+      "charts": [
+        { "type": "line", "title": "Online orders, 2025", "unit": "orders", "source": "mock",
+          "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+          "values": [1200, 1340, 1290, 1510, 1620, 1580, 1700, 1820, 1760, 1940, 2210, 2480] },
+        { "type": "bar", "title": "Orders by channel", "unit": "orders", "source": "mock",
+          "labels": ["Web", "Mobile app", "Marketplace", "Phone"], "values": [9800, 7400, 3100, 650] }
+      ]
+    },
+    "FRA": {
+      "charts": [
+        { "type": "bar", "title": "Visitors per year", "unit": "visitors", "source": "mock",
+          "start": 2019, "values": [42000, 18500, 26400, 39800, 45100, 51200, 54900] }
+      ]
+    },
+    "BR-SP": {
+      "charts": [
+        { "type": "line", "title": "Average delivery time", "unit": "days", "source": "mock",
+          "labels": ["W1", "W2", "W3", "W4", "W5", "W6", "W7", "W8"],
+          "values": [6.2, 5.9, 5.5, 5.8, 4.9, 4.6, 4.4, 4.1] }
+      ]
+    },
+    "US-CA": {
+      "charts": [
+        { "type": "bar", "title": "Support tickets by topic", "unit": "tickets", "source": "mock",
+          "labels": ["Billing", "Shipping", "Returns", "Account", "Other"], "values": [320, 510, 240, 130, 90] }
+      ]
+    }
+  }
+}

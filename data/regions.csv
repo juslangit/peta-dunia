@@ -1,0 +1,4603 @@
+id,name,country_id,country_name,has_data
+AF-BDS,Badakhshan,AFG,Afghanistan,country
+AF-BDG,Badghis,AFG,Afghanistan,country
+AF-BGL,Baghlan,AFG,Afghanistan,country
+AF-BAL,Balkh,AFG,Afghanistan,country
+AF-BAM,Bamyan,AFG,Afghanistan,country
+AF-FRA,Farah,AFG,Afghanistan,country
+AF-FYB,Faryab,AFG,Afghanistan,country
+AF-GHA,Ghazni,AFG,Afghanistan,country
+AF-GHO,Ghor,AFG,Afghanistan,country
+AF-HEL,Hilmand,AFG,Afghanistan,country
+AF-HER,Hirat,AFG,Afghanistan,country
+AF-JOW,Jawzjan,AFG,Afghanistan,country
+AF-KAB,Kabul,AFG,Afghanistan,country
+AF-KAN,Kandahar,AFG,Afghanistan,country
+AF-KAP,Kapisa,AFG,Afghanistan,country
+AF-KHO,Khost,AFG,Afghanistan,country
+AF-KNR,Kunar,AFG,Afghanistan,country
+AF-KDZ,Kunduz,AFG,Afghanistan,country
+AF-LAG,Laghman,AFG,Afghanistan,country
+AF-LOG,Logar,AFG,Afghanistan,country
+AF-NAN,Nangarhar,AFG,Afghanistan,country
+AF-NIM,Nimroz,AFG,Afghanistan,country
+AF-NUR,Nuristan,AFG,Afghanistan,country
+AF-PIA,Paktika,AFG,Afghanistan,country
+AF-PKA,Paktya,AFG,Afghanistan,country
+AFG-1769,Parwan,AFG,Afghanistan,country
+AFG-1772,Parwan,AFG,Afghanistan,country
+AF-SAM,Samangan,AFG,Afghanistan,country
+AF-SAR,Sari Pul,AFG,Afghanistan,country
+AF-TAK,Takhar,AFG,Afghanistan,country
+AFG-1752,Uruzgan,AFG,Afghanistan,country
+AFG-1753,Uruzgan,AFG,Afghanistan,country
+AF-WAR,Wardak,AFG,Afghanistan,country
+AF-ZAB,Zabul,AFG,Afghanistan,country
+WSB-5133,Akrotiri,WSB,Akrotiri,none
+ALD-4823,Brändö,ALA,Åland Islands,none
+ALD-4812,Eckerö,ALA,Åland Islands,none
+ALD-4814,Föglö,ALA,Åland Islands,none
+ALD-4810,Jomala,ALA,Åland Islands,none
+ALD-4824,Kökar,ALA,Åland Islands,none
+ALD-4822,Kumlinge,ALA,Åland Islands,none
+ALD-4818,Lemland,ALA,Åland Islands,none
+ALD-4819,Lumparland,ALA,Åland Islands,none
+ALD-4817,Mariehamn,ALA,Åland Islands,none
+ALD-4821,Sottunga,ALA,Åland Islands,none
+ALD-4820,Vårdö,ALA,Åland Islands,none
+AL-01,Berat,ALB,Albania,country
+AL-09,Dibër,ALB,Albania,country
+AL-02,Durrës,ALB,Albania,country
+AL-03,Elbasan,ALB,Albania,country
+AL-04,Fier,ALB,Albania,country
+AL-05,Gjirokastër,ALB,Albania,country
+AL-06,Korçë,ALB,Albania,country
+AL-07,Kukës,ALB,Albania,country
+AL-08,Lezhë,ALB,Albania,country
+AL-10,Shkodër,ALB,Albania,country
+AL-11,Tiranë,ALB,Albania,country
+AL-12,Vlorë,ALB,Albania,country
+DZ-01,Adrar,DZA,Algeria,country
+DZ-44,Aïn Defla,DZA,Algeria,country
+DZ-46,Aïn Témouchent,DZA,Algeria,country
+DZ-16,Alger,DZA,Algeria,country
+DZ-23,Annaba,DZA,Algeria,country
+DZ-05,Batna,DZA,Algeria,country
+DZ-08,Béchar,DZA,Algeria,country
+DZ-06,Béjaïa,DZA,Algeria,country
+DZ-07,Biskra,DZA,Algeria,country
+DZ-09,Blida,DZA,Algeria,country
+DZ-34,Bordj Bou Arréridj,DZA,Algeria,country
+DZ-10,Bouira,DZA,Algeria,country
+DZ-35,Boumerdès,DZA,Algeria,country
+DZ-02,Chlef,DZA,Algeria,country
+DZ-25,Constantine,DZA,Algeria,country
+DZ-17,Djelfa,DZA,Algeria,country
+DZ-32,El Bayadh,DZA,Algeria,country
+DZ-39,El Oued,DZA,Algeria,country
+DZ-36,El Tarf,DZA,Algeria,country
+DZ-47,Ghardaïa,DZA,Algeria,country
+DZ-24,Guelma,DZA,Algeria,country
+DZ-33,Illizi,DZA,Algeria,country
+DZ-18,Jijel,DZA,Algeria,country
+DZ-40,Khenchela,DZA,Algeria,country
+DZ-03,Laghouat,DZA,Algeria,country
+DZ-28,M'Sila,DZA,Algeria,country
+DZ-29,Mascara,DZA,Algeria,country
+DZ-26,Médéa,DZA,Algeria,country
+DZ-43,Mila,DZA,Algeria,country
+DZ-27,Mostaganem,DZA,Algeria,country
+DZ-45,Naâma,DZA,Algeria,country
+DZ-31,Oran,DZA,Algeria,country
+DZ-30,Ouargla,DZA,Algeria,country
+DZ-04,Oum el Bouaghi,DZA,Algeria,country
+DZ-48,Relizane,DZA,Algeria,country
+DZ-20,Saïda,DZA,Algeria,country
+DZ-19,Sétif,DZA,Algeria,country
+DZ-22,Sidi Bel Abbès,DZA,Algeria,country
+DZ-21,Skikda,DZA,Algeria,country
+DZ-41,Souk Ahras,DZA,Algeria,country
+DZ-11,Tamanghasset,DZA,Algeria,country
+DZ-12,Tébessa,DZA,Algeria,country
+DZ-14,Tiaret,DZA,Algeria,country
+DZ-37,Tindouf,DZA,Algeria,country
+DZ-42,Tipaza,DZA,Algeria,country
+DZ-38,Tissemsilt,DZA,Algeria,country
+DZ-15,Tizi Ouzou,DZA,Algeria,country
+DZ-13,Tlemcen,DZA,Algeria,country
+ASM-4998,Eastern,ASM,American Samoa,country
+ASM-4999,Manu's,ASM,American Samoa,country
+ASM-5000,Rose Atoll,ASM,American Samoa,country
+ASM-5001,Swain's Island,ASM,American Samoa,country
+ASM-5002,Western,ASM,American Samoa,country
+AD-07,Andorra la Vella,AND,Andorra,country
+AD-02,Canillo,AND,Andorra,country
+AD-03,Encamp,AND,Andorra,country
+AD-08,Escaldes-Engordany,AND,Andorra,country
+AD-04,La Massana,AND,Andorra,country
+AD-05,Ordino,AND,Andorra,country
+AD-06,Sant Julià de Lòria,AND,Andorra,country
+AO-BGO,Bengo,AGO,Angola,country
+AO-BGU,Benguela,AGO,Angola,country
+AO-BIE,Bié,AGO,Angola,country
+AO-CAB,Cabinda,AGO,Angola,country
+AO-CCU,Cuando Cubango,AGO,Angola,country
+AO-CNO,Cuanza Norte,AGO,Angola,country
+AO-CUS,Cuanza Sul,AGO,Angola,country
+AO-CNN,Cunene,AGO,Angola,country
+AO-HUA,Huambo,AGO,Angola,country
+AO-HUI,Huíla,AGO,Angola,country
+AO-LUA,Luanda,AGO,Angola,country
+AO-LNO,Lunda Norte,AGO,Angola,country
+AO-LSU,Lunda Sul,AGO,Angola,country
+AO-MAL,Malanje,AGO,Angola,country
+AO-MOX,Moxico,AGO,Angola,country
+AO-NAM,Namibe,AGO,Angola,country
+AO-UIG,Uíge,AGO,Angola,country
+AO-ZAI,Zaire,AGO,Angola,country
+AI-X00,Anguilla,AIA,Anguilla,none
+AIA-5114,Blowing Point,AIA,Anguilla,none
+AIA-5115,East End,AIA,Anguilla,none
+AIA-5116,George Hill,AIA,Anguilla,none
+AIA-5117,Island Harbour,AIA,Anguilla,none
+AIA-5118,North Hill,AIA,Anguilla,none
+AIA-5119,North Side,AIA,Anguilla,none
+AIA-5120,Sandy Ground,AIA,Anguilla,none
+AIA-5121,Sandy Hill,AIA,Anguilla,none
+AIA-5122,South Hill,AIA,Anguilla,none
+AIA-5123,Stoney Ground,AIA,Anguilla,none
+AIA-5124,The Farrington,AIA,Anguilla,none
+AIA-5125,The Quarter,AIA,Anguilla,none
+AIA-5126,The Valley,AIA,Anguilla,none
+AIA-5127,West End,AIA,Anguilla,none
+ATA-00,Antarctica,ATA,Antarctica,none
+ATA-99,Antarctica,ATA,Antarctica,none
+AG-10,Barbuda,ATG,Antigua and Barbuda,country
+AG-11,Redonda,ATG,Antigua and Barbuda,country
+AG-03,Saint George,ATG,Antigua and Barbuda,country
+AG-04,Saint John,ATG,Antigua and Barbuda,country
+AG-05,Saint Mary,ATG,Antigua and Barbuda,country
+AG-06,Saint Paul,ATG,Antigua and Barbuda,country
+AG-07,Saint Peter,ATG,Antigua and Barbuda,country
+AG-08,Saint Philip,ATG,Antigua and Barbuda,country
+AR-B,Buenos Aires,ARG,Argentina,country
+AR-K,Catamarca,ARG,Argentina,country
+AR-H,Chaco,ARG,Argentina,country
+AR-U,Chubut,ARG,Argentina,country
+AR-C,Ciudad de Buenos Aires,ARG,Argentina,country
+AR-X,Córdoba,ARG,Argentina,country
+AR-W,Corrientes,ARG,Argentina,country
+AR-E,Entre Ríos,ARG,Argentina,country
+AR-P,Formosa,ARG,Argentina,country
+AR-Y,Jujuy,ARG,Argentina,country
+AR-L,La Pampa,ARG,Argentina,country
+AR-F,La Rioja,ARG,Argentina,country
+AR-M,Mendoza,ARG,Argentina,country
+AR-N,Misiones,ARG,Argentina,country
+AR-Q,Neuquén,ARG,Argentina,country
+AR-R,Río Negro,ARG,Argentina,country
+AR-A,Salta,ARG,Argentina,country
+AR-J,San Juan,ARG,Argentina,country
+AR-D,San Luis,ARG,Argentina,country
+AR-Z,Santa Cruz,ARG,Argentina,country
+AR-S,Santa Fe,ARG,Argentina,country
+AR-G,Santiago del Estero,ARG,Argentina,country
+AR-V,Tierra del Fuego,ARG,Argentina,country
+AR-T,Tucumán,ARG,Argentina,country
+AM-AG,Aragatsotn,ARM,Armenia,country
+AM-AR,Ararat,ARM,Armenia,country
+AM-AV,Armavir,ARM,Armenia,country
+AM-ER,Erevan,ARM,Armenia,country
+AM-GR,Gegharkunik,ARM,Armenia,country
+AM-KT,Kotayk,ARM,Armenia,country
+AM-LO,Lori,ARM,Armenia,country
+AM-SH,Shirak,ARM,Armenia,country
+AM-SU,Syunik,ARM,Armenia,country
+AM-TV,Tavush,ARM,Armenia,country
+AM-VD,Vayots Dzor,ARM,Armenia,country
+ABW-5150,Aruba,ABW,Aruba,country
+ATC-00,Ashmore and Cartier Islands,ATC,Ashmore and Cartier Islands,none
+AU-ACT,Australian Capital Territory,AUS,Australia,country
+AUS-1932,Jervis Bay Territory,AUS,Australia,country
+AUS-2659,Lord Howe Island,AUS,Australia,country
+AUS-00,Macquarie Island,AUS,Australia,country
+AUS-2654,New South Wales,AUS,Australia,country
+AU-NT,Northern Territory,AUS,Australia,country
+AU-QLD,Queensland,AUS,Australia,country
+AU-SA,South Australia,AUS,Australia,country
+AU-TAS,Tasmania,AUS,Australia,country
+AU-VIC,Victoria,AUS,Australia,country
+AU-WA,Western Australia,AUS,Australia,country
+AT-1,Burgenland,AUT,Austria,country
+AT-2,Kärnten,AUT,Austria,country
+AT-3,Niederösterreich,AUT,Austria,country
+AT-4,Oberösterreich,AUT,Austria,country
+AT-5,Salzburg,AUT,Austria,country
+AT-6,Steiermark,AUT,Austria,country
+AT-7,Tirol,AUT,Austria,country
+AT-8,Vorarlberg,AUT,Austria,country
+AT-9,Wien,AUT,Austria,country
+AZ-ABS,Abşeron,AZE,Azerbaijan,country
+AZ-AGC,Ağcabədi,AZE,Azerbaijan,country
+AZ-AGM,Ağdam,AZE,Azerbaijan,country
+AZ-AGS,Ağdaş,AZE,Azerbaijan,country
+AZ-AGA,Ağstafa,AZE,Azerbaijan,country
+AZ-AGU,Ağsu,AZE,Azerbaijan,country
+AZ-AST,Astara,AZE,Azerbaijan,country
+AZ-BAB,Babək,AZE,Azerbaijan,country
+AZ-BA,Bakı,AZE,Azerbaijan,country
+AZ-BAL,Balakən,AZE,Azerbaijan,country
+AZ-BEY,Beyləqan,AZE,Azerbaijan,country
+AZ-BAR,Bərdə,AZE,Azerbaijan,country
+AZ-BIL,Biləsuvar,AZE,Azerbaijan,country
+AZ-CAB,Cəbrayıl,AZE,Azerbaijan,country
+AZ-CAL,Cəlilabad,AZE,Azerbaijan,country
+AZ-CUL,Culfa,AZE,Azerbaijan,country
+AZ-DAS,Daşkəsən,AZE,Azerbaijan,country
+AZ-SBN,Dəvəçi,AZE,Azerbaijan,country
+AZ-FUZ,Füzuli,AZE,Azerbaijan,country
+AZ-GAD,Gədəbəy,AZE,Azerbaijan,country
+AZ-GA,Gəncə,AZE,Azerbaijan,country
+AZ-GOR,Goranboy,AZE,Azerbaijan,country
+AZ-GOY,Göyçay,AZE,Azerbaijan,country
+AZ-HAC,Hajigabul,AZE,Azerbaijan,country
+AZ-IMI,İmişli,AZE,Azerbaijan,country
+AZ-ISM,İsmayıllı,AZE,Azerbaijan,country
+AZ-KAN,Kangarli,AZE,Azerbaijan,country
+AZ-KAL,Kəlbəcər,AZE,Azerbaijan,country
+AZ-KUR,Kürdəmir,AZE,Azerbaijan,country
+AZ-LAN,Lankaran,AZE,Azerbaijan,country
+AZE-1707,Lankaran,AZE,Azerbaijan,country
+AZE-5562,Lankaran,AZE,Azerbaijan,country
+AZ-LER,Lerik,AZE,Azerbaijan,country
+AZ-MAS,Masallı,AZE,Azerbaijan,country
+AZ-MI,Mingəçevir,AZE,Azerbaijan,country
+AZ-NA,Naftalan,AZE,Azerbaijan,country
+AZ-NX,Naxçıvan,AZE,Azerbaijan,country
+AZ-NEF,Neftçala,AZE,Azerbaijan,country
+AZ-OGU,Oğuz,AZE,Azerbaijan,country
+AZ-ORD,Ordubad,AZE,Azerbaijan,country
+AZ-QAX,Qax,AZE,Azerbaijan,country
+AZ-QAZ,Qazax,AZE,Azerbaijan,country
+AZ-QAB,Qəbələ,AZE,Azerbaijan,country
+AZ-QOB,Qobustan,AZE,Azerbaijan,country
+AZ-QBA,Quba,AZE,Azerbaijan,country
+AZ-QBI,Qubadli,AZE,Azerbaijan,country
+AZ-QUS,Qusar,AZE,Azerbaijan,country
+AZ-SAT,Saatlı,AZE,Azerbaijan,country
+AZ-SAB,Sabirabad,AZE,Azerbaijan,country
+AZ-SAH,Şahbuz,AZE,Azerbaijan,country
+AZ-SAL,Salyan,AZE,Azerbaijan,country
+AZ-SMI,Şamaxı,AZE,Azerbaijan,country
+AZ-SMX,Samux,AZE,Azerbaijan,country
+AZ-SAD,Sədərək,AZE,Azerbaijan,country
+AZE-1727,Şəki,AZE,Azerbaijan,country
+AZE-5564,Şəki,AZE,Azerbaijan,country
+AZ-SKR,Şəmkir,AZE,Azerbaijan,country
+AZ-SAR,Şərur,AZE,Azerbaijan,country
+AZ-SR,Shirvan,AZE,Azerbaijan,country
+AZ-SIY,Siyəzən,AZE,Azerbaijan,country
+AZ-XA,Stepanakert,AZE,Azerbaijan,country
+AZ-SM,Sumqayıt,AZE,Azerbaijan,country
+AZ-SUS,Şuşa,AZE,Azerbaijan,country
+AZE-5565,Şuşa,AZE,Azerbaijan,country
+AZ-TAR,Tərtər,AZE,Azerbaijan,country
+AZ-TOV,Tovuz,AZE,Azerbaijan,country
+AZ-UCA,Ucar,AZE,Azerbaijan,country
+AZ-XAC,Xaçmaz,AZE,Azerbaijan,country
+AZ-GYG,Xanlar,AZE,Azerbaijan,country
+AZ-XIZ,Xizı,AZE,Azerbaijan,country
+AZ-XCI,Xocalı,AZE,Azerbaijan,country
+AZ-XVD,Xocavənd,AZE,Azerbaijan,country
+AZ-YAR,Yardımlı,AZE,Azerbaijan,country
+AZE-5566,Yevlakh,AZE,Azerbaijan,country
+AZE-1688,Yevlakh Rayon,AZE,Azerbaijan,country
+AZ-ZAQ,Zaqatala,AZE,Azerbaijan,country
+AZ-ZAN,Zəngilan,AZE,Azerbaijan,country
+AZ-ZAR,Zərdab,AZE,Azerbaijan,country
+BS-AK,Acklins,BHS,Bahamas,country
+BS-BY,Berry Islands,BHS,Bahamas,country
+BS-BI,Bimini,BHS,Bahamas,country
+BS-BP,Black Point,BHS,Bahamas,country
+BS-CI,Cat Island,BHS,Bahamas,country
+BS-CO,Central Abaco,BHS,Bahamas,country
+BS-CS,Central Andros,BHS,Bahamas,country
+BS-CE,Central Eleuthera,BHS,Bahamas,country
+BS-FP,City of Freeport,BHS,Bahamas,country
+BS-CK,Crooked Island and Long Cay,BHS,Bahamas,country
+BS-EG,East Grand Bahama,BHS,Bahamas,country
+BS-EX,Exuma,BHS,Bahamas,country
+BS-HI,Harbour Island,BHS,Bahamas,country
+BS-IN,Inagua,BHS,Bahamas,country
+BS-LI,Long Island,BHS,Bahamas,country
+BS-MC,Mangrove Cay,BHS,Bahamas,country
+BS-MG,Mayaguana,BHS,Bahamas,country
+BS-MI,Moore's Island,BHS,Bahamas,country
+BHS-5009,New Providence,BHS,Bahamas,country
+BS-NO,North Abaco,BHS,Bahamas,country
+BS-NS,North Andros,BHS,Bahamas,country
+BS-NE,North Eleuthera,BHS,Bahamas,country
+BS-RI,Ragged Island,BHS,Bahamas,country
+BS-RC,Rum Cay,BHS,Bahamas,country
+BS-SS,San Salvador,BHS,Bahamas,country
+BS-SO,South Abaco,BHS,Bahamas,country
+BS-SA,South Andros,BHS,Bahamas,country
+BS-SE,South Eleuthera,BHS,Bahamas,country
+BS-SW,Spanish Wells,BHS,Bahamas,country
+BS-WG,West Grand Bahama,BHS,Bahamas,country
+BH-14,Al Janūbīyah,BHR,Bahrain,country
+BH-13,Al Manāmah,BHR,Bahrain,country
+BH-15,Al Muḩarraq,BHR,Bahrain,country
+BH-16,Al Wusţá,BHR,Bahrain,country
+BH-17,Ash Shamālīyah,BHR,Bahrain,country
+KAB-00,Baykonur lease in Qyzylorda,KAB,Baikonur Cosmodrome,none
+BJN-ALL,Bajo Nuevo Bank (Petrel Islands),BJN,Bajo Nuevo Bank (Petrel Islands),none
+BD-A,Barisal,BGD,Bangladesh,country
+BD-B,Chittagong,BGD,Bangladesh,country
+BD-C,Dhaka,BGD,Bangladesh,country
+BD-D,Khulna,BGD,Bangladesh,country
+BD-E,Rajshahi,BGD,Bangladesh,country
+BD-F,Rangpur,BGD,Bangladesh,country
+BD-G,Sylhet,BGD,Bangladesh,country
+BB-01,Christ Church,BRB,Barbados,country
+BB-02,Saint Andrew,BRB,Barbados,country
+BB-03,Saint George,BRB,Barbados,country
+BB-04,Saint James,BRB,Barbados,country
+BB-05,Saint John,BRB,Barbados,country
+BB-06,Saint Joseph,BRB,Barbados,country
+BB-07,Saint Lucy,BRB,Barbados,country
+BB-08,Saint Michael,BRB,Barbados,country
+BB-09,Saint Peter,BRB,Barbados,country
+BB-10,Saint Philip,BRB,Barbados,country
+BB-11,Saint Thomas,BRB,Barbados,country
+BY-BR,Brest,BLR,Belarus,country
+BY-HM,City of Minsk,BLR,Belarus,country
+BY-HO,Gomel,BLR,Belarus,country
+BY-HR,Grodno,BLR,Belarus,country
+BY-MI,Minsk,BLR,Belarus,country
+BY-MA,Mogilev,BLR,Belarus,country
+BY-VI,Vitebsk,BLR,Belarus,country
+BE-VAN,Antwerp,BEL,Belgium,country
+BE-BRU,Brussels,BEL,Belgium,country
+BE-VOV,East Flanders,BEL,Belgium,country
+BE-VBR,Flemish Brabant,BEL,Belgium,country
+BE-WHT,Hainaut,BEL,Belgium,country
+BE-WLG,Liege,BEL,Belgium,country
+BE-VLI,Limburg,BEL,Belgium,country
+BE-WLX,Luxembourg,BEL,Belgium,country
+BE-WNA,Namur,BEL,Belgium,country
+BE-WBR,Walloon Brabant,BEL,Belgium,country
+BE-VWV,West Flanders,BEL,Belgium,country
+BZ-BZ,Belize,BLZ,Belize,country
+BZ-CY,Cayo,BLZ,Belize,country
+BZ-CZL,Corozal,BLZ,Belize,country
+BZ-OW,Orange Walk,BLZ,Belize,country
+BZ-SC,Stann Creek,BLZ,Belize,country
+BZ-TOL,Toledo,BLZ,Belize,country
+BJ-AL,Alibori,BEN,Benin,country
+BJ-AK,Atakora,BEN,Benin,country
+BJ-AQ,Atlantique,BEN,Benin,country
+BJ-BO,Borgou,BEN,Benin,country
+BJ-CO,Collines,BEN,Benin,country
+BJ-DO,Donga,BEN,Benin,country
+BJ-KO,Kouffo,BEN,Benin,country
+BJ-LI,Littoral,BEN,Benin,country
+BJ-MO,Mono,BEN,Benin,country
+BJ-OU,Ouémé,BEN,Benin,country
+BJ-PL,Plateau,BEN,Benin,country
+BJ-ZO,Zou,BEN,Benin,country
+BM-HA,City of Hamilton,BMU,Bermuda,country
+BM-SG,City of Saint George,BMU,Bermuda,country
+BM-DEV,Devonshire,BMU,Bermuda,country
+BM-HAM,Hamilton,BMU,Bermuda,country
+BM-PAG,Paget,BMU,Bermuda,country
+BM-PEM,Pembroke,BMU,Bermuda,country
+BM-SGE,Saint George's,BMU,Bermuda,country
+BM-SAN,Sandys,BMU,Bermuda,country
+BM-SMI,Smith's,BMU,Bermuda,country
+BM-SOU,Southampton,BMU,Bermuda,country
+BM-WAR,Warwick,BMU,Bermuda,country
+BT-33,Bumthang,BTN,Bhutan,country
+BT-12,Chhukha,BTN,Bhutan,country
+BT-21,Chirang,BTN,Bhutan,country
+BT-22,Daga,BTN,Bhutan,country
+BT-GA,Gasa,BTN,Bhutan,country
+BT-31,Geylegphug,BTN,Bhutan,country
+BT-13,Ha,BTN,Bhutan,country
+BT-44,Lhuntshi,BTN,Bhutan,country
+BT-42,Mongar,BTN,Bhutan,country
+BT-11,Paro,BTN,Bhutan,country
+BT-43,Pemagatsel,BTN,Bhutan,country
+BT-23,Punakha,BTN,Bhutan,country
+BT-14,Samchi,BTN,Bhutan,country
+BT-45,Samdrup Jongkhar,BTN,Bhutan,country
+BT-34,Shemgang,BTN,Bhutan,country
+BT-TY,Tashi Yangtse,BTN,Bhutan,country
+BT-41,Tashigang,BTN,Bhutan,country
+BT-15,Thimphu,BTN,Bhutan,country
+BT-32,Tongsa,BTN,Bhutan,country
+BT-24,Wangdi Phodrang,BTN,Bhutan,country
+BO-H,Chuquisaca,BOL,Bolivia,country
+BO-C,Cochabamba,BOL,Bolivia,country
+BO-B,El Beni,BOL,Bolivia,country
+BO-L,La Paz,BOL,Bolivia,country
+BO-O,Oruro,BOL,Bolivia,country
+BO-N,Pando,BOL,Bolivia,country
+BO-P,Potosí,BOL,Bolivia,country
+BO-S,Santa Cruz,BOL,Bolivia,country
+BO-T,Tarija,BOL,Bolivia,country
+BIH-4802,Banja Luka,BIH,Bosnia and Herzegovina,country
+BIH-4804,Bijeljina,BIH,Bosnia and Herzegovina,country
+BIH-2891,Bosnian Podrinje,BIH,Bosnia and Herzegovina,country
+BA-BRC,Brčko Distrikt,BIH,Bosnia and Herzegovina,country
+BIH-2226,Central Bosnia,BIH,Bosnia and Herzegovina,country
+BIH-4801,Doboj,BIH,Bosnia and Herzegovina,country
+BIH-4807,Foča,BIH,Bosnia and Herzegovina,country
+BIH-2228,Herzegovina-Neretva,BIH,Bosnia and Herzegovina,country
+BA-SRP,Posavina,BIH,Bosnia and Herzegovina,country
+BIH-2890,Sarajevo,BIH,Bosnia and Herzegovina,country
+BIH-4806,Sarajevo-romanija,BIH,Bosnia and Herzegovina,country
+BIH-4808,Trebinje,BIH,Bosnia and Herzegovina,country
+BIH-2887,Tuzla,BIH,Bosnia and Herzegovina,country
+BIH-2225,Una-Sana,BIH,Bosnia and Herzegovina,country
+BIH-4805,Vlasenica,BIH,Bosnia and Herzegovina,country
+BIH-2224,West Bosnia,BIH,Bosnia and Herzegovina,country
+BIH-2227,West Herzegovina,BIH,Bosnia and Herzegovina,country
+BIH-2889,Zenica-Doboj,BIH,Bosnia and Herzegovina,country
+BW-CE,Central,BWA,Botswana,country
+BW-FR,Francistown,BWA,Botswana,country
+BW-GA,Gaborone,BWA,Botswana,country
+BW-GH,Ghanzi,BWA,Botswana,country
+BW-JW,Jwaneng,BWA,Botswana,country
+BW-KG,Kgalagadi,BWA,Botswana,country
+BW-KL,Kgatleng,BWA,Botswana,country
+BW-KW,Kweneng,BWA,Botswana,country
+BW-LO,Lobatse,BWA,Botswana,country
+BW-NE,North-East,BWA,Botswana,country
+BW-NW,North-West,BWA,Botswana,country
+BW-SP,Selebi-Phikwe,BWA,Botswana,country
+BW-SE,South-East,BWA,Botswana,country
+BW-SO,Southern,BWA,Botswana,country
+BW-ST,Sowa,BWA,Botswana,country
+BR-AC,Acre,BRA,Brazil,country
+BR-AL,Alagoas,BRA,Brazil,country
+BR-AP,Amapá,BRA,Brazil,country
+BR-AM,Amazonas,BRA,Brazil,country
+BR-BA,Bahia,BRA,Brazil,country
+BR-CE,Ceará,BRA,Brazil,country
+BR-DF,Distrito Federal,BRA,Brazil,country
+BR-ES,Espírito Santo,BRA,Brazil,country
+BR-GO,Goiás,BRA,Brazil,country
+BR-MA,Maranhão,BRA,Brazil,country
+BR-MT,Mato Grosso,BRA,Brazil,country
+BR-MS,Mato Grosso do Sul,BRA,Brazil,country
+BR-MG,Minas Gerais,BRA,Brazil,country
+BR-PA,Pará,BRA,Brazil,country
+BR-PB,Paraíba,BRA,Brazil,country
+BR-PR,Paraná,BRA,Brazil,country
+BR-PE,Pernambuco,BRA,Brazil,country
+BR-PI,Piauí,BRA,Brazil,country
+BR-RJ,Rio de Janeiro,BRA,Brazil,country
+BR-RN,Rio Grande do Norte,BRA,Brazil,country
+BR-RS,Rio Grande do Sul,BRA,Brazil,country
+BR-RO,Rondônia,BRA,Brazil,country
+BR-RR,Roraima,BRA,Brazil,country
+BR-SC,Santa Catarina,BRA,Brazil,country
+BR-SP,São Paulo,BRA,Brazil,country
+BR-SE,Sergipe,BRA,Brazil,country
+BR-TO,Tocantins,BRA,Brazil,country
+BRI-ALL,Brazilian Island,BRI,Brazilian Island,none
+IOT-00,British Indian Ocean Territory,IOT,British Indian Ocean Territory,none
+VGB-00,British Virgin Islands,VGB,British Virgin Islands,country
+BN-BE,Belait,BRN,Brunei Darussalam,country
+BN-BM,Brunei and Muara,BRN,Brunei Darussalam,country
+BN-TE,Temburong,BRN,Brunei Darussalam,country
+BN-TU,Tutong,BRN,Brunei Darussalam,country
+BG-01,Blagoevgrad,BGR,Bulgaria,country
+BG-02,Burgas,BGR,Bulgaria,country
+BG-08,Dobrich,BGR,Bulgaria,country
+BG-07,Gabrovo,BGR,Bulgaria,country
+BG-22,Grad Sofiya,BGR,Bulgaria,country
+BG-26,Haskovo,BGR,Bulgaria,country
+BG-09,Kardzhali,BGR,Bulgaria,country
+BG-10,Kyustendil,BGR,Bulgaria,country
+BG-11,Lovech,BGR,Bulgaria,country
+BG-12,Montana,BGR,Bulgaria,country
+BG-13,Pazardzhik,BGR,Bulgaria,country
+BG-14,Pernik,BGR,Bulgaria,country
+BG-15,Pleven,BGR,Bulgaria,country
+BG-16,Plovdiv,BGR,Bulgaria,country
+BG-17,Razgrad,BGR,Bulgaria,country
+BG-18,Ruse,BGR,Bulgaria,country
+BG-27,Shumen,BGR,Bulgaria,country
+BG-19,Silistra,BGR,Bulgaria,country
+BG-20,Sliven,BGR,Bulgaria,country
+BG-21,Smolyan,BGR,Bulgaria,country
+BG-23,Sofia,BGR,Bulgaria,country
+BG-24,Stara Zagora,BGR,Bulgaria,country
+BG-25,Targovishte,BGR,Bulgaria,country
+BG-03,Varna,BGR,Bulgaria,country
+BG-04,Veliko Tarnovo,BGR,Bulgaria,country
+BG-05,Vidin,BGR,Bulgaria,country
+BG-06,Vratsa,BGR,Bulgaria,country
+BG-28,Yambol,BGR,Bulgaria,country
+BF-BAL,Balé,BFA,Burkina Faso,country
+BF-BAM,Bam,BFA,Burkina Faso,country
+BF-BAN,Banwa,BFA,Burkina Faso,country
+BF-BAZ,Bazéga,BFA,Burkina Faso,country
+BF-BGR,Bougouriba,BFA,Burkina Faso,country
+BF-BLG,Boulgou,BFA,Burkina Faso,country
+BF-BLK,Boulkiemdé,BFA,Burkina Faso,country
+BF-GAN,Ganzourgou,BFA,Burkina Faso,country
+BF-GNA,Gnagna,BFA,Burkina Faso,country
+BF-GOU,Gourma,BFA,Burkina Faso,country
+BF-HOU,Houet,BFA,Burkina Faso,country
+BF-IOB,Ioba,BFA,Burkina Faso,country
+BF-KAD,Kadiogo,BFA,Burkina Faso,country
+BF-KEN,Kénédougou,BFA,Burkina Faso,country
+BF-COM,Komoé,BFA,Burkina Faso,country
+BF-KMD,Komondjari,BFA,Burkina Faso,country
+BF-KMP,Kompienga,BFA,Burkina Faso,country
+BF-KOS,Kossi,BFA,Burkina Faso,country
+BF-KOP,Koulpélogo,BFA,Burkina Faso,country
+BF-KOT,Kouritenga,BFA,Burkina Faso,country
+BF-KOW,Kourwéogo,BFA,Burkina Faso,country
+BF-LER,Léraba,BFA,Burkina Faso,country
+BF-LOR,Loroum,BFA,Burkina Faso,country
+BF-MOU,Mou Houn,BFA,Burkina Faso,country
+BF-NAO,Nahouri,BFA,Burkina Faso,country
+BF-NAM,Namentenga,BFA,Burkina Faso,country
+BF-NAY,Nayala,BFA,Burkina Faso,country
+BF-NOU,Noumbiel,BFA,Burkina Faso,country
+BF-OUB,Oubritenga,BFA,Burkina Faso,country
+BF-OUD,Oudalan,BFA,Burkina Faso,country
+BF-PAS,Passoré,BFA,Burkina Faso,country
+BF-PON,Poni,BFA,Burkina Faso,country
+BF-SNG,Sanguié,BFA,Burkina Faso,country
+BF-SMT,Sanmatenga,BFA,Burkina Faso,country
+BF-SEN,Séno,BFA,Burkina Faso,country
+BF-SIS,Sissili,BFA,Burkina Faso,country
+BF-SOM,Soum,BFA,Burkina Faso,country
+BF-SOR,Sourou,BFA,Burkina Faso,country
+BF-TAP,Tapoa,BFA,Burkina Faso,country
+BF-TUI,Tuy,BFA,Burkina Faso,country
+BF-YAG,Yagha,BFA,Burkina Faso,country
+BF-YAT,Yatenga,BFA,Burkina Faso,country
+BF-ZIR,Ziro,BFA,Burkina Faso,country
+BF-ZON,Zondoma,BFA,Burkina Faso,country
+BF-ZOU,Zoundwéogo,BFA,Burkina Faso,country
+BI-BB,Bubanza,BDI,Burundi,country
+BI-BM,Bujumbura Mairie,BDI,Burundi,country
+BI-BL,Bujumbura Rural,BDI,Burundi,country
+BI-BR,Bururi,BDI,Burundi,country
+BI-CA,Cankuzo,BDI,Burundi,country
+BI-CI,Cibitoke,BDI,Burundi,country
+BI-GI,Gitega,BDI,Burundi,country
+BI-KR,Karuzi,BDI,Burundi,country
+BI-KY,Kayanza,BDI,Burundi,country
+BI-KI,Kirundo,BDI,Burundi,country
+BI-MA,Makamba,BDI,Burundi,country
+BI-MU,Muramvya,BDI,Burundi,country
+BI-MY,Muyinga,BDI,Burundi,country
+BI-MW,Mwaro,BDI,Burundi,country
+BI-NG,Ngozi,BDI,Burundi,country
+BI-RT,Rutana,BDI,Burundi,country
+BI-RY,Ruyigi,BDI,Burundi,country
+KH-1,Bântéay Méanchey,KHM,Cambodia,country
+KH-2,Batdâmbâng,KHM,Cambodia,country
+KH-3,Kâmpóng Cham,KHM,Cambodia,country
+KH-4,Kâmpóng Chhnang,KHM,Cambodia,country
+KH-5,Kâmpóng Spœ,KHM,Cambodia,country
+KH-6,Kâmpóng Thum,KHM,Cambodia,country
+KH-7,Kâmpôt,KHM,Cambodia,country
+KH-8,Kândal,KHM,Cambodia,country
+KH-9,Kaôh Kong,KHM,Cambodia,country
+KH-23,Kep,KHM,Cambodia,country
+KH-10,Krâchéh,KHM,Cambodia,country
+KH-24,Krong Pailin,KHM,Cambodia,country
+KH-18,Krong Preah Sihanouk,KHM,Cambodia,country
+KH-11,Môndól Kiri,KHM,Cambodia,country
+KH-22,Otdar Mean Chey,KHM,Cambodia,country
+KH-12,Phnom Penh,KHM,Cambodia,country
+KH-15,Pouthisat,KHM,Cambodia,country
+KH-13,Preah Vihéar,KHM,Cambodia,country
+KH-14,Prey Vêng,KHM,Cambodia,country
+KH-16,Rôtânôkiri,KHM,Cambodia,country
+KH-17,Siemréab,KHM,Cambodia,country
+KH-19,Stœng Trêng,KHM,Cambodia,country
+KH-20,Svay Rieng,KHM,Cambodia,country
+KH-21,Takêv,KHM,Cambodia,country
+CM-AD,Adamaoua,CMR,Cameroon,country
+CM-CE,Centre,CMR,Cameroon,country
+CM-ES,Est,CMR,Cameroon,country
+CM-EN,Extrême-Nord,CMR,Cameroon,country
+CM-LT,Littoral,CMR,Cameroon,country
+CM-NO,Nord,CMR,Cameroon,country
+CM-NW,Nord-Ouest,CMR,Cameroon,country
+CM-OU,Ouest,CMR,Cameroon,country
+CM-SU,Sud,CMR,Cameroon,country
+CM-SW,Sud-Ouest,CMR,Cameroon,country
+CA-AB,Alberta,CAN,Canada,country
+CA-BC,British Columbia,CAN,Canada,country
+CA-MB,Manitoba,CAN,Canada,country
+CA-NB,New Brunswick,CAN,Canada,country
+CA-NL,Newfoundland and Labrador,CAN,Canada,country
+CA-NT,Northwest Territories,CAN,Canada,country
+CA-NS,Nova Scotia,CAN,Canada,country
+CA-NU,Nunavut,CAN,Canada,country
+CA-ON,Ontario,CAN,Canada,country
+CA-PE,Prince Edward Island,CAN,Canada,country
+CA-QC,Québec,CAN,Canada,country
+CA-SK,Saskatchewan,CAN,Canada,country
+CA-YT,Yukon,CAN,Canada,country
+CYM-00,Cayman Islands,CYM,Cayman Islands,country
+CF-BB,Bamingui-Bangoran,CAF,Central African Republic,country
+CF-BGF,Bangui,CAF,Central African Republic,country
+CF-BK,Basse-Kotto,CAF,Central African Republic,country
+CF-HM,Haut-Mbomou,CAF,Central African Republic,country
+CF-HK,Haute-Kotto,CAF,Central African Republic,country
+CF-KG,Kémo,CAF,Central African Republic,country
+CF-LB,Lobaye,CAF,Central African Republic,country
+CF-HS,Mambéré-Kadéï,CAF,Central African Republic,country
+CF-MB,Mbomou,CAF,Central African Republic,country
+CF-KB,Nana-Grébizi,CAF,Central African Republic,country
+CF-NM,Nana-Mambéré,CAF,Central African Republic,country
+CF-MP,Ombella-M'Poko,CAF,Central African Republic,country
+CF-UK,Ouaka,CAF,Central African Republic,country
+CF-AC,Ouham,CAF,Central African Republic,country
+CF-OP,Ouham-Pendé,CAF,Central African Republic,country
+CF-SE,Sangha-Mbaéré,CAF,Central African Republic,country
+CF-VK,Vakaga,CAF,Central African Republic,country
+TD-BG,Barh El Gazel,TCD,Chad,country
+TD-BA,Batha,TCD,Chad,country
+TD-BO,Borkou,TCD,Chad,country
+TD-CB,Chari-Baguirmi,TCD,Chad,country
+TCD-5579,Ennedi,TCD,Chad,country
+TD-GR,Guéra,TCD,Chad,country
+TD-HL,Hadjer-Lamis,TCD,Chad,country
+TD-KA,Kanem,TCD,Chad,country
+TD-LC,Lac,TCD,Chad,country
+TD-LO,Logone Occidental,TCD,Chad,country
+TD-LR,Logone Oriental,TCD,Chad,country
+TD-MA,Mandoul,TCD,Chad,country
+TD-ME,Mayo-Kebbi Est,TCD,Chad,country
+TD-MO,Mayo-Kebbi Ouest,TCD,Chad,country
+TD-MC,Moyen-Chari,TCD,Chad,country
+TD-OD,Ouaddaï,TCD,Chad,country
+TD-SA,Salamat,TCD,Chad,country
+TD-SI,Sila,TCD,Chad,country
+TD-TA,Tandjilé,TCD,Chad,country
+TD-TI,Tibesti,TCD,Chad,country
+TD-ND,Ville de N'Djamena,TCD,Chad,country
+TD-WF,Wadi Fira,TCD,Chad,country
+CL-AI,Aisén del General Carlos Ibáñez del Campo,CHL,Chile,country
+CL-AN,Antofagasta,CHL,Chile,country
+CL-AP,Arica y Parinacota,CHL,Chile,country
+CL-AT,Atacama,CHL,Chile,country
+CL-BI,Bío-Bío,CHL,Chile,country
+CL-CO,Coquimbo,CHL,Chile,country
+CL-AR,La Araucanía,CHL,Chile,country
+CL-LI,Libertador General Bernardo O'Higgins,CHL,Chile,country
+CL-LL,Los Lagos,CHL,Chile,country
+CL-LR,Los Ríos,CHL,Chile,country
+CL-MA,Magallanes y Antártica Chilena,CHL,Chile,country
+CL-ML,Maule,CHL,Chile,country
+CL-NB,Ñuble,CHL,Chile,country
+CL-RM,Región Metropolitana de Santiago,CHL,Chile,country
+CL-TA,Tarapacá,CHL,Chile,country
+CL-VS,Valparaíso,CHL,Chile,country
+CN-AH,Anhui,CHN,China,country
+CN-BJ,Beijing,CHN,China,country
+CN-CQ,Chongqing,CHN,China,country
+CN-FJ,Fujian,CHN,China,country
+CN-GS,Gansu,CHN,China,country
+CN-GD,Guangdong,CHN,China,country
+CN-GX,Guangxi,CHN,China,country
+CN-GZ,Guizhou,CHN,China,country
+CN-HI,Hainan,CHN,China,country
+CN-HE,Hebei,CHN,China,country
+CN-HL,Heilongjiang,CHN,China,country
+CN-HA,Henan,CHN,China,country
+CN-HB,Hubei,CHN,China,country
+CN-HN,Hunan,CHN,China,country
+CN-NM,Inner Mongol,CHN,China,country
+CN-JS,Jiangsu,CHN,China,country
+CN-JX,Jiangxi,CHN,China,country
+CN-JL,Jilin,CHN,China,country
+CN-LN,Liaoning,CHN,China,country
+CN-NX,Ningxia,CHN,China,country
+PFA-00,Paracel Islands,CHN,China,country
+CN-QH,Qinghai,CHN,China,country
+CN-SN,Shaanxi,CHN,China,country
+CN-SD,Shandong,CHN,China,country
+CN-SH,Shanghai,CHN,China,country
+CN-SX,Shanxi,CHN,China,country
+CN-SC,Sichuan,CHN,China,country
+CN-TJ,Tianjin,CHN,China,country
+CN-XJ,Xinjiang,CHN,China,country
+CN-XZ,Xizang,CHN,China,country
+CN-YN,Yunnan,CHN,China,country
+CN-ZJ,Zhejiang,CHN,China,country
+CLP-00,Clipperton Island,CLP,Clipperton Island,none
+CO-AMA,Amazonas,COL,Colombia,country
+CO-ANT,Antioquia,COL,Colombia,country
+CO-ARA,Arauca,COL,Colombia,country
+CO-ATL,Atlántico,COL,Colombia,country
+COL-1399,Bogota,COL,Colombia,country
+CO-BOL,Bolívar,COL,Colombia,country
+CO-BOY,Boyacá,COL,Colombia,country
+CO-CAL,Caldas,COL,Colombia,country
+CO-CAQ,Caquetá,COL,Colombia,country
+CO-CAS,Casanare,COL,Colombia,country
+CO-CAU,Cauca,COL,Colombia,country
+CO-CES,Cesar,COL,Colombia,country
+CO-CHO,Chocó,COL,Colombia,country
+COL-99,Colombia,COL,Colombia,country
+CO-COR,Córdoba,COL,Colombia,country
+COL-1398,Cundinamarca,COL,Colombia,country
+CO-GUA,Guainía,COL,Colombia,country
+CO-GUV,Guaviare,COL,Colombia,country
+CO-HUI,Huila,COL,Colombia,country
+CO-LAG,La Guajira,COL,Colombia,country
+CO-MAG,Magdalena,COL,Colombia,country
+CO-MET,Meta,COL,Colombia,country
+CO-NAR,Nariño,COL,Colombia,country
+CO-NSA,Norte de Santander,COL,Colombia,country
+CO-PUT,Putumayo,COL,Colombia,country
+CO-QUI,Quindío,COL,Colombia,country
+CO-RIS,Risaralda,COL,Colombia,country
+CO-SAP,San Andrés y Providencia,COL,Colombia,country
+CO-SAN,Santander,COL,Colombia,country
+CO-SUC,Sucre,COL,Colombia,country
+CO-TOL,Tolima,COL,Colombia,country
+CO-VAC,Valle del Cauca,COL,Colombia,country
+CO-VAU,Vaupés,COL,Colombia,country
+CO-VID,Vichada,COL,Colombia,country
+KM-G,Andjazîdja,COM,Comoros,country
+KM-A,Andjouân,COM,Comoros,country
+KM-M,Moûhîlî,COM,Comoros,country
+COK-4951,Aitutaki,COK,Cook Islands,none
+COK-4950,Atiu,COK,Cook Islands,none
+COK-4952,Mangaia,COK,Cook Islands,none
+COK-4961,Manihiki,COK,Cook Islands,none
+COK-4955,Mauke,COK,Cook Islands,none
+COK-4954,Mitiaro,COK,Cook Islands,none
+COK-4956,Palmerston,COK,Cook Islands,none
+COK-4962,Penrhyn,COK,Cook Islands,none
+COK-4959,Pukapuka,COK,Cook Islands,none
+COK-4960,Rakahanga,COK,Cook Islands,none
+COK-4953,Rarotonga,COK,Cook Islands,none
+CSI-00,Coral Sea Islands,CSI,Coral Sea Islands,none
+CR-A,Alajuela,CRI,Costa Rica,country
+CR-C,Cartago,CRI,Costa Rica,country
+CR-G,Guanacaste,CRI,Costa Rica,country
+CR-H,Heredia,CRI,Costa Rica,country
+CR-L,Limón,CRI,Costa Rica,country
+CR-P,Puntarenas,CRI,Costa Rica,country
+CR-SJ,San José,CRI,Costa Rica,country
+CI-16,Agnéby,CIV,Côte d'Ivoire,country
+CI-17,Bafing,CIV,Côte d'Ivoire,country
+CI-09,Bas-Sassandra,CIV,Côte d'Ivoire,country
+CI-19,Cavally,CIV,Côte d'Ivoire,country
+CI-05,Comoe,CIV,Côte d'Ivoire,country
+CI-10,Denguélé,CIV,Côte d'Ivoire,country
+CI-06,Dix-Huit Montagnes,CIV,Côte d'Ivoire,country
+CI-18,Fromager,CIV,Côte d'Ivoire,country
+CI-02,Haut-Sassandra,CIV,Côte d'Ivoire,country
+CI-07,Lacs,CIV,Côte d'Ivoire,country
+CI-01,Lagunes,CIV,Côte d'Ivoire,country
+CI-12,Marahoué,CIV,Côte d'Ivoire,country
+CI-11,N'zi-Comoé,CIV,Côte d'Ivoire,country
+CI-03,Savanes,CIV,Côte d'Ivoire,country
+CI-15,Sud-Bandama,CIV,Côte d'Ivoire,country
+CI-13,Sud-Comoé,CIV,Côte d'Ivoire,country
+CI-04,Vallée du Bandama,CIV,Côte d'Ivoire,country
+CI-14,Worodougou,CIV,Côte d'Ivoire,country
+CI-08,Zanzan,CIV,Côte d'Ivoire,country
+HR-07,Bjelovarsko-bilogorska,HRV,Croatia,country
+HRV-1602,Brodsko-Posavska,HRV,Croatia,country
+HRV-1604,Brodsko-Posavska,HRV,Croatia,country
+HR-19,Dubrovacko-Neretvanska,HRV,Croatia,country
+HR-21,Grad Zagreb,HRV,Croatia,country
+HR-18,Istarska,HRV,Croatia,country
+HR-04,Karlovacka,HRV,Croatia,country
+HR-06,Koprivničko-Križevačka,HRV,Croatia,country
+HR-02,Krapinsko-Zagorska,HRV,Croatia,country
+HR-09,Licko-Senjska,HRV,Croatia,country
+HR-20,Medimurska,HRV,Croatia,country
+HR-14,Osjecko-Baranjska,HRV,Croatia,country
+HR-08,Primorsko-Goranska,HRV,Croatia,country
+HR-15,Šibensko-Kninska,HRV,Croatia,country
+HR-03,Sisacko-Moslavacka,HRV,Croatia,country
+HR-17,Splitsko-Dalmatinska,HRV,Croatia,country
+HR-05,Varaždinska,HRV,Croatia,country
+HR-10,Viroviticko-Podravska,HRV,Croatia,country
+HR-16,Vukovarsko-Srijemska,HRV,Croatia,country
+HR-13,Zadarska,HRV,Croatia,country
+HR-01,Zagrebacka,HRV,Croatia,country
+CU-15,Artemisa,CUB,Cuba,country
+CU-09,Camagüey,CUB,Cuba,country
+CU-08,Ciego de Ávila,CUB,Cuba,country
+CU-06,Cienfuegos,CUB,Cuba,country
+CU-03,Ciudad de la Habana,CUB,Cuba,country
+CU-12,Granma,CUB,Cuba,country
+CU-14,Guantánamo,CUB,Cuba,country
+CU-11,Holguín,CUB,Cuba,country
+CU-99,Isla de la Juventud,CUB,Cuba,country
+CU-10,Las Tunas,CUB,Cuba,country
+CU-04,Matanzas,CUB,Cuba,country
+CU-16,Mayabeque,CUB,Cuba,country
+CU-01,Pinar del Río,CUB,Cuba,country
+CU-07,Sancti Spíritus,CUB,Cuba,country
+CU-13,Santiago de Cuba,CUB,Cuba,country
+CU-05,Villa Clara,CUB,Cuba,country
+CUW-5151,Curaçao,CUW,Curaçao,country
+CY-04,Famagusta,CYP,Cyprus,country
+CY-03,Larnaca,CYP,Cyprus,country
+CY-02,Limassol,CYP,Cyprus,country
+CY-01,Nicosia,CYP,Cyprus,country
+CY-05,Paphos,CYP,Cyprus,country
+CNM-ALL,Cyprus U.N. Buffer Zone,CNM,Cyprus U.N. Buffer Zone,none
+CZ-JC,Jihočeský,CZE,Czech Republic,country
+CZ-JM,Jihomoravský,CZE,Czech Republic,country
+CZ-KA,Karlovarský,CZE,Czech Republic,country
+CZ-KR,Královéhradecký,CZE,Czech Republic,country
+CZ-LI,Liberecký,CZE,Czech Republic,country
+CZ-MO,Moravskoslezský,CZE,Czech Republic,country
+CZ-OL,Olomoucký,CZE,Czech Republic,country
+CZ-PA,Pardubický,CZE,Czech Republic,country
+CZ-PL,Plzeňský,CZE,Czech Republic,country
+CZ-PR,Prague,CZE,Czech Republic,country
+CZ-ST,Středočeský,CZE,Czech Republic,country
+CZ-US,Ústecký,CZE,Czech Republic,country
+CZ-VY,Vysočina,CZE,Czech Republic,country
+CZ-ZL,Zlínský,CZE,Czech Republic,country
+KP-04,Chagang-do,PRK,Dem. Rep. Korea,country
+KP-09,Hamgyŏng-bukto,PRK,Dem. Rep. Korea,country
+KP-08,Hamgyŏng-namdo,PRK,Dem. Rep. Korea,country
+KP-06,Hwanghae-bukto,PRK,Dem. Rep. Korea,country
+KP-05,Hwanghae-namdo,PRK,Dem. Rep. Korea,country
+KP-07,Kangwŏn-do,PRK,Dem. Rep. Korea,country
+KP-03,P'yŏngan-bukto,PRK,Dem. Rep. Korea,country
+KP-02,P'yŏngan-namdo,PRK,Dem. Rep. Korea,country
+KP-01,P'yŏngyang,PRK,Dem. Rep. Korea,country
+KP-13,Rasŏn,PRK,Dem. Rep. Korea,country
+KP-10,Ryanggang,PRK,Dem. Rep. Korea,country
+CD-BN,Bandundu,COD,Democratic Republic of the Congo,country
+CD-BC,Bas-Congo,COD,Democratic Republic of the Congo,country
+CD-EQ,Équateur,COD,Democratic Republic of the Congo,country
+CD-KW,Kasaï-Occidental,COD,Democratic Republic of the Congo,country
+CD-KE,Kasaï-Oriental,COD,Democratic Republic of the Congo,country
+CD-KA,Katanga,COD,Democratic Republic of the Congo,country
+CD-KN,Kinshasa City,COD,Democratic Republic of the Congo,country
+CD-MA,Maniema,COD,Democratic Republic of the Congo,country
+CD-NK,Nord-Kivu,COD,Democratic Republic of the Congo,country
+CD-OR,Orientale,COD,Democratic Republic of the Congo,country
+CD-SK,Sud-Kivu,COD,Democratic Republic of the Congo,country
+DK-84,Hovedstaden,DNK,Denmark,country
+DK-82,Midtjylland,DNK,Denmark,country
+DK-81,Nordjylland,DNK,Denmark,country
+DK-85,Sjaælland,DNK,Denmark,country
+DK-83,Syddanmark,DNK,Denmark,country
+ESB-5132,Dhekelia,ESB,Dhekelia,none
+DJ-AS,Ali Sabieh,DJI,Djibouti,country
+DJ-AR,Arta,DJI,Djibouti,country
+DJ-DI,Dikhil,DJI,Djibouti,country
+DJ-DJ,Djibouti,DJI,Djibouti,country
+DJ-OB,Obock,DJI,Djibouti,country
+DJ-TA,Tadjourah,DJI,Djibouti,country
+DM-02,Saint Andrew,DMA,Dominica,country
+DM-03,Saint David,DMA,Dominica,country
+DM-04,Saint George,DMA,Dominica,country
+DM-05,Saint John,DMA,Dominica,country
+DM-06,Saint Joseph,DMA,Dominica,country
+DM-07,Saint Luke,DMA,Dominica,country
+DM-08,Saint Mark,DMA,Dominica,country
+DM-09,Saint Patrick,DMA,Dominica,country
+DM-10,Saint Paul,DMA,Dominica,country
+DM-11,Saint Peter,DMA,Dominica,country
+DO-02,Azua,DOM,Dominican Republic,country
+DO-03,Bahoruco,DOM,Dominican Republic,country
+DO-04,Barahona,DOM,Dominican Republic,country
+DO-05,Dajabón,DOM,Dominican Republic,country
+DO-01,Distrito Nacional,DOM,Dominican Republic,country
+DO-06,Duarte,DOM,Dominican Republic,country
+DO-08,El Seybo,DOM,Dominican Republic,country
+DO-09,Espaillat,DOM,Dominican Republic,country
+DO-30,Hato Mayor,DOM,Dominican Republic,country
+DO-19,Hermanas,DOM,Dominican Republic,country
+DO-10,Independencia,DOM,Dominican Republic,country
+DO-11,La Altagracia,DOM,Dominican Republic,country
+DO-07,La Estrelleta,DOM,Dominican Republic,country
+DO-12,La Romana,DOM,Dominican Republic,country
+DO-13,La Vega,DOM,Dominican Republic,country
+DO-14,María Trinidad Sánchez,DOM,Dominican Republic,country
+DO-28,Monseñor Nouel,DOM,Dominican Republic,country
+DO-15,Monte Cristi,DOM,Dominican Republic,country
+DO-29,Monte Plata,DOM,Dominican Republic,country
+DO-16,Pedernales,DOM,Dominican Republic,country
+DO-17,Peravia,DOM,Dominican Republic,country
+DO-18,Puerto Plata,DOM,Dominican Republic,country
+DO-20,Samaná,DOM,Dominican Republic,country
+DO-21,San Cristóbal,DOM,Dominican Republic,country
+DO-31,San José de Ocoa,DOM,Dominican Republic,country
+DO-22,San Juan,DOM,Dominican Republic,country
+DO-23,San Pedro de Macorís,DOM,Dominican Republic,country
+DO-24,Sánchez Ramírez,DOM,Dominican Republic,country
+DO-25,Santiago,DOM,Dominican Republic,country
+DO-26,Santiago Rodríguez,DOM,Dominican Republic,country
+DO-32,Santo Domingo,DOM,Dominican Republic,country
+DO-27,Valverde,DOM,Dominican Republic,country
+EC-A,Azuay,ECU,Ecuador,country
+EC-B,Bolivar,ECU,Ecuador,country
+EC-F,Cañar,ECU,Ecuador,country
+EC-C,Carchi,ECU,Ecuador,country
+EC-H,Chimborazo,ECU,Ecuador,country
+EC-X,Cotopaxi,ECU,Ecuador,country
+EC-O,El Oro,ECU,Ecuador,country
+EC-E,Esmeraldas,ECU,Ecuador,country
+EC-W,Galápagos,ECU,Ecuador,country
+EC-G,Guayas,ECU,Ecuador,country
+EC-I,Imbabura,ECU,Ecuador,country
+EC-L,Loja,ECU,Ecuador,country
+EC-R,Los Rios,ECU,Ecuador,country
+EC-M,Manabi,ECU,Ecuador,country
+EC-S,Morona Santiago,ECU,Ecuador,country
+EC-N,Napo,ECU,Ecuador,country
+EC-D,Orellana,ECU,Ecuador,country
+EC-Y,Pastaza,ECU,Ecuador,country
+EC-P,Pichincha,ECU,Ecuador,country
+EC-SE,Santa Elena,ECU,Ecuador,country
+EC-SD,Santo Domingo de los Tsáchilas,ECU,Ecuador,country
+EC-U,Sucumbios,ECU,Ecuador,country
+EC-T,Tungurahua,ECU,Ecuador,country
+EC-Z,Zamora Chinchipe,ECU,Ecuador,country
+EG-DK,Ad Daqahliyah,EGY,Egypt,country
+EG-BA,Al Bahr al Ahmar,EGY,Egypt,country
+EG-BH,Al Buhayrah,EGY,Egypt,country
+EG-FYM,Al Fayyum,EGY,Egypt,country
+EG-GH,Al Gharbiyah,EGY,Egypt,country
+EG-ALX,Al Iskandariyah,EGY,Egypt,country
+EG-IS,Al Isma`iliyah,EGY,Egypt,country
+EG-GZ,Al Jizah,EGY,Egypt,country
+EG-MNF,Al Minufiyah,EGY,Egypt,country
+EG-MN,Al Minya,EGY,Egypt,country
+EG-C,Al Qahirah,EGY,Egypt,country
+EG-KB,Al Qalyubiyah,EGY,Egypt,country
+EG-WAD,Al Wadi at Jadid,EGY,Egypt,country
+EG-SUZ,As Suways,EGY,Egypt,country
+EG-SHR,Ash Sharqiyah,EGY,Egypt,country
+EG-ASN,Aswan,EGY,Egypt,country
+EG-AST,Asyut,EGY,Egypt,country
+EG-BNS,Bani Suwayf,EGY,Egypt,country
+EG-PTS,Bur Sa`id,EGY,Egypt,country
+EG-DT,Dumyat,EGY,Egypt,country
+EG-JS,Janub Sina',EGY,Egypt,country
+EG-KFS,Kafr ash Shaykh,EGY,Egypt,country
+EG-LX,Luxor,EGY,Egypt,country
+EG-MT,Matruh,EGY,Egypt,country
+EG-KN,Qina,EGY,Egypt,country
+EG-SIN,Shamal Sina',EGY,Egypt,country
+EG-SHG,Suhaj,EGY,Egypt,country
+SV-AH,Ahuachapán,SLV,El Salvador,country
+SV-CA,Cabañas,SLV,El Salvador,country
+SV-CH,Chalatenango,SLV,El Salvador,country
+SV-CU,Cuscatlán,SLV,El Salvador,country
+SV-LI,La Libertad,SLV,El Salvador,country
+SV-PA,La Paz,SLV,El Salvador,country
+SV-UN,La Unión,SLV,El Salvador,country
+SV-MO,Morazán,SLV,El Salvador,country
+SV-SM,San Miguel,SLV,El Salvador,country
+SV-SS,San Salvador,SLV,El Salvador,country
+SV-SV,San Vicente,SLV,El Salvador,country
+SV-SA,Santa Ana,SLV,El Salvador,country
+SV-SO,Sonsonate,SLV,El Salvador,country
+SV-US,Usulután,SLV,El Salvador,country
+GQ-AN,Annobón,GNQ,Equatorial Guinea,country
+GQ-BN,Bioko Norte,GNQ,Equatorial Guinea,country
+GQ-BS,Bioko Sur,GNQ,Equatorial Guinea,country
+GQ-CS,Centro Sur,GNQ,Equatorial Guinea,country
+GQ-KN,Kié-Ntem,GNQ,Equatorial Guinea,country
+GQ-LI,Litoral,GNQ,Equatorial Guinea,country
+GQ-WN,Wele-Nzás,GNQ,Equatorial Guinea,country
+ER-AN,Anseba,ERI,Eritrea,country
+ER-DU,Debub,ERI,Eritrea,country
+ER-DK,Debubawi Keyih Bahri,ERI,Eritrea,country
+ER-GB,Gash Barka,ERI,Eritrea,country
+ER-MA,Maekel,ERI,Eritrea,country
+ER-SK,Semenawi Keyih Bahri,ERI,Eritrea,country
+EE-37,Harju,EST,Estonia,country
+EE-39,Hiiu,EST,Estonia,country
+EE-44,Ida-Viru,EST,Estonia,country
+EE-51,Järva,EST,Estonia,country
+EE-49,Jõgeva,EST,Estonia,country
+EE-57,Lääne,EST,Estonia,country
+EE-59,Lääne-Viru,EST,Estonia,country
+EE-67,Pärnu,EST,Estonia,country
+EE-65,Põlva,EST,Estonia,country
+EE-70,Rapla,EST,Estonia,country
+EE-74,Saare,EST,Estonia,country
+EE-78,Tartu,EST,Estonia,country
+EE-82,Valga,EST,Estonia,country
+EE-84,Viljandi,EST,Estonia,country
+EE-86,Võru,EST,Estonia,country
+ET-AA,Addis Ababa,ETH,Ethiopia,country
+ET-AF,Afar,ETH,Ethiopia,country
+ET-AM,Amhara,ETH,Ethiopia,country
+ET-BE,Benshangul-Gumaz,ETH,Ethiopia,country
+ET-DD,Dire Dawa,ETH,Ethiopia,country
+ET-GA,Gambela Peoples,ETH,Ethiopia,country
+ET-HA,Harari People,ETH,Ethiopia,country
+ET-OR,Oromiya,ETH,Ethiopia,country
+ET-SO,Somali,ETH,Ethiopia,country
+ET-SN,"Southern Nations, Nationalities and Peoples",ETH,Ethiopia,country
+ET-TI,Tigray,ETH,Ethiopia,country
+FRO-1443,Eysturoyar,FRO,Faeroe Islands,country
+FLK-5152,Falkland Islands,FLK,Falkland Islands / Malvinas,none
+FM-TRK,Chuuk,FSM,Federated States of Micronesia,country
+FM-KSA,Kosrae,FSM,Federated States of Micronesia,country
+FM-PNI,Pohnpei,FSM,Federated States of Micronesia,country
+FM-YAP,Yap,FSM,Federated States of Micronesia,country
+FJ-C,Central,FJI,Fiji,country
+FJ-E,Eastern,FJI,Fiji,country
+FJ-N,Northern,FJI,Fiji,country
+FJ-R,Rotuma,FJI,Fiji,country
+FJ-W,Western,FJI,Fiji,country
+FI-08,Central Finland,FIN,Finland,country
+FI-07,Central Ostrobothnia,FIN,Finland,country
+FI-19,Finland Proper,FIN,Finland,country
+FI-05,Kainuu,FIN,Finland,country
+FI-09,Kymenlaakso,FIN,Finland,country
+FI-10,Lapland,FIN,Finland,country
+FI-13,North Karelia,FIN,Finland,country
+FI-14,Northern Ostrobothnia,FIN,Finland,country
+FI-15,Northern Savonia,FIN,Finland,country
+FI-12,Ostrobothnia,FIN,Finland,country
+FI-16,Päijät-Häme,FIN,Finland,country
+FI-11,Pirkanmaa,FIN,Finland,country
+FI-17,Satakunta,FIN,Finland,country
+FI-02,South Karelia,FIN,Finland,country
+FI-03,Southern Ostrobothnia,FIN,Finland,country
+FI-04,Southern Savonia,FIN,Finland,country
+FI-06,Tavastia Proper,FIN,Finland,country
+FI-18,Uusimaa,FIN,Finland,country
+FR-01,Ain,FRA,France,country
+FR-02,Aisne,FRA,France,country
+FR-03,Allier,FRA,France,country
+FR-04,Alpes-de-Haute-Provence,FRA,France,country
+FR-06,Alpes-Maritimes,FRA,France,country
+FR-07,Ardèche,FRA,France,country
+FR-08,Ardennes,FRA,France,country
+FR-09,Ariège,FRA,France,country
+FR-10,Aube,FRA,France,country
+FR-11,Aude,FRA,France,country
+FR-12,Aveyron,FRA,France,country
+FR-67,Bas-Rhin,FRA,France,country
+FR-13,Bouches-du-Rhône,FRA,France,country
+FR-14,Calvados,FRA,France,country
+FR-15,Cantal,FRA,France,country
+FR-16,Charente,FRA,France,country
+FR-17,Charente-Maritime,FRA,France,country
+FR-18,Cher,FRA,France,country
+FR-19,Corrèze,FRA,France,country
+FR-2A,Corse-du-Sud,FRA,France,country
+FR-21,Côte-d'Or,FRA,France,country
+FR-22,Côtes-d'Armor,FRA,France,country
+FR-23,Creuse,FRA,France,country
+FR-79,Deux-Sèvres,FRA,France,country
+FR-24,Dordogne,FRA,France,country
+FR-25,Doubs,FRA,France,country
+FR-26,Drôme,FRA,France,country
+FR-91,Essonne,FRA,France,country
+FR-27,Eure,FRA,France,country
+FR-28,Eure-et-Loir,FRA,France,country
+FR-29,Finistère,FRA,France,country
+FR-30,Gard,FRA,France,country
+FR-32,Gers,FRA,France,country
+FR-33,Gironde,FRA,France,country
+FR-GP,Guadeloupe,FRA,France,country
+FR-GF,Guyane française,FRA,France,country
+FR-2B,Haute-Corse,FRA,France,country
+FR-31,Haute-Garonne,FRA,France,country
+FR-43,Haute-Loire,FRA,France,country
+FR-52,Haute-Marne,FRA,France,country
+FR-68,Haute-Rhin,FRA,France,country
+FR-70,Haute-Saône,FRA,France,country
+FR-74,Haute-Savoie,FRA,France,country
+FR-87,Haute-Vienne,FRA,France,country
+FR-05,Hautes-Alpes,FRA,France,country
+FR-65,Hautes-Pyrénées,FRA,France,country
+FR-92,Hauts-de-Seine,FRA,France,country
+FR-34,Hérault,FRA,France,country
+FR-35,Ille-et-Vilaine,FRA,France,country
+FR-36,Indre,FRA,France,country
+FR-37,Indre-et-Loire,FRA,France,country
+FR-38,Isère,FRA,France,country
+FR-39,Jura,FRA,France,country
+FR-RE,La Réunion,FRA,France,country
+FR-40,Landes,FRA,France,country
+FR-41,Loir-et-Cher,FRA,France,country
+FR-42,Loire,FRA,France,country
+FR-44,Loire-Atlantique,FRA,France,country
+FR-45,Loiret,FRA,France,country
+FR-46,Lot,FRA,France,country
+FR-47,Lot-et-Garonne,FRA,France,country
+FR-48,Lozère,FRA,France,country
+FR-49,Maine-et-Loire,FRA,France,country
+FR-50,Manche,FRA,France,country
+FR-51,Marne,FRA,France,country
+FR-MQ,Martinique,FRA,France,country
+FR-53,Mayenne,FRA,France,country
+FR-YT,Mayotte,FRA,France,country
+FR-54,Meurthe-et-Moselle,FRA,France,country
+FR-55,Meuse,FRA,France,country
+FR-56,Morbihan,FRA,France,country
+FR-57,Moselle,FRA,France,country
+FR-58,Nièvre,FRA,France,country
+FR-59,Nord,FRA,France,country
+FR-60,Oise,FRA,France,country
+FR-61,Orne,FRA,France,country
+FR-75,Paris,FRA,France,country
+FR-62,Pas-de-Calais,FRA,France,country
+FR-63,Puy-de-Dôme,FRA,France,country
+FR-64,Pyrénées-Atlantiques,FRA,France,country
+FR-66,Pyrénées-Orientales,FRA,France,country
+FR-69,Rhône,FRA,France,country
+FR-71,Saône-et-Loire,FRA,France,country
+FR-72,Sarthe,FRA,France,country
+FR-73,Savoie,FRA,France,country
+FR-77,Seien-et-Marne,FRA,France,country
+FR-76,Seine-Maritime,FRA,France,country
+FR-93,Seine-Saint-Denis,FRA,France,country
+FR-80,Somme,FRA,France,country
+FR-81,Tarn,FRA,France,country
+FR-82,Tarn-et-Garonne,FRA,France,country
+FR-90,Territoire de Belfort,FRA,France,country
+FR-95,Val-d'Oise,FRA,France,country
+FR-94,Val-de-Marne,FRA,France,country
+FR-83,Var,FRA,France,country
+FR-84,Vaucluse,FRA,France,country
+FR-85,Vendée,FRA,France,country
+FR-86,Vienne,FRA,France,country
+FR-88,Vosges,FRA,France,country
+FR-89,Yonne,FRA,France,country
+FR-78,Yvelines,FRA,France,country
+PYF-4966,Austral Islands,PYF,French Polynesia,country
+PYF-4964,Leeward Islands,PYF,French Polynesia,country
+PYF-4967,Marquesas Islands,PYF,French Polynesia,country
+PYF-4965,Tuamotu-Gambier,PYF,French Polynesia,country
+PYF-4963,Windward Islands,PYF,French Polynesia,country
+ATF-5917,Archipel des Crozet,ATF,French Southern and Antarctic Lands,none
+ATF-5916,Archipel des Kerguelen,ATF,French Southern and Antarctic Lands,none
+ATF-5919,Iles Eparses de l'ocean Indien,ATF,French Southern and Antarctic Lands,none
+ATF-5918,Iles Saint-Paul et Nouvelle-Amsterdam,ATF,French Southern and Antarctic Lands,none
+GA-1,Estuaire,GAB,Gabon,country
+GA-2,Haut-Ogooué,GAB,Gabon,country
+GA-3,Moyen-Ogooué,GAB,Gabon,country
+GA-4,Ngounié,GAB,Gabon,country
+GA-5,Nyanga,GAB,Gabon,country
+GA-6,Ogooué-Ivindo,GAB,Gabon,country
+GA-7,Ogooué-Lolo,GAB,Gabon,country
+GA-8,Ogooué-Maritime,GAB,Gabon,country
+GA-9,Wouleu-Ntem,GAB,Gabon,country
+GE-AB,Abkhazia,GEO,Georgia,country
+GE-AJ,Ajaria,GEO,Georgia,country
+GE-GU,Guria,GEO,Georgia,country
+GE-IM,Imereti,GEO,Georgia,country
+GE-KA,Kakheti,GEO,Georgia,country
+GE-KK,Kvemo Kartli,GEO,Georgia,country
+GE-MM,Mtskheta-Mtianeti,GEO,Georgia,country
+GE-RL,Racha-Lechkhumi-Kvemo Svaneti,GEO,Georgia,country
+GE-SZ,Samegrelo-Zemo Svaneti,GEO,Georgia,country
+GE-SJ,Samtskhe-Javakheti,GEO,Georgia,country
+GE-SK,Shida Kartli,GEO,Georgia,country
+GE-TB,Tbilisi,GEO,Georgia,country
+DE-BW,Baden-Württemberg,DEU,Germany,country
+DE-BY,Bayern,DEU,Germany,country
+DE-BE,Berlin,DEU,Germany,country
+DE-BB,Brandenburg,DEU,Germany,country
+DE-HB,Bremen,DEU,Germany,country
+DE-HH,Hamburg,DEU,Germany,country
+DE-HE,Hessen,DEU,Germany,country
+DE-MV,Mecklenburg-Vorpommern,DEU,Germany,country
+DE-NI,Niedersachsen,DEU,Germany,country
+DE-NW,Nordrhein-Westfalen,DEU,Germany,country
+DE-RP,Rheinland-Pfalz,DEU,Germany,country
+DE-SL,Saarland,DEU,Germany,country
+DE-SN,Sachsen,DEU,Germany,country
+DE-ST,Sachsen-Anhalt,DEU,Germany,country
+DE-SH,Schleswig-Holstein,DEU,Germany,country
+DE-TH,Thüringen,DEU,Germany,country
+GH-AH,Ashanti,GHA,Ghana,country
+GH-BA,Brong Ahafo,GHA,Ghana,country
+GH-CP,Central,GHA,Ghana,country
+GH-EP,Eastern,GHA,Ghana,country
+GH-AA,Greater Accra,GHA,Ghana,country
+GH-NP,Northern,GHA,Ghana,country
+GH-UE,Upper East,GHA,Ghana,country
+GH-UW,Upper West,GHA,Ghana,country
+GH-TV,Volta,GHA,Ghana,country
+GH-WP,Western,GHA,Ghana,country
+GIB-00,Gibraltar,GIB,Gibraltar,country
+GR-A,Anatoliki Makedonia kai Thraki,GRC,Greece,country
+GR-A1,Attiki,GRC,Greece,country
+GR-69,Ayion Oros,GRC,Greece,country
+GR-G,Dytiki Ellada,GRC,Greece,country
+GR-C,Dytiki Makedonia,GRC,Greece,country
+GR-F,Ionioi Nisoi,GRC,Greece,country
+GR-D,Ipeiros,GRC,Greece,country
+GR-B,Kentriki Makedonia,GRC,Greece,country
+GR-M,Kriti,GRC,Greece,country
+GR-L,Notio Aigaio,GRC,Greece,country
+GR-J,Peloponnisos,GRC,Greece,country
+GR-H,Stereá Elláda,GRC,Greece,country
+GR-E,Thessalia,GRC,Greece,country
+GR-K,Voreio Aigaio,GRC,Greece,country
+GL-KU,Kommune Kujalleq,GRL,Greenland,country
+GL-SM,Kommuneqarfik Sermersooq,GRL,Greenland,country
+GRL-2742,Nationalparken,GRL,Greenland,country
+GRL-2738,Pituffik,GRL,Greenland,country
+GL-QA,Qaasuitsup Kommunia,GRL,Greenland,country
+GL-QE,Qeqqata Kommunia,GRL,Greenland,country
+GD-10,Carriacou and Petite Martinique,GRD,Grenada,country
+GD-01,Saint Andrew,GRD,Grenada,country
+GD-02,Saint David,GRD,Grenada,country
+GD-03,Saint George,GRD,Grenada,country
+GD-04,Saint John,GRD,Grenada,country
+GD-05,Saint Mark,GRD,Grenada,country
+GD-06,Saint Patrick,GRD,Grenada,country
+GUM-00,Guam,GUM,Guam,country
+GT-AV,Alta Verapaz,GTM,Guatemala,country
+GT-BV,Baja Verapaz,GTM,Guatemala,country
+GT-CM,Chimaltenango,GTM,Guatemala,country
+GT-CQ,Chiquimula,GTM,Guatemala,country
+GT-PR,El Progreso,GTM,Guatemala,country
+GT-ES,Escuintla,GTM,Guatemala,country
+GT-GU,Guatemala,GTM,Guatemala,country
+GT-HU,Huehuetenango,GTM,Guatemala,country
+GT-IZ,Izabal,GTM,Guatemala,country
+GT-JA,Jalapa,GTM,Guatemala,country
+GT-JU,Jutiapa,GTM,Guatemala,country
+GT-PE,Petén,GTM,Guatemala,country
+GT-QZ,Quezaltenango,GTM,Guatemala,country
+GT-QC,Quiché,GTM,Guatemala,country
+GT-RE,Retalhuleu,GTM,Guatemala,country
+GT-SA,Sacatepéquez,GTM,Guatemala,country
+GT-SM,San Marcos,GTM,Guatemala,country
+GT-SR,Santa Rosa,GTM,Guatemala,country
+GT-SO,Sololá,GTM,Guatemala,country
+GT-SU,Suchitepéquez,GTM,Guatemala,country
+GT-TO,Totonicapán,GTM,Guatemala,country
+GT-ZA,Zacapa,GTM,Guatemala,country
+GGY-00,Sark,GGY,Guernsey,none
+GN-BE,Beyla,GIN,Guinea,country
+GN-BF,Boffa,GIN,Guinea,country
+GN-BK,Boke,GIN,Guinea,country
+GN-C,Conakry,GIN,Guinea,country
+GN-CO,Coyah,GIN,Guinea,country
+GN-DB,Dabola,GIN,Guinea,country
+GN-DL,Dalaba,GIN,Guinea,country
+GN-DI,Dinguiraye,GIN,Guinea,country
+GN-DU,Dubréka,GIN,Guinea,country
+GN-FA,Faranah,GIN,Guinea,country
+GN-FO,Forécariah,GIN,Guinea,country
+GN-FR,Fria,GIN,Guinea,country
+GN-GA,Gaoual,GIN,Guinea,country
+GN-GU,Guéckédou,GIN,Guinea,country
+GN-K,Kankan,GIN,Guinea,country
+GN-KE,Kérouané,GIN,Guinea,country
+GN-KD,Kindia,GIN,Guinea,country
+GN-KS,Kissidougou,GIN,Guinea,country
+GN-KB,Koubia,GIN,Guinea,country
+GN-KN,Koundara,GIN,Guinea,country
+GN-KO,Kouroussa,GIN,Guinea,country
+GN-LA,Labé,GIN,Guinea,country
+GN-LE,Lélouma,GIN,Guinea,country
+GN-LO,Lola,GIN,Guinea,country
+GN-MC,Macenta,GIN,Guinea,country
+GN-ML,Mali,GIN,Guinea,country
+GN-MM,Mamou,GIN,Guinea,country
+GN-MD,Mandiana,GIN,Guinea,country
+GN-NZ,Nzérékoré,GIN,Guinea,country
+GN-PI,Pita,GIN,Guinea,country
+GN-SI,Siguiri,GIN,Guinea,country
+GN-TE,Télimélé,GIN,Guinea,country
+GN-TO,Tougué,GIN,Guinea,country
+GN-YO,Yomou,GIN,Guinea,country
+GW-BA,Bafatá,GNB,Guinea-Bissau,country
+GW-BM,Biombo,GNB,Guinea-Bissau,country
+GW-BS,Bissau,GNB,Guinea-Bissau,country
+GW-BL,Bolama,GNB,Guinea-Bissau,country
+GW-CA,Cacheu,GNB,Guinea-Bissau,country
+GW-GA,Gabú,GNB,Guinea-Bissau,country
+GW-OI,Oio,GNB,Guinea-Bissau,country
+GW-QU,Quinara,GNB,Guinea-Bissau,country
+GW-TO,Tombali,GNB,Guinea-Bissau,country
+GY-BA,Barima-Waini,GUY,Guyana,country
+GY-CU,Cuyuni-Mazaruni,GUY,Guyana,country
+GY-DE,Demerara-Mahaica,GUY,Guyana,country
+GY-EB,East Berbice-Corentyne,GUY,Guyana,country
+GY-ES,Essequibo Islands-West Demerara,GUY,Guyana,country
+GY-MA,Mahaica-Berbice,GUY,Guyana,country
+GY-PM,Pomeroon-Supenaam,GUY,Guyana,country
+GY-PT,Potaro-Siparuni,GUY,Guyana,country
+GY-UD,Upper Demerara-Berbice,GUY,Guyana,country
+GY-UT,Upper Takutu-Upper Essequibo,GUY,Guyana,country
+HT-CE,Centre,HTI,Haiti,country
+HT-GA,Grand'Anse,HTI,Haiti,country
+HT-AR,L'Artibonite,HTI,Haiti,country
+HT-NI,Nippes,HTI,Haiti,country
+HT-ND,Nord,HTI,Haiti,country
+HT-NE,Nord-Est,HTI,Haiti,country
+HT-NO,Nord-Ouest,HTI,Haiti,country
+HT-OU,Ouest,HTI,Haiti,country
+HT-SD,Sud,HTI,Haiti,country
+HT-SE,Sud-Est,HTI,Haiti,country
+HMD-00,Heard Island and McDonald Islands,HMD,Heard I. and McDonald Islands,none
+HN-AT,Atlántida,HND,Honduras,country
+HN-CH,Choluteca,HND,Honduras,country
+HN-CL,Colón,HND,Honduras,country
+HN-CM,Comayagua,HND,Honduras,country
+HN-CP,Copán,HND,Honduras,country
+HN-CR,Cortés,HND,Honduras,country
+HN-EP,El Paraíso,HND,Honduras,country
+HN-FM,Francisco Morazán,HND,Honduras,country
+HN-GD,Gracias a Dios,HND,Honduras,country
+HN-IN,Intibucá,HND,Honduras,country
+HN-IB,Islas de la Bahía,HND,Honduras,country
+HN-LP,La Paz,HND,Honduras,country
+HN-LE,Lempira,HND,Honduras,country
+HN-OC,Ocotepeque,HND,Honduras,country
+HN-OL,Olancho,HND,Honduras,country
+HN-SB,Santa Bárbara,HND,Honduras,country
+HN-VA,Valle,HND,Honduras,country
+HN-YO,Yoro,HND,Honduras,country
+HKG-5153,Central and Western,HKG,Hong Kong,country
+HKG-5155,Eastern,HKG,Hong Kong,country
+HKG-5170,Islands,HKG,Hong Kong,country
+HKG-5158,Kowloon City,HKG,Hong Kong,country
+HKG-5164,Kwai Tsing,HKG,Hong Kong,country
+HKG-5161,Kwun Tong,HKG,Hong Kong,country
+HKG-5168,North,HKG,Hong Kong,country
+HKG-5162,Sai Kung,HKG,Hong Kong,country
+HKG-5163,Sha Tin,HKG,Hong Kong,country
+HKG-5159,Sham Shui Po,HKG,Hong Kong,country
+HKG-5156,Southern,HKG,Hong Kong,country
+HKG-5169,Tai Po,HKG,Hong Kong,country
+HKG-5165,Tsuen Wan,HKG,Hong Kong,country
+HKG-5166,Tuen Mun,HKG,Hong Kong,country
+HKG-5154,Wan Chai,HKG,Hong Kong,country
+HKG-5160,Wong Tai Sin,HKG,Hong Kong,country
+HKG-5157,Yau Tsim Mong,HKG,Hong Kong,country
+HKG-5167,Yuen Long,HKG,Hong Kong,country
+HU-BK,Bács-Kiskun,HUN,Hungary,country
+HU-BA,Baranya,HUN,Hungary,country
+HU-BE,Békés,HUN,Hungary,country
+HU-BC,Békéscsaba,HUN,Hungary,country
+HU-BZ,Borsod-Abaúj-Zemplén,HUN,Hungary,country
+HU-BU,Budapest,HUN,Hungary,country
+HU-CS,Csongrád,HUN,Hungary,country
+HU-DE,Debrecen,HUN,Hungary,country
+HU-DU,Dunaújváros,HUN,Hungary,country
+HU-EG,Eger,HUN,Hungary,country
+HU-ED,Érd,HUN,Hungary,country
+HU-FE,Fejér,HUN,Hungary,country
+HU-GY,Gyôr,HUN,Hungary,country
+HU-GS,Gyor-Moson-Sopron,HUN,Hungary,country
+HU-HB,Hajdú-Bihar,HUN,Hungary,country
+HU-HE,Heves,HUN,Hungary,country
+HU-HV,Hódmezôvásárhely,HUN,Hungary,country
+HU-JN,Jász-Nagykun-Szolnok,HUN,Hungary,country
+HU-KV,Kaposvár,HUN,Hungary,country
+HU-KM,Kecskemét,HUN,Hungary,country
+HU-KE,Komárom-Esztergom,HUN,Hungary,country
+HU-MI,Miskolc,HUN,Hungary,country
+HU-NK,Nagykanizsa,HUN,Hungary,country
+HU-NO,Nógrád,HUN,Hungary,country
+HU-NY,Nyíregyháza,HUN,Hungary,country
+HU-PS,Pécs,HUN,Hungary,country
+HU-PE,Pest,HUN,Hungary,country
+HU-ST,Salgótarján,HUN,Hungary,country
+HU-SO,Somogy,HUN,Hungary,country
+HU-SN,Sopron,HUN,Hungary,country
+HU-SZ,Szabolcs-Szatmár-Bereg,HUN,Hungary,country
+HU-SD,Szeged,HUN,Hungary,country
+HU-SF,Székesfehérvár,HUN,Hungary,country
+HU-SS,Szekszárd,HUN,Hungary,country
+HU-SK,Szolnok,HUN,Hungary,country
+HU-SH,Szombathely,HUN,Hungary,country
+HU-TB,Tatabánya,HUN,Hungary,country
+HU-TO,Tolna,HUN,Hungary,country
+HU-VA,Vas,HUN,Hungary,country
+HU-VE,Veszprém,HUN,Hungary,country
+HU-VM,Veszprém,HUN,Hungary,country
+HU-ZA,Zala,HUN,Hungary,country
+HU-ZE,Zalaegerszeg,HUN,Hungary,country
+IS-7,Austurland,ISL,Iceland,country
+IS-1,Höfuðborgarsvæði,ISL,Iceland,country
+IS-6,Norðurland eystra,ISL,Iceland,country
+IS-5,Norðurland vestra,ISL,Iceland,country
+IS-0,Reykjavík,ISL,Iceland,country
+IS-8,Suðurland,ISL,Iceland,country
+IS-2,Suðurnes,ISL,Iceland,country
+IS-4,Vestfirðir,ISL,Iceland,country
+IS-3,Vesturland,ISL,Iceland,country
+IN-AN,Andaman and Nicobar,IND,India,country
+IN-AP,Andhra Pradesh,IND,India,country
+IN-AR,Arunachal Pradesh,IND,India,country
+IN-AS,Assam,IND,India,country
+IN-BR,Bihar,IND,India,country
+IN-CH,Chandigarh,IND,India,country
+IN-CT,Chhattisgarh,IND,India,country
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,IND,India,country
+IN-DL,Delhi,IND,India,country
+IN-GA,Goa,IND,India,country
+IN-GJ,Gujarat,IND,India,country
+IN-HR,Haryana,IND,India,country
+IN-HP,Himachal Pradesh,IND,India,country
+IN-JK,Jammu and Kashmir,IND,India,country
+IN-JH,Jharkhand,IND,India,country
+IN-KA,Karnataka,IND,India,country
+IN-KL,Kerala,IND,India,country
+IN-LA,Ladakh,IND,India,country
+IN-LD,Lakshadweep,IND,India,country
+IN-MP,Madhya Pradesh,IND,India,country
+IN-MH,Maharashtra,IND,India,country
+IN-MN,Manipur,IND,India,country
+IN-ML,Meghalaya,IND,India,country
+IN-MZ,Mizoram,IND,India,country
+IN-NL,Nagaland,IND,India,country
+IN-OR,Odisha,IND,India,country
+IN-PY,Puducherry,IND,India,country
+IN-PB,Punjab,IND,India,country
+IN-RJ,Rajasthan,IND,India,country
+IN-SK,Sikkim,IND,India,country
+IN-TN,Tamil Nadu,IND,India,country
+IN-TG,Telangana,IND,India,country
+IN-TR,Tripura,IND,India,country
+IN-UP,Uttar Pradesh,IND,India,country
+IN-UT,Uttarakhand,IND,India,country
+IN-WB,West Bengal,IND,India,country
+IOA-2652,Christmas Island,IOA,Indian Ocean Territories,none
+IOA-1928,Cocos (Keeling) Islands,IOA,Indian Ocean Territories,none
+ID-AC,Aceh,IDN,Indonesia,country
+ID-BA,Bali,IDN,Indonesia,country
+ID-BB,Bangka-Belitung,IDN,Indonesia,country
+ID-BT,Banten,IDN,Indonesia,country
+ID-BE,Bengkulu,IDN,Indonesia,country
+ID-GO,Gorontalo,IDN,Indonesia,country
+ID-JK,Jakarta Raya,IDN,Indonesia,country
+ID-JA,Jambi,IDN,Indonesia,country
+ID-JB,Jawa Barat,IDN,Indonesia,country
+ID-JT,Jawa Tengah,IDN,Indonesia,country
+ID-JI,Jawa Timur,IDN,Indonesia,country
+ID-KB,Kalimantan Barat,IDN,Indonesia,country
+ID-KS,Kalimantan Selatan,IDN,Indonesia,country
+ID-KT,Kalimantan Tengah,IDN,Indonesia,country
+ID-KI,Kalimantan Timur,IDN,Indonesia,country
+ID-KR,Kepulauan Riau,IDN,Indonesia,country
+ID-LA,Lampung,IDN,Indonesia,country
+ID-MA,Maluku,IDN,Indonesia,country
+ID-MU,Maluku Utara,IDN,Indonesia,country
+ID-NB,Nusa Tenggara Barat,IDN,Indonesia,country
+ID-NT,Nusa Tenggara Timur,IDN,Indonesia,country
+ID-PA,Papua,IDN,Indonesia,country
+ID-PB,Papua Barat,IDN,Indonesia,country
+ID-RI,Riau,IDN,Indonesia,country
+ID-SR,Sulawesi Barat,IDN,Indonesia,country
+ID-SN,Sulawesi Selatan,IDN,Indonesia,country
+ID-ST,Sulawesi Tengah,IDN,Indonesia,country
+ID-SG,Sulawesi Tenggara,IDN,Indonesia,country
+ID-SA,Sulawesi Utara,IDN,Indonesia,country
+ID-SB,Sumatera Barat,IDN,Indonesia,country
+ID-SS,Sumatera Selatan,IDN,Indonesia,country
+ID-SU,Sumatera Utara,IDN,Indonesia,country
+ID-YO,Yogyakarta,IDN,Indonesia,country
+IRN-5490,Alborz,IRN,Iran,country
+IR-03,Ardebil,IRN,Iran,country
+IR-06,Bushehr,IRN,Iran,country
+IR-08,Chahar Mahall and Bakhtiari,IRN,Iran,country
+IR-01,East Azarbaijan,IRN,Iran,country
+IR-04,Esfahan,IRN,Iran,country
+IR-14,Fars,IRN,Iran,country
+IR-19,Gilan,IRN,Iran,country
+IR-27,Golestan,IRN,Iran,country
+IR-24,Hamadan,IRN,Iran,country
+IR-23,Hormozgan,IRN,Iran,country
+IR-05,Ilam,IRN,Iran,country
+IR-15,Kerman,IRN,Iran,country
+IR-17,Kermanshah,IRN,Iran,country
+IR-10,Khuzestan,IRN,Iran,country
+IR-18,Kohgiluyeh and Buyer Ahmad,IRN,Iran,country
+IR-16,Kordestan,IRN,Iran,country
+IR-20,Lorestan,IRN,Iran,country
+IR-22,Markazi,IRN,Iran,country
+IR-21,Mazandaran,IRN,Iran,country
+IR-31,North Khorasan,IRN,Iran,country
+IR-28,Qazvin,IRN,Iran,country
+IR-26,Qom,IRN,Iran,country
+IR-30,Razavi Khorasan,IRN,Iran,country
+IR-12,Semnan,IRN,Iran,country
+IR-13,Sistan and Baluchestan,IRN,Iran,country
+IR-29,South Khorasan,IRN,Iran,country
+IRN-3216,Tehran,IRN,Iran,country
+IR-02,West Azarbaijan,IRN,Iran,country
+IR-25,Yazd,IRN,Iran,country
+IR-11,Zanjan,IRN,Iran,country
+IQ-AN,Al-Anbar,IRQ,Iraq,country
+IQ-BA,Al-Basrah,IRQ,Iraq,country
+IQ-MU,Al-Muthannia,IRQ,Iraq,country
+IQ-QA,Al-Qādisiyyah,IRQ,Iraq,country
+IQ-NA,An-Najaf,IRQ,Iraq,country
+IQ-AR,Arbil,IRQ,Iraq,country
+IQ-SU,As-Sulaymaniyah,IRQ,Iraq,country
+IQ-TS,At-Ta'mim,IRQ,Iraq,country
+IQ-BB,Babil,IRQ,Iraq,country
+IQ-BG,Baghdad,IRQ,Iraq,country
+IQ-DQ,Dhi-Qar,IRQ,Iraq,country
+IQ-DA,Dihok,IRQ,Iraq,country
+IQ-DI,Diyala,IRQ,Iraq,country
+IQ-KA,Karbala',IRQ,Iraq,country
+IQ-MA,Maysan,IRQ,Iraq,country
+IQ-NI,Ninawa,IRQ,Iraq,country
+IQ-SD,Sala ad-Din,IRQ,Iraq,country
+IQ-WA,Wasit,IRQ,Iraq,country
+IE-CW,Carlow,IRL,Ireland,country
+IE-CN,Cavan,IRL,Ireland,country
+IE-CE,Clare,IRL,Ireland,country
+IRL-78,Cork,IRL,Ireland,country
+IRL-5569,Cork,IRL,Ireland,country
+IE-DL,Donegal,IRL,Ireland,country
+IRL-5575,Dublin,IRL,Ireland,country
+IRL-5576,Dún Laoghaire–Rathdown,IRL,Ireland,country
+IRL-5574,Fingal,IRL,Ireland,country
+IRL-713,Galway,IRL,Ireland,country
+IRL-5568,Galway,IRL,Ireland,country
+IE-KY,Kerry,IRL,Ireland,country
+IE-KE,Kildare,IRL,Ireland,country
+IE-KK,Kilkenny,IRL,Ireland,country
+IE-LS,Laoighis,IRL,Ireland,country
+IE-LM,Leitrim,IRL,Ireland,country
+IRL-726,Limerick,IRL,Ireland,country
+IRL-5570,Limerick,IRL,Ireland,country
+IE-LD,Longford,IRL,Ireland,country
+IE-LH,Louth,IRL,Ireland,country
+IE-MO,Mayo,IRL,Ireland,country
+IE-MH,Meath,IRL,Ireland,country
+IE-MN,Monaghan,IRL,Ireland,country
+IRL-724,North Tipperary,IRL,Ireland,country
+IE-OY,Offaly,IRL,Ireland,country
+IE-RN,Roscommon,IRL,Ireland,country
+IE-SO,Sligo,IRL,Ireland,country
+IRL-5573,South Dublin,IRL,Ireland,country
+IRL-5572,South Tipperary,IRL,Ireland,country
+IRL-1444,Waterford,IRL,Ireland,country
+IRL-5571,Waterford,IRL,Ireland,country
+IE-WH,Westmeath,IRL,Ireland,country
+IE-WX,Wexford,IRL,Ireland,country
+IE-WW,Wicklow,IRL,Ireland,country
+IMN-00,Isle of Man,IMN,Isle of Man,country
+IL-D,HaDarom,ISR,Israel,country
+IL-HA,Haifa,ISR,Israel,country
+IL-M,HaMerkaz,ISR,Israel,country
+IL-Z,HaZafon,ISR,Israel,country
+IL-JM,Jerusalem,ISR,Israel,country
+IL-TA,Tel Aviv,ISR,Israel,country
+IT-AG,Agrigento,ITA,Italy,country
+IT-AL,Alessandria,ITA,Italy,country
+IT-AN,Ancona,ITA,Italy,country
+IT-AO,Aoste,ITA,Italy,country
+IT-AR,Arezzo,ITA,Italy,country
+IT-AP,Ascoli Piceno,ITA,Italy,country
+IT-AT,Asti,ITA,Italy,country
+IT-AV,Avellino,ITA,Italy,country
+IT-BA,Bari,ITA,Italy,country
+IT-BT,Barletta-Andria Trani,ITA,Italy,country
+IT-BL,Belluno,ITA,Italy,country
+IT-BN,Benevento,ITA,Italy,country
+IT-BG,Bergamo,ITA,Italy,country
+IT-BI,Biella,ITA,Italy,country
+IT-BO,Bologna,ITA,Italy,country
+IT-BZ,Bozen,ITA,Italy,country
+IT-BS,Brescia,ITA,Italy,country
+IT-BR,Brindisi,ITA,Italy,country
+IT-CA,Cagliari,ITA,Italy,country
+IT-CL,Caltanissetta,ITA,Italy,country
+IT-CB,Campobasso,ITA,Italy,country
+IT-CI,Carbonia-Iglesias,ITA,Italy,country
+IT-CE,Caserta,ITA,Italy,country
+IT-CT,Catania,ITA,Italy,country
+IT-CZ,Catanzaro,ITA,Italy,country
+IT-CH,Chieti,ITA,Italy,country
+IT-CO,Como,ITA,Italy,country
+IT-CS,Cosenza,ITA,Italy,country
+IT-CR,Cremona,ITA,Italy,country
+IT-KR,Crotene,ITA,Italy,country
+IT-CN,Cuneo,ITA,Italy,country
+IT-EN,Enna,ITA,Italy,country
+IT-FM,Fermo,ITA,Italy,country
+IT-FE,Ferrara,ITA,Italy,country
+IT-FI,Firenze,ITA,Italy,country
+IT-FG,Foggia,ITA,Italy,country
+IT-FC,Forlì-Cesena,ITA,Italy,country
+IT-FR,Frosinone,ITA,Italy,country
+IT-GE,Genova,ITA,Italy,country
+IT-GO,Gorizia,ITA,Italy,country
+IT-GR,Grosseto,ITA,Italy,country
+IT-IM,Imperia,ITA,Italy,country
+IT-IS,Isernia,ITA,Italy,country
+IT-AQ,L'Aquila,ITA,Italy,country
+IT-SP,La Spezia,ITA,Italy,country
+IT-LT,Latina,ITA,Italy,country
+IT-LE,Lecce,ITA,Italy,country
+IT-LC,Lecco,ITA,Italy,country
+IT-LI,Livorno,ITA,Italy,country
+IT-LO,Lodi,ITA,Italy,country
+IT-LU,Lucca,ITA,Italy,country
+IT-MC,Macerata,ITA,Italy,country
+IT-MN,Mantova,ITA,Italy,country
+IT-MS,Massa-Carrara,ITA,Italy,country
+IT-MT,Matera,ITA,Italy,country
+IT-VS,Medio Campidano,ITA,Italy,country
+IT-ME,Messina,ITA,Italy,country
+IT-MI,Milano,ITA,Italy,country
+IT-MO,Modena,ITA,Italy,country
+IT-MB,Monza e Brianza,ITA,Italy,country
+IT-NA,Napoli,ITA,Italy,country
+IT-NO,Novara,ITA,Italy,country
+IT-NU,Nuoro,ITA,Italy,country
+IT-OG,Ogliastra,ITA,Italy,country
+IT-OT,Olbia-Tempio,ITA,Italy,country
+IT-OR,Oristrano,ITA,Italy,country
+IT-PD,Padova,ITA,Italy,country
+IT-PA,Palermo,ITA,Italy,country
+IT-PR,Parma,ITA,Italy,country
+IT-PV,Pavia,ITA,Italy,country
+IT-PG,Perugia,ITA,Italy,country
+IT-PU,Pesaro e Urbino,ITA,Italy,country
+IT-PE,Pescara,ITA,Italy,country
+IT-PC,Piacenza,ITA,Italy,country
+IT-PI,Pisa,ITA,Italy,country
+IT-PT,Pistoia,ITA,Italy,country
+IT-PN,Pordenone,ITA,Italy,country
+IT-PZ,Potenza,ITA,Italy,country
+IT-PO,Prato,ITA,Italy,country
+IT-RG,Ragusa,ITA,Italy,country
+IT-RA,Ravenna,ITA,Italy,country
+IT-RC,Reggio Calabria,ITA,Italy,country
+IT-RE,Reggio Emilia,ITA,Italy,country
+IT-RI,Rieti,ITA,Italy,country
+IT-RN,Rimini,ITA,Italy,country
+IT-RM,Roma,ITA,Italy,country
+IT-RO,Rovigo,ITA,Italy,country
+IT-SA,Salerno,ITA,Italy,country
+IT-SS,Sassari,ITA,Italy,country
+IT-SV,Savona,ITA,Italy,country
+IT-SI,Siena,ITA,Italy,country
+IT-SR,Siracusa,ITA,Italy,country
+IT-SO,Sondrio,ITA,Italy,country
+IT-TA,Taranto,ITA,Italy,country
+IT-TE,Teramo,ITA,Italy,country
+IT-TR,Terni,ITA,Italy,country
+IT-TP,Trapani,ITA,Italy,country
+IT-TN,Trento,ITA,Italy,country
+IT-TV,Treviso,ITA,Italy,country
+IT-TS,Trieste,ITA,Italy,country
+IT-TO,Turin,ITA,Italy,country
+IT-UD,Udine,ITA,Italy,country
+IT-VA,Varese,ITA,Italy,country
+IT-VE,Venezia,ITA,Italy,country
+IT-VB,Verbano-Cusio-Ossola,ITA,Italy,country
+IT-VC,Vercelli,ITA,Italy,country
+IT-VR,Verona,ITA,Italy,country
+IT-VV,Vibo Valentia,ITA,Italy,country
+IT-VI,Vicenza,ITA,Italy,country
+IT-VT,Viterbo,ITA,Italy,country
+JM-13,Clarendon,JAM,Jamaica,country
+JM-09,Hanover,JAM,Jamaica,country
+JM-01,Kingston,JAM,Jamaica,country
+JM-12,Manchester,JAM,Jamaica,country
+JM-04,Portland,JAM,Jamaica,country
+JM-02,Saint Andrew,JAM,Jamaica,country
+JM-06,Saint Ann,JAM,Jamaica,country
+JM-14,Saint Catherine,JAM,Jamaica,country
+JM-11,Saint Elizabeth,JAM,Jamaica,country
+JM-08,Saint James,JAM,Jamaica,country
+JM-05,Saint Mary,JAM,Jamaica,country
+JM-03,Saint Thomas,JAM,Jamaica,country
+JM-07,Trelawny,JAM,Jamaica,country
+JM-10,Westmoreland,JAM,Jamaica,country
+JP-23,Aichi,JPN,Japan,country
+JP-05,Akita,JPN,Japan,country
+JP-02,Aomori,JPN,Japan,country
+JP-12,Chiba,JPN,Japan,country
+JP-38,Ehime,JPN,Japan,country
+JP-18,Fukui,JPN,Japan,country
+JP-40,Fukuoka,JPN,Japan,country
+JP-07,Fukushima,JPN,Japan,country
+JP-21,Gifu,JPN,Japan,country
+JP-10,Gunma,JPN,Japan,country
+JP-34,Hiroshima,JPN,Japan,country
+JP-01,Hokkaidō,JPN,Japan,country
+JP-28,Hyōgo,JPN,Japan,country
+JP-08,Ibaraki,JPN,Japan,country
+JP-17,Ishikawa,JPN,Japan,country
+JP-03,Iwate,JPN,Japan,country
+JP-37,Kagawa,JPN,Japan,country
+JP-46,Kagoshima,JPN,Japan,country
+JP-14,Kanagawa,JPN,Japan,country
+JP-39,Kōchi,JPN,Japan,country
+JP-43,Kumamoto,JPN,Japan,country
+JP-26,Kyōto,JPN,Japan,country
+JP-24,Mie,JPN,Japan,country
+JP-04,Miyagi,JPN,Japan,country
+JP-45,Miyazaki,JPN,Japan,country
+JP-20,Nagano,JPN,Japan,country
+JP-42,Nagasaki,JPN,Japan,country
+JP-29,Nara,JPN,Japan,country
+JP-15,Niigata,JPN,Japan,country
+JP-44,Ōita,JPN,Japan,country
+JP-33,Okayama,JPN,Japan,country
+JP-47,Okinawa,JPN,Japan,country
+JP-27,Ōsaka,JPN,Japan,country
+JP-41,Saga,JPN,Japan,country
+JP-11,Saitama,JPN,Japan,country
+JP-25,Shiga,JPN,Japan,country
+JP-32,Shimane,JPN,Japan,country
+JP-22,Shizuoka,JPN,Japan,country
+JP-09,Tochigi,JPN,Japan,country
+JP-36,Tokushima,JPN,Japan,country
+JP-13,Tokyo,JPN,Japan,country
+JP-31,Tottori,JPN,Japan,country
+JP-16,Toyama,JPN,Japan,country
+JP-30,Wakayama,JPN,Japan,country
+JP-06,Yamagata,JPN,Japan,country
+JP-35,Yamaguchi,JPN,Japan,country
+JP-19,Yamanashi,JPN,Japan,country
+JEY-00,Jersey,JEY,Jersey,none
+JO-AJ,Ajlun,JOR,Jordan,country
+JO-AM,Amman,JOR,Jordan,country
+JO-AQ,Aqaba,JOR,Jordan,country
+JO-BA,Balqa,JOR,Jordan,country
+JO-IR,Irbid,JOR,Jordan,country
+JO-JA,Jarash,JOR,Jordan,country
+JO-KA,Karak,JOR,Jordan,country
+JO-MN,Ma`an,JOR,Jordan,country
+JO-MD,Madaba,JOR,Jordan,country
+JO-MA,Mafraq,JOR,Jordan,country
+JO-AT,Tafilah,JOR,Jordan,country
+JO-AZ,Zarqa,JOR,Jordan,country
+KAZ-3207,Almaty,KAZ,Kazakhstan,country
+KAZ-4829,Almaty City,KAZ,Kazakhstan,country
+KZ-AKM,Aqmola,KAZ,Kazakhstan,country
+KZ-AKT,Aqtöbe,KAZ,Kazakhstan,country
+KZ-AST,Astana,KAZ,Kazakhstan,country
+KZ-ATY,Atyrau,KAZ,Kazakhstan,country
+KZ-VOS,East Kazakhstan,KAZ,Kazakhstan,country
+KZ-MAN,Mangghystau,KAZ,Kazakhstan,country
+KZ-SEV,North Kazakhstan,KAZ,Kazakhstan,country
+KZ-PAV,Pavlodar,KAZ,Kazakhstan,country
+KZ-KAR,Qaraghandy,KAZ,Kazakhstan,country
+KZ-KUS,Qostanay,KAZ,Kazakhstan,country
+KZ-KZY,Qyzylorda,KAZ,Kazakhstan,country
+KZ-YUZ,South Kazakhstan,KAZ,Kazakhstan,country
+KZ-ZAP,West Kazakhstan,KAZ,Kazakhstan,country
+KZ-ZHA,Zhambyl,KAZ,Kazakhstan,country
+KE-200,Central,KEN,Kenya,country
+KE-300,Coast,KEN,Kenya,country
+KE-400,Eastern,KEN,Kenya,country
+KE-110,Nairobi,KEN,Kenya,country
+KE-500,North-Eastern,KEN,Kenya,country
+KE-600,Nyanza,KEN,Kenya,country
+KE-700,Rift Valley,KEN,Kenya,country
+KE-800,Western,KEN,Kenya,country
+SZ-HH,Hhohho,SWZ,Kingdom of eSwatini,country
+SZ-LU,Lubombo,SWZ,Kingdom of eSwatini,country
+SZ-MA,Manzini,SWZ,Kingdom of eSwatini,country
+SZ-SH,Shiselweni,SWZ,Kingdom of eSwatini,country
+KIR-00,Kiribati,KIR,Kiribati,country
+KIR-99,Kiribati,KIR,Kiribati,country
+KOS-5890,Đakovica,XKX,Kosovo,country
+KOS-5889,Dečani,XKX,Kosovo,country
+KOS-5909,Dragaš,XKX,Kosovo,country
+KOS-5899,Glogovac,XKX,Kosovo,country
+KOS-5904,Gnjilane,XKX,Kosovo,country
+KOS-5887,Istok,XKX,Kosovo,country
+KOS-5915,Kačanik,XKX,Kosovo,country
+KOS-5888,Klina,XKX,Kosovo,country
+KOS-5898,Kosovo Polje,XKX,Kosovo,country
+KOS-5907,Kosovska Kamenica,XKX,Kosovo,country
+KOS-5894,Kosovska Mitrovica,XKX,Kosovo,country
+KOS-5893,Leposavić,XKX,Kosovo,country
+KOS-5903,Lipljan,XKX,Kosovo,country
+KOS-5911,Mališevo,XKX,Kosovo,country
+KOS-5906,Novo Brdo,XKX,Kosovo,country
+KOS-5900,Obilić,XKX,Kosovo,country
+KOS-5891,Orahovac,XKX,Kosovo,country
+KOS-5886,Peć,XKX,Kosovo,country
+KOS-5901,Podujevo,XKX,Kosovo,country
+KOS-5902,Priština,XKX,Kosovo,country
+KOS-5908,Prizren,XKX,Kosovo,country
+KOS-5896,Srbica,XKX,Kosovo,country
+KOS-5912,Štimlje,XKX,Kosovo,country
+KOS-5914,Štrpce,XKX,Kosovo,country
+KOS-5910,Suva Reka,XKX,Kosovo,country
+KOS-5913,Uroševac,XKX,Kosovo,country
+KOS-5905,Vitina,XKX,Kosovo,country
+KOS-5895,Vučitrn,XKX,Kosovo,country
+KOS-5897,Zubin Potok,XKX,Kosovo,country
+KOS-5892,Zvečan,XKX,Kosovo,country
+KW-AH,Al Ahmadi,KWT,Kuwait,country
+KW-KU,Al Asimah,KWT,Kuwait,country
+KW-FA,Al Farwaniyah,KWT,Kuwait,country
+KW-JA,Al Jahrah,KWT,Kuwait,country
+KW-HA,Hawalli,KWT,Kuwait,country
+KW-MU,Mubarak Al-Kabeer,KWT,Kuwait,country
+KG-B,Batken,KGZ,Kyrgyzstan,country
+KG-GB,Bishkek,KGZ,Kyrgyzstan,country
+KG-C,Chuy,KGZ,Kyrgyzstan,country
+KG-J,Jalal-Abad,KGZ,Kyrgyzstan,country
+KG-N,Naryn,KGZ,Kyrgyzstan,country
+KG-O,Osh,KGZ,Kyrgyzstan,country
+KG-T,Talas,KGZ,Kyrgyzstan,country
+KG-Y,Ysyk-Köl,KGZ,Kyrgyzstan,country
+LA-AT,Attapu,LAO,Lao PDR,country
+LA-BK,Bokeo,LAO,Lao PDR,country
+LA-BL,Bolikhamxai,LAO,Lao PDR,country
+LA-CH,Champasak,LAO,Lao PDR,country
+LA-HO,Houaphan,LAO,Lao PDR,country
+LA-KH,Khammouan,LAO,Lao PDR,country
+LA-LM,Louang Namtha,LAO,Lao PDR,country
+LA-LP,Louangphrabang,LAO,Lao PDR,country
+LA-OU,Oudômxai,LAO,Lao PDR,country
+LA-PH,Phôngsali,LAO,Lao PDR,country
+LA-SL,Saravan,LAO,Lao PDR,country
+LA-SV,Savannakhét,LAO,Lao PDR,country
+LAO-3284,Vientiane,LAO,Lao PDR,country
+LAO-3283,Vientiane [prefecture],LAO,Lao PDR,country
+LA-XA,Xaignabouri,LAO,Lao PDR,country
+LA-XE,Xékong,LAO,Lao PDR,country
+LA-XI,Xiangkhoang,LAO,Lao PDR,country
+LV-011,Ādaži,LVA,Latvia,country
+LV-001,Aglonas,LVA,Latvia,country
+LV-002,Aizkraukles,LVA,Latvia,country
+LV-003,Aizputes,LVA,Latvia,country
+LV-004,Aknistes,LVA,Latvia,country
+LV-005,Alojas,LVA,Latvia,country
+LV-006,Alsungas,LVA,Latvia,country
+LV-007,Aluksne,LVA,Latvia,country
+LV-008,Amatas,LVA,Latvia,country
+LV-009,Apes,LVA,Latvia,country
+LV-010,Auces,LVA,Latvia,country
+LV-012,Babites,LVA,Latvia,country
+LV-013,Baldones,LVA,Latvia,country
+LV-014,Baltinavas,LVA,Latvia,country
+LV-015,Balvu,LVA,Latvia,country
+LV-016,Bauska,LVA,Latvia,country
+LV-017,Beverinas,LVA,Latvia,country
+LV-018,Brocenu,LVA,Latvia,country
+LV-019,Burtnieku,LVA,Latvia,country
+LV-020,Carnikavas,LVA,Latvia,country
+LV-022,Cesu,LVA,Latvia,country
+LV-021,Cesvaines,LVA,Latvia,country
+LV-023,Ciblas,LVA,Latvia,country
+LV-024,Dagdas,LVA,Latvia,country
+LVA-1081,Daugavpils,LVA,Latvia,country
+LVA-4850,Daugavpils,LVA,Latvia,country
+LV-026,Dobele,LVA,Latvia,country
+LV-027,Dundagas,LVA,Latvia,country
+LV-028,Durbes,LVA,Latvia,country
+LV-029,Engures,LVA,Latvia,country
+LV-030,Erglu,LVA,Latvia,country
+LV-031,Garkalnes,LVA,Latvia,country
+LV-032,Grobinas,LVA,Latvia,country
+LV-033,Gulbene,LVA,Latvia,country
+LV-034,Iecavas,LVA,Latvia,country
+LV-035,Ikskiles,LVA,Latvia,country
+LV-036,Ilukstes,LVA,Latvia,country
+LV-037,Incukalna,LVA,Latvia,country
+LV-038,Jaunjelgavas,LVA,Latvia,country
+LV-039,Jaunpiebalgas,LVA,Latvia,country
+LV-040,Jaunpils,LVA,Latvia,country
+LVA-5725,Jekabpils,LVA,Latvia,country
+LVA-1085,Jekabpils,LVA,Latvia,country
+LVA-1084,Jelgava,LVA,Latvia,country
+LVA-4849,Jelgava,LVA,Latvia,country
+LV-JUR,Jurmala,LVA,Latvia,country
+LV-043,Kandavas,LVA,Latvia,country
+LV-044,Karsavas,LVA,Latvia,country
+LV-051,Keguma,LVA,Latvia,country
+LV-052,Kekavas,LVA,Latvia,country
+LV-045,Kocenu,LVA,Latvia,country
+LV-046,Kokneses,LVA,Latvia,country
+LV-047,Kraslavas,LVA,Latvia,country
+LV-048,Krimuldas,LVA,Latvia,country
+LV-049,Krustpils,LVA,Latvia,country
+LV-050,Kuldigas,LVA,Latvia,country
+LV-053,Lielvardes,LVA,Latvia,country
+LV-LPX,Liepāja,LVA,Latvia,country
+LV-055,Ligatnes,LVA,Latvia,country
+LV-054,Limbaži,LVA,Latvia,country
+LV-056,Livanu,LVA,Latvia,country
+LV-057,Lubanas,LVA,Latvia,country
+LV-058,Ludzas,LVA,Latvia,country
+LV-059,Madona,LVA,Latvia,country
+LV-061,Malpils,LVA,Latvia,country
+LV-062,Marupes,LVA,Latvia,country
+LV-060,Mazsalacas,LVA,Latvia,country
+LV-063,Mersraga,LVA,Latvia,country
+LV-064,Nauksenu,LVA,Latvia,country
+LV-065,Neretas,LVA,Latvia,country
+LV-066,Nicas,LVA,Latvia,country
+LV-067,Ogre,LVA,Latvia,country
+LV-068,Olaines,LVA,Latvia,country
+LV-069,Ozolnieku,LVA,Latvia,country
+LV-070,Pargaujas,LVA,Latvia,country
+LV-071,Pavilostas,LVA,Latvia,country
+LV-072,Plavinu,LVA,Latvia,country
+LV-073,Preilu,LVA,Latvia,country
+LV-074,Priekules,LVA,Latvia,country
+LV-075,Priekulu,LVA,Latvia,country
+LV-076,Raunas,LVA,Latvia,country
+LVA-4851,Rezekne,LVA,Latvia,country
+LVA-1066,Rezeknes,LVA,Latvia,country
+LV-078,Riebinu,LVA,Latvia,country
+LV-RIX,Riga,LVA,Latvia,country
+LV-079,Rojas,LVA,Latvia,country
+LV-080,Ropazu,LVA,Latvia,country
+LV-081,Rucavas,LVA,Latvia,country
+LV-082,Rugaju,LVA,Latvia,country
+LV-084,Rujienas,LVA,Latvia,country
+LV-083,Rundales,LVA,Latvia,country
+LV-085,Salacgrivas,LVA,Latvia,country
+LV-086,Salas,LVA,Latvia,country
+LV-087,Salaspils,LVA,Latvia,country
+LV-088,Saldus,LVA,Latvia,country
+LV-089,Saulkrastu,LVA,Latvia,country
+LV-090,Sejas,LVA,Latvia,country
+LV-091,Siguldas,LVA,Latvia,country
+LV-092,Skriveru,LVA,Latvia,country
+LV-093,Skrundas,LVA,Latvia,country
+LV-094,Smiltenes,LVA,Latvia,country
+LV-095,Stopinu,LVA,Latvia,country
+LV-096,Strencu,LVA,Latvia,country
+LV-097,Talsi,LVA,Latvia,country
+LV-098,Tervetes,LVA,Latvia,country
+LV-099,Tukums,LVA,Latvia,country
+LV-100,Vainodes,LVA,Latvia,country
+LV-101,Valkas,LVA,Latvia,country
+LV-VMR,Valmiera,LVA,Latvia,country
+LV-102,Varaklanu,LVA,Latvia,country
+LV-103,Varkavas,LVA,Latvia,country
+LV-104,Vecpiebalgas,LVA,Latvia,country
+LV-105,Vecumnieku,LVA,Latvia,country
+LVA-934,Ventspils,LVA,Latvia,country
+LVA-4852,Ventspils,LVA,Latvia,country
+LV-107,Viesites,LVA,Latvia,country
+LV-108,Vilakas,LVA,Latvia,country
+LV-109,Vilanu,LVA,Latvia,country
+LV-110,Zilupes,LVA,Latvia,country
+LB-NA,An Nabatiyah,LBN,Lebanon,country
+LB-BA,Beirut,LBN,Lebanon,country
+LB-BI,Beqaa,LBN,Lebanon,country
+LB-JL,Mount Lebanon,LBN,Lebanon,country
+LB-AS,North Lebanon,LBN,Lebanon,country
+LB-JA,South Lebanon,LBN,Lebanon,country
+LS-D,Berea,LSO,Lesotho,country
+LS-B,Butha-Buthe,LSO,Lesotho,country
+LS-C,Leribe,LSO,Lesotho,country
+LS-E,Mafeteng,LSO,Lesotho,country
+LS-A,Maseru,LSO,Lesotho,country
+LS-F,Mohale's Hoek,LSO,Lesotho,country
+LS-J,Mokhotlong,LSO,Lesotho,country
+LS-H,Qacha's Nek,LSO,Lesotho,country
+LS-G,Quthing,LSO,Lesotho,country
+LS-K,Thaba-Tseka,LSO,Lesotho,country
+LR-BM,Bomi,LBR,Liberia,country
+LR-BG,Bong,LBR,Liberia,country
+LBR-1459,Gbapolu,LBR,Liberia,country
+LR-GB,Grand Bassa,LBR,Liberia,country
+LR-CM,Grand Cape Mount,LBR,Liberia,country
+LR-GG,Grand Gedeh,LBR,Liberia,country
+LR-GK,Grand Kru,LBR,Liberia,country
+LR-LO,Lofa,LBR,Liberia,country
+LR-MG,Margibi,LBR,Liberia,country
+LR-MY,Maryland,LBR,Liberia,country
+LR-MO,Montserrado,LBR,Liberia,country
+LR-NI,Nimba,LBR,Liberia,country
+LR-RI,River Cess,LBR,Liberia,country
+LBR-1458,River Gee,LBR,Liberia,country
+LR-SI,Sinoe,LBR,Liberia,country
+LY-AJ,Ajdabiya,LBY,Libya,country
+LY-BU,Al Butnan,LBY,Libya,country
+LY-JA,Al Jabal al Akhdar,LBY,Libya,country
+LY-JI,Al Jifarah,LBY,Libya,country
+LY-JU,Al Jufrah,LBY,Libya,country
+LY-KF,Al Kufrah,LBY,Libya,country
+LY-MJ,Al Marj,LBY,Libya,country
+LY-MB,Al Marqab,LBY,Libya,country
+LY-QB,Al Qubbah,LBY,Libya,country
+LY-NQ,An Nuqat al Khams,LBY,Libya,country
+LY-WS,Ash Shati',LBY,Libya,country
+LY-ZA,Az Zawiyah,LBY,Libya,country
+LY-BA,Benghazi,LBY,Libya,country
+LY-GD,Ghadamis,LBY,Libya,country
+LY-GT,Ghat,LBY,Libya,country
+LY-MI,Misratah,LBY,Libya,country
+LY-MZ,Mizdah,LBY,Libya,country
+LY-MQ,Murzuq,LBY,Libya,country
+LY-SB,Sabha,LBY,Libya,country
+LY-SR,Surt,LBY,Libya,country
+LY-TN,Tajura' wa an Nawahi al Arba,LBY,Libya,country
+LY-WD,Wadi al Hayaa,LBY,Libya,country
+LI-01,Balzers,LIE,Liechtenstein,country
+LI-02,Eschen,LIE,Liechtenstein,country
+LI-03,Gamprin,LIE,Liechtenstein,country
+LI-04,Mauren,LIE,Liechtenstein,country
+LI-05,Planken,LIE,Liechtenstein,country
+LI-06,Ruggell,LIE,Liechtenstein,country
+LI-07,Schaan,LIE,Liechtenstein,country
+LI-08,Schellenberg,LIE,Liechtenstein,country
+LI-09,Triesen,LIE,Liechtenstein,country
+LI-10,Triesenberg,LIE,Liechtenstein,country
+LI-11,Vaduz,LIE,Liechtenstein,country
+LT-AL,Alytaus,LTU,Lithuania,country
+LT-KU,Kauno,LTU,Lithuania,country
+LT-KL,Klaipedos,LTU,Lithuania,country
+LT-MR,Marijampoles,LTU,Lithuania,country
+LT-PN,Panevezio,LTU,Lithuania,country
+LT-SA,Šiauliai,LTU,Lithuania,country
+LT-TA,Taurages,LTU,Lithuania,country
+LT-TE,Telšiai,LTU,Lithuania,country
+LT-UT,Utenos,LTU,Lithuania,country
+LT-VL,Vilniaus,LTU,Lithuania,country
+LU-D,Diekirch,LUX,Luxembourg,country
+LU-G,Grevenmacher,LUX,Luxembourg,country
+LU-L,Luxembourg,LUX,Luxembourg,country
+MO-M,Macau,MAC,Macao,country
+MDG-5860,Alaotra-Mangoro,MDG,Madagascar,country
+MDG-5861,Amoron'i Mania,MDG,Madagascar,country
+MDG-5862,Analamanga,MDG,Madagascar,country
+MDG-5863,Analanjirofo,MDG,Madagascar,country
+MDG-5864,Androy,MDG,Madagascar,country
+MDG-5865,Anosy,MDG,Madagascar,country
+MDG-5866,Atsimo-Andrefana,MDG,Madagascar,country
+MDG-5867,Atsimo-Atsinanana,MDG,Madagascar,country
+MDG-5868,Atsinanana,MDG,Madagascar,country
+MDG-5869,Betsiboka,MDG,Madagascar,country
+MDG-5870,Boeny,MDG,Madagascar,country
+MDG-5871,Bongolava,MDG,Madagascar,country
+MDG-5872,Diana,MDG,Madagascar,country
+MDG-5873,Haute Matsiatra,MDG,Madagascar,country
+MDG-5874,Ihorombe,MDG,Madagascar,country
+MDG-5875,Itasy,MDG,Madagascar,country
+MDG-5876,Melaky,MDG,Madagascar,country
+MDG-5878,Menabe,MDG,Madagascar,country
+MDG-5879,Sava,MDG,Madagascar,country
+MDG-5880,Sofia,MDG,Madagascar,country
+MDG-5881,Vakinankaratra,MDG,Madagascar,country
+MDG-5882,Vatovavy-Fitovinany,MDG,Madagascar,country
+MW-BA,Balaka,MWI,Malawi,country
+MW-BL,Blantyre,MWI,Malawi,country
+MW-CK,Chikwawa,MWI,Malawi,country
+MW-CR,Chiradzulu,MWI,Malawi,country
+MWI-1194,Chitipa,MWI,Malawi,country
+MWI-1873,Chitipa,MWI,Malawi,country
+MW-DE,Dedza,MWI,Malawi,country
+MW-DO,Dowa,MWI,Malawi,country
+MW-KS,Kasungu,MWI,Malawi,country
+MW-LK,Likoma,MWI,Malawi,country
+MW-LI,Lilongwe,MWI,Malawi,country
+MW-MH,Machinga,MWI,Malawi,country
+MW-MG,Mangochi,MWI,Malawi,country
+MW-MC,Mchinji,MWI,Malawi,country
+MW-MU,Mulanje,MWI,Malawi,country
+MW-MW,Mwanza,MWI,Malawi,country
+MW-MZ,Mzimba,MWI,Malawi,country
+MW-NE,Neno,MWI,Malawi,country
+MW-NB,Nkhata Bay,MWI,Malawi,country
+MW-NK,Nkhotakota,MWI,Malawi,country
+MW-NS,Nsanje,MWI,Malawi,country
+MW-NU,Ntcheu,MWI,Malawi,country
+MW-NI,Ntchisi,MWI,Malawi,country
+MW-PH,Phalombe,MWI,Malawi,country
+MW-RU,Rumphi,MWI,Malawi,country
+MW-SA,Salima,MWI,Malawi,country
+MW-TH,Thyolo,MWI,Malawi,country
+MW-ZO,Zomba,MWI,Malawi,country
+MY-01,Johor,MYS,Malaysia,region
+MY-02,Kedah,MYS,Malaysia,region
+MY-03,Kelantan,MYS,Malaysia,region
+MY-14,Kuala Lumpur,MYS,Malaysia,region
+MY-15,Labuan,MYS,Malaysia,region
+MY-04,Melaka,MYS,Malaysia,region
+MY-05,Negeri Sembilan,MYS,Malaysia,region
+MY-06,Pahang,MYS,Malaysia,region
+MY-08,Perak,MYS,Malaysia,region
+MY-09,Perlis,MYS,Malaysia,region
+MY-07,Pulau Pinang,MYS,Malaysia,region
+MY-16,Putrajaya,MYS,Malaysia,region
+MY-12,Sabah,MYS,Malaysia,region
+MY-13,Sarawak,MYS,Malaysia,region
+MY-10,Selangor,MYS,Malaysia,region
+MY-11,Terengganu,MYS,Malaysia,region
+MV-01,Addu,MDV,Maldives,country
+MV-02,Alifu Alifu,MDV,Maldives,country
+MV-00,Alifu Dhaalu,MDV,Maldives,country
+MV-20,Baa,MDV,Maldives,country
+MV-17,Dhaalu,MDV,Maldives,country
+MV-14,Faafu,MDV,Maldives,country
+MV-27,Gaafu Alifu,MDV,Maldives,country
+MV-28,Gaafu Dhaalu,MDV,Maldives,country
+MV-29,Gnaviyani,MDV,Maldives,country
+MV-07,Haa Alifu,MDV,Maldives,country
+MV-23,Haa Dhaalu,MDV,Maldives,country
+MV-26,Kaafu,MDV,Maldives,country
+MV-05,Laamu,MDV,Maldives,country
+MV-03,Lhaviyani,MDV,Maldives,country
+MDV-5234,Malé,MDV,Maldives,country
+MDV-5236,Meemu,MDV,Maldives,country
+MV-25,Noonu,MDV,Maldives,country
+MV-13,Raa,MDV,Maldives,country
+MV-24,Shaviyani,MDV,Maldives,country
+MV-08,Thaa,MDV,Maldives,country
+MV-04,Vaavu,MDV,Maldives,country
+ML-BKO,Bamako,MLI,Mali,country
+ML-7,Gao,MLI,Mali,country
+ML-1,Kayes,MLI,Mali,country
+ML-8,Kidal,MLI,Mali,country
+ML-2,Koulikoro,MLI,Mali,country
+ML-5,Mopti,MLI,Mali,country
+ML-4,Ségou,MLI,Mali,country
+ML-3,Sikasso,MLI,Mali,country
+ML-6,Timbuktu,MLI,Mali,country
+MT-01,Attard,MLT,Malta,country
+MT-02,Balzan,MLT,Malta,country
+MT-03,Birgu,MLT,Malta,country
+MT-04,Birkirkara,MLT,Malta,country
+MT-05,Birżebbuġa,MLT,Malta,country
+MT-06,Cospicua,MLT,Malta,country
+MT-07,Dingli,MLT,Malta,country
+MT-08,Fgura,MLT,Malta,country
+MT-09,Floriana,MLT,Malta,country
+MT-10,"Fontana, Gozo",MLT,Malta,country
+MT-13,Għajnsielem,MLT,Malta,country
+MT-14,Għarb,MLT,Malta,country
+MT-15,Għargħur,MLT,Malta,country
+MT-16,Għasri,MLT,Malta,country
+MT-17,Għaxaq,MLT,Malta,country
+MT-11,Gudja,MLT,Malta,country
+MT-12,Gżira,MLT,Malta,country
+MT-18,Ħamrun,MLT,Malta,country
+MT-19,Iklin,MLT,Malta,country
+MT-20,Isla,MLT,Malta,country
+MT-21,Kalkara,MLT,Malta,country
+MT-22,Kerċem,MLT,Malta,country
+MT-23,Kirkop,MLT,Malta,country
+MT-24,Lija,MLT,Malta,country
+MT-25,Luqa,MLT,Malta,country
+MT-26,Marsa,MLT,Malta,country
+MT-27,Marsaskala,MLT,Malta,country
+MT-28,Marsaxlokk,MLT,Malta,country
+MT-29,Mdina,MLT,Malta,country
+MT-30,Mellieħa,MLT,Malta,country
+MT-31,Mġarr,MLT,Malta,country
+MT-32,Mosta,MLT,Malta,country
+MT-33,Mqabba,MLT,Malta,country
+MT-34,Msida,MLT,Malta,country
+MT-35,Mtarfa,MLT,Malta,country
+MT-36,Munxar,MLT,Malta,country
+MT-37,Nadur,MLT,Malta,country
+MT-38,Naxxar,MLT,Malta,country
+MT-39,Paola,MLT,Malta,country
+MT-40,Pembroke,MLT,Malta,country
+MT-41,Pietà,MLT,Malta,country
+MT-42,Qala,MLT,Malta,country
+MT-43,Qormi,MLT,Malta,country
+MT-44,Qrendi,MLT,Malta,country
+MT-46,Rabat,MLT,Malta,country
+MT-47,Safi,MLT,Malta,country
+MT-48,San Giljan,MLT,Malta,country
+MT-49,San Ġwann,MLT,Malta,country
+MT-50,San Lawrenz,MLT,Malta,country
+MT-51,San Pawl il-Bahar,MLT,Malta,country
+MT-52,Sannat,MLT,Malta,country
+MT-53,Santa Luċija,MLT,Malta,country
+MT-54,Santa Venera,MLT,Malta,country
+MT-55,Siġġiewi,MLT,Malta,country
+MT-56,Sliema,MLT,Malta,country
+MT-57,Swieqi,MLT,Malta,country
+MT-58,Ta' Xbiex,MLT,Malta,country
+MT-59,Tarxien,MLT,Malta,country
+MT-60,Valletta,MLT,Malta,country
+MT-45,Victoria,MLT,Malta,country
+MT-61,Xagħra,MLT,Malta,country
+MT-62,Xewkija,MLT,Malta,country
+MT-63,Xgħajra,MLT,Malta,country
+MT-64,Żabbar,MLT,Malta,country
+MT-65,Żebbuġ,MLT,Malta,country
+MT-66,Żebbuġ,MLT,Malta,country
+MT-67,Żejtun,MLT,Malta,country
+MT-68,Żurrieq,MLT,Malta,country
+MH-L,Railik Chain,MHL,Marshall Islands,country
+MH-T,Ratak Chain,MHL,Marshall Islands,country
+MR-07,Adrar,MRT,Mauritania,country
+MR-03,Assaba,MRT,Mauritania,country
+MR-05,Brakna,MRT,Mauritania,country
+MR-08,Dakhlet Nouadhibou,MRT,Mauritania,country
+MR-04,Gorgol,MRT,Mauritania,country
+MR-10,Guidimaka,MRT,Mauritania,country
+MR-01,Hodh ech Chargui,MRT,Mauritania,country
+MR-02,Hodh el Gharbi,MRT,Mauritania,country
+MR-12,Inchiri,MRT,Mauritania,country
+MR-NKC,Nouakchott,MRT,Mauritania,country
+MR-09,Tagant,MRT,Mauritania,country
+MR-11,Tiris Zemmour,MRT,Mauritania,country
+MR-06,Trarza,MRT,Mauritania,country
+MU-AG,Agaléga,MUS,Mauritius,country
+MU-BR,Beau Bassin-Rose Hill,MUS,Mauritius,country
+MU-CU,Curepipe,MUS,Mauritius,country
+MU-FL,Flacq,MUS,Mauritius,country
+MU-GP,Grand Port,MUS,Mauritius,country
+MU-MO,Moka,MUS,Mauritius,country
+MU-PA,Pamplemousses,MUS,Mauritius,country
+MU-PW,Plaines Wilhems,MUS,Mauritius,country
+MUS-5189,Port Louis,MUS,Mauritius,country
+MUS-5190,Port Louis city,MUS,Mauritius,country
+MU-QB,Quatre Bornes,MUS,Mauritius,country
+MU-RR,Rivière du Rempart,MUS,Mauritius,country
+MU-BL,Rivière Noire,MUS,Mauritius,country
+MU-RO,Rodrigues,MUS,Mauritius,country
+MU-SA,Savanne,MUS,Mauritius,country
+MU-VP,Vacoas-Phoenix,MUS,Mauritius,country
+MX-AGU,Aguascalientes,MEX,Mexico,country
+MX-BCN,Baja California,MEX,Mexico,country
+MX-BCS,Baja California Sur,MEX,Mexico,country
+MX-CAM,Campeche,MEX,Mexico,country
+MX-CHP,Chiapas,MEX,Mexico,country
+MX-CHH,Chihuahua,MEX,Mexico,country
+MX-COA,Coahuila,MEX,Mexico,country
+MX-COL,Colima,MEX,Mexico,country
+MX-DIF,Distrito Federal,MEX,Mexico,country
+MX-DUR,Durango,MEX,Mexico,country
+MX-GUA,Guanajuato,MEX,Mexico,country
+MX-GRO,Guerrero,MEX,Mexico,country
+MX-HID,Hidalgo,MEX,Mexico,country
+MX-JAL,Jalisco,MEX,Mexico,country
+MEX-99,Mexico,MEX,Mexico,country
+MX-MEX,México,MEX,Mexico,country
+MX-MIC,Michoacán,MEX,Mexico,country
+MX-MOR,Morelos,MEX,Mexico,country
+MX-NAY,Nayarit,MEX,Mexico,country
+MX-NLE,Nuevo León,MEX,Mexico,country
+MX-OAX,Oaxaca,MEX,Mexico,country
+MX-PUE,Puebla,MEX,Mexico,country
+MX-QUE,Querétaro,MEX,Mexico,country
+MX-ROO,Quintana Roo,MEX,Mexico,country
+MX-SLP,San Luis Potosí,MEX,Mexico,country
+MX-SIN,Sinaloa,MEX,Mexico,country
+MX-SON,Sonora,MEX,Mexico,country
+MX-TAB,Tabasco,MEX,Mexico,country
+MX-TAM,Tamaulipas,MEX,Mexico,country
+MX-TLA,Tlaxcala,MEX,Mexico,country
+MX-VER,Veracruz,MEX,Mexico,country
+MX-YUC,Yucatán,MEX,Mexico,country
+MX-ZAC,Zacatecas,MEX,Mexico,country
+MD-AN,Anenii Noi,MDA,Moldova,country
+MD-BA,Bălţi,MDA,Moldova,country
+MD-BS,Basarabeasca,MDA,Moldova,country
+MD-BD,Bender,MDA,Moldova,country
+MD-BR,Briceni,MDA,Moldova,country
+MD-CA,Cahul,MDA,Moldova,country
+MD-CL,Călărași,MDA,Moldova,country
+MD-CAM,Camenca,MDA,Moldova,country
+MD-CT,Cantemir,MDA,Moldova,country
+MD-CS,Causeni,MDA,Moldova,country
+MD-CU,Chişinău,MDA,Moldova,country
+MD-CM,Cimişlia,MDA,Moldova,country
+MD-GA,Comrat,MDA,Moldova,country
+MD-CR,Criuleni,MDA,Moldova,country
+MD-DO,Donduseni,MDA,Moldova,country
+MD-DR,Drochia,MDA,Moldova,country
+MD-ED,Edineţ,MDA,Moldova,country
+MD-FA,Făleşti,MDA,Moldova,country
+MD-FL,Floreşti,MDA,Moldova,country
+MD-GL,Glodeni,MDA,Moldova,country
+MD-GRI,Grigoriopol,MDA,Moldova,country
+MD-HI,Hîncesti,MDA,Moldova,country
+MD-IA,Ialoveni,MDA,Moldova,country
+MD-LE,Leova,MDA,Moldova,country
+MD-NI,Nisporeni,MDA,Moldova,country
+MD-OC,Ocniţa,MDA,Moldova,country
+MD-OR,Orhei,MDA,Moldova,country
+MDA-1645,Rezina,MDA,Moldova,country
+MDA-1644,Rezina,MDA,Moldova,country
+MD-RI,Rîşcani,MDA,Moldova,country
+MD-SI,Sîngerei,MDA,Moldova,country
+MD-SD,Şoldăneşti,MDA,Moldova,country
+MD-SO,Soroca,MDA,Moldova,country
+MD-SV,Ștefan Vodă,MDA,Moldova,country
+MDA-1628,Stîngă Nistrului,MDA,Moldova,country
+MD-ST,Străşeni,MDA,Moldova,country
+MD-TA,Taraclia,MDA,Moldova,country
+MD-TE,Teleneşti,MDA,Moldova,country
+MDA-1638,Transnistria,MDA,Moldova,country
+MD-UN,Ungheni,MDA,Moldova,country
+MCO-00,Monaco,MCO,Monaco,country
+MN-073,Arhangay,MNG,Mongolia,country
+MN-071,Bayan-Ölgiy,MNG,Mongolia,country
+MN-069,Bayanhongor,MNG,Mongolia,country
+MN-067,Bulgan,MNG,Mongolia,country
+MN-037,Darhan-Uul,MNG,Mongolia,country
+MN-061,Dornod,MNG,Mongolia,country
+MN-063,Dornogovi,MNG,Mongolia,country
+MN-059,Dundgovi,MNG,Mongolia,country
+MN-057,Dzavhan,MNG,Mongolia,country
+MN-065,Govi-Altay,MNG,Mongolia,country
+MN-064,Govĭ-Sümber,MNG,Mongolia,country
+MN-039,Hentiy,MNG,Mongolia,country
+MN-043,Hovd,MNG,Mongolia,country
+MN-041,Hövsgöl,MNG,Mongolia,country
+MN-053,Ömnögovi,MNG,Mongolia,country
+MN-035,Orhon,MNG,Mongolia,country
+MN-055,Övörhangay,MNG,Mongolia,country
+MN-049,Selenge,MNG,Mongolia,country
+MN-051,Sühbaatar,MNG,Mongolia,country
+MN-047,Töv,MNG,Mongolia,country
+MN-1,Ulaanbaatar,MNG,Mongolia,country
+MN-046,Uvs,MNG,Mongolia,country
+ME-01,Andrijevica,MNE,Montenegro,country
+ME-02,Bar,MNE,Montenegro,country
+ME-03,Berane,MNE,Montenegro,country
+ME-04,Bijelo Polje,MNE,Montenegro,country
+ME-05,Budva,MNE,Montenegro,country
+ME-06,Cetinje,MNE,Montenegro,country
+ME-07,Danilovgrad,MNE,Montenegro,country
+ME-08,Herceg Novi,MNE,Montenegro,country
+ME-09,Kolašin,MNE,Montenegro,country
+ME-10,Kotor,MNE,Montenegro,country
+ME-11,Mojkovac,MNE,Montenegro,country
+ME-12,Nikšic,MNE,Montenegro,country
+ME-13,Plav,MNE,Montenegro,country
+ME-14,Pljevlja,MNE,Montenegro,country
+ME-15,Plužine,MNE,Montenegro,country
+ME-16,Podgorica,MNE,Montenegro,country
+ME-17,Rožaje,MNE,Montenegro,country
+ME-18,Šavnik,MNE,Montenegro,country
+ME-19,Tivat,MNE,Montenegro,country
+ME-20,Ulcinj,MNE,Montenegro,country
+ME-21,Žabljak,MNE,Montenegro,country
+MS-A,Saint Anthony,MSR,Montserrat,none
+MS-G,Saint Georges,MSR,Montserrat,none
+MS-P,Saint Peter,MSR,Montserrat,none
+MA-09,Chaouia - Ouardigha,MAR,Morocco,country
+MA-10,Doukkala - Abda,MAR,Morocco,country
+MA-05,Fès - Boulemane,MAR,Morocco,country
+MA-02,Gharb - Chrarda - Béni Hssen,MAR,Morocco,country
+MA-08,Grand Casablanca,MAR,Morocco,country
+MA-14,Guelmim - Es-Semara,MAR,Morocco,country
+MA-15,Laâyoune - Boujdour - Sakia El Hamra,MAR,Morocco,country
+MA-11,Marrakech - Tensift - Al Haouz,MAR,Morocco,country
+MA-06,Meknès - Tafilalet,MAR,Morocco,country
+MA-04,Oriental,MAR,Morocco,country
+MA-16,Oued el Dahab,MAR,Morocco,country
+MA-07,Rabat - Salé - Zemmour - Zaer,MAR,Morocco,country
+MA-13,Souss - Massa - Draâ,MAR,Morocco,country
+MA-12,Tadla - Azilal,MAR,Morocco,country
+MA-01,Tanger - Tétouan,MAR,Morocco,country
+MA-03,Taza - Al Hoceima - Taounate,MAR,Morocco,country
+MZ-P,Cabo Delgado,MOZ,Mozambique,country
+MZ-G,Gaza,MOZ,Mozambique,country
+MZ-I,Inhambane,MOZ,Mozambique,country
+MZ-B,Manica,MOZ,Mozambique,country
+MOZ-1927,Maputo,MOZ,Mozambique,country
+MOZ-5854,Maputo,MOZ,Mozambique,country
+MZ-N,Nampula,MOZ,Mozambique,country
+MZ-A,Niassa,MOZ,Mozambique,country
+MZ-S,Sofala,MOZ,Mozambique,country
+MZ-T,Tete,MOZ,Mozambique,country
+MZ-Q,Zambezia,MOZ,Mozambique,country
+MM-07,Ayeyarwady,MMR,Myanmar,country
+MM-02,Bago,MMR,Myanmar,country
+MM-14,Chin,MMR,Myanmar,country
+MM-11,Kachin,MMR,Myanmar,country
+MM-12,Kayah,MMR,Myanmar,country
+MM-13,Kayin,MMR,Myanmar,country
+MM-03,Magway,MMR,Myanmar,country
+MM-04,Mandalay,MMR,Myanmar,country
+MM-15,Mon,MMR,Myanmar,country
+MM-16,Rakhine,MMR,Myanmar,country
+MM-01,Sagaing,MMR,Myanmar,country
+MM-17,Shan,MMR,Myanmar,country
+MM-05,Tanintharyi,MMR,Myanmar,country
+MM-06,Yangon,MMR,Myanmar,country
+NA-CA,Caprivi,NAM,Namibia,country
+NA-ER,Erongo,NAM,Namibia,country
+NA-HA,Hardap,NAM,Namibia,country
+NA-KA,Karas,NAM,Namibia,country
+NA-OK,Kavango,NAM,Namibia,country
+NA-KH,Khomas,NAM,Namibia,country
+NA-KU,Kunene,NAM,Namibia,country
+NA-OW,Ohangwena,NAM,Namibia,country
+NA-OH,Omaheke,NAM,Namibia,country
+NA-OS,Omusati,NAM,Namibia,country
+NA-ON,Oshana,NAM,Namibia,country
+NA-OT,Oshikoto,NAM,Namibia,country
+NA-OD,Otjozondjupa,NAM,Namibia,country
+NR-01,Aiwo,NRU,Nauru,country
+NR-02,Anabar,NRU,Nauru,country
+NR-03,Anetan,NRU,Nauru,country
+NR-04,Anibare,NRU,Nauru,country
+NR-05,Baiti,NRU,Nauru,country
+NR-06,Boe,NRU,Nauru,country
+NR-07,Buada,NRU,Nauru,country
+NR-08,Denigomodu,NRU,Nauru,country
+NR-09,Ewa,NRU,Nauru,country
+NR-10,Ijuw,NRU,Nauru,country
+NR-11,Meneng,NRU,Nauru,country
+NR-12,Nibok,NRU,Nauru,country
+NR-13,Uaboe,NRU,Nauru,country
+NR-14,Yaren,NRU,Nauru,country
+NP-BA,Bagmati,NPL,Nepal,country
+NP-BH,Bheri,NPL,Nepal,country
+NP-KO,Bhojpur,NPL,Nepal,country
+NP-DH,Dhawalagiri,NPL,Nepal,country
+NP-GA,Gandaki,NPL,Nepal,country
+NP-JA,Janakpur,NPL,Nepal,country
+NP-KA,Karnali,NPL,Nepal,country
+NP-LU,Lumbini,NPL,Nepal,country
+NP-MA,Mahakali,NPL,Nepal,country
+NP-ME,Mechi,NPL,Nepal,country
+NP-NA,Narayani,NPL,Nepal,country
+NP-RA,Rapti,NPL,Nepal,country
+NP-SA,Sagarmatha,NPL,Nepal,country
+NP-SE,Seti,NPL,Nepal,country
+NL-BQ1,Bonaire,NLD,Netherlands,country
+NL-DR,Drenthe,NLD,Netherlands,country
+NL-FL,Flevoland,NLD,Netherlands,country
+NL-FR,Friesland,NLD,Netherlands,country
+NL-GE,Gelderland,NLD,Netherlands,country
+NL-GR,Groningen,NLD,Netherlands,country
+NL-LI,Limburg,NLD,Netherlands,country
+NL-NB,Noord-Brabant,NLD,Netherlands,country
+NL-NH,Noord-Holland,NLD,Netherlands,country
+NL-OV,Overijssel,NLD,Netherlands,country
+NL-BQ2,Saba,NLD,Netherlands,country
+NL-BQ3,St. Eustatius,NLD,Netherlands,country
+NL-UT,Utrecht,NLD,Netherlands,country
+NL-ZE,Zeeland,NLD,Netherlands,country
+NL-ZH,Zuid-Holland,NLD,Netherlands,country
+NCL-1258,Îles Loyauté,NCL,New Caledonia,country
+NCL-559,Nord,NCL,New Caledonia,country
+NCL-1259,Sud,NCL,New Caledonia,country
+NZL-5477,Antipodes Islands,NZL,New Zealand,country
+NZ-AUK,Auckland,NZL,New Zealand,country
+NZL-5479,Auckland Islands,NZL,New Zealand,country
+NZ-BOP,Bay of Plenty,NZL,New Zealand,country
+NZL-5478,Campbell Islands,NZL,New Zealand,country
+NZ-CAN,Canterbury,NZL,New Zealand,country
+NZ-CIT,Chatham Islands Territory,NZL,New Zealand,country
+NZ-GIS,Gisborne District,NZL,New Zealand,country
+NZ-HKB,Hawke's Bay,NZL,New Zealand,country
+NZL-5471,Kermadec Islands,NZL,New Zealand,country
+NZ-MWT,Manawatu-Wanganui,NZL,New Zealand,country
+NZ-MBH,Marlborough District,NZL,New Zealand,country
+NZ-NSN,Nelson City,NZL,New Zealand,country
+NZ-NTL,Northland,NZL,New Zealand,country
+NZ-OTA,Otago,NZL,New Zealand,country
+NZ-STL,Southland,NZL,New Zealand,country
+NZ-TKI,Taranaki,NZL,New Zealand,country
+NZ-TAS,Tasman District,NZL,New Zealand,country
+NZL-5480,The Snares,NZL,New Zealand,country
+NZL-5476,Three Kings Islands,NZL,New Zealand,country
+NZL-5472,Tokelau,NZL,New Zealand,country
+NZ-WKO,Waikato,NZL,New Zealand,country
+NZ-WGN,Wellington,NZL,New Zealand,country
+NZ-WTC,West Coast,NZL,New Zealand,country
+NI-AN,Atlántico Norte,NIC,Nicaragua,country
+NI-AS,Atlántico Sur,NIC,Nicaragua,country
+NI-BO,Boaco,NIC,Nicaragua,country
+NI-CA,Carazo,NIC,Nicaragua,country
+NI-CI,Chinandega,NIC,Nicaragua,country
+NI-CO,Chontales,NIC,Nicaragua,country
+NI-ES,Estelí,NIC,Nicaragua,country
+NI-GR,Granada,NIC,Nicaragua,country
+NI-JI,Jinotega,NIC,Nicaragua,country
+NI-LE,León,NIC,Nicaragua,country
+NI-MD,Madriz,NIC,Nicaragua,country
+NI-MN,Managua,NIC,Nicaragua,country
+NI-MS,Masaya,NIC,Nicaragua,country
+NI-MT,Matagalpa,NIC,Nicaragua,country
+NI-NS,Nueva Segovia,NIC,Nicaragua,country
+NI-SJ,Rio San Juan,NIC,Nicaragua,country
+NI-RI,Rivas,NIC,Nicaragua,country
+NE-1,Agadez,NER,Niger,country
+NE-2,Diffa,NER,Niger,country
+NE-3,Dosso,NER,Niger,country
+NE-4,Maradi,NER,Niger,country
+NE-8,Niamey,NER,Niger,country
+NE-5,Tahoua,NER,Niger,country
+NE-6,Tillabéri,NER,Niger,country
+NE-7,Zinder,NER,Niger,country
+NG-AB,Abia,NGA,Nigeria,country
+NG-AD,Adamawa,NGA,Nigeria,country
+NG-AK,Akwa Ibom,NGA,Nigeria,country
+NG-AN,Anambra,NGA,Nigeria,country
+NG-BA,Bauchi,NGA,Nigeria,country
+NG-BY,Bayelsa,NGA,Nigeria,country
+NG-BE,Benue,NGA,Nigeria,country
+NG-BO,Borno,NGA,Nigeria,country
+NG-CR,Cross River,NGA,Nigeria,country
+NG-DE,Delta,NGA,Nigeria,country
+NG-EB,Ebonyi,NGA,Nigeria,country
+NG-ED,Edo,NGA,Nigeria,country
+NG-EK,Ekiti,NGA,Nigeria,country
+NG-EN,Enugu,NGA,Nigeria,country
+NG-FC,Federal Capital Territory,NGA,Nigeria,country
+NG-GO,Gombe,NGA,Nigeria,country
+NG-IM,Imo,NGA,Nigeria,country
+NG-JI,Jigawa,NGA,Nigeria,country
+NG-KD,Kaduna,NGA,Nigeria,country
+NG-KN,Kano,NGA,Nigeria,country
+NG-KT,Katsina,NGA,Nigeria,country
+NG-KE,Kebbi,NGA,Nigeria,country
+NG-KO,Kogi,NGA,Nigeria,country
+NG-KW,Kwara,NGA,Nigeria,country
+NG-LA,Lagos,NGA,Nigeria,country
+NG-NA,Nassarawa,NGA,Nigeria,country
+NG-NI,Niger,NGA,Nigeria,country
+NG-OG,Ogun,NGA,Nigeria,country
+NG-ON,Ondo,NGA,Nigeria,country
+NG-OS,Osun,NGA,Nigeria,country
+NG-OY,Oyo,NGA,Nigeria,country
+NG-PL,Plateau,NGA,Nigeria,country
+NG-RI,Rivers,NGA,Nigeria,country
+NG-SO,Sokoto,NGA,Nigeria,country
+NG-TA,Taraba,NGA,Nigeria,country
+NG-YO,Yobe,NGA,Nigeria,country
+NG-ZA,Zamfara,NGA,Nigeria,country
+NIU-5481,Niue,NIU,Niue,none
+NFK-00,Norfolk Island,NFK,Norfolk Island,none
+MK-01,Aerodrom,MKD,North Macedonia,country
+MK-02,Aračinovo,MKD,North Macedonia,country
+MK-03,Berovo,MKD,North Macedonia,country
+MK-04,Bitola,MKD,North Macedonia,country
+MK-05,Bogdanci,MKD,North Macedonia,country
+MK-06,Bogovinje,MKD,North Macedonia,country
+MK-07,Bosilovo,MKD,North Macedonia,country
+MK-52,Brod,MKD,North Macedonia,country
+MK-08,Brvenica,MKD,North Macedonia,country
+MK-09,Butel,MKD,North Macedonia,country
+MK-79,Čair,MKD,North Macedonia,country
+MK-80,Čaška,MKD,North Macedonia,country
+MK-77,Centar,MKD,North Macedonia,country
+MK-78,Centar župa,MKD,North Macedonia,country
+MK-81,Češinovo-Obleševo,MKD,North Macedonia,country
+MK-82,Čučer Sandevo,MKD,North Macedonia,country
+MK-21,Debar,MKD,North Macedonia,country
+MK-22,Debarca,MKD,North Macedonia,country
+MK-23,Delčevo,MKD,North Macedonia,country
+MK-25,Demir Hisar,MKD,North Macedonia,country
+MK-24,Demir Kapija,MKD,North Macedonia,country
+MK-26,Dojran,MKD,North Macedonia,country
+MK-27,Dolneni,MKD,North Macedonia,country
+MK-28,Drugovo,MKD,North Macedonia,country
+MK-17,Gazi Baba,MKD,North Macedonia,country
+MK-18,Gevgelija,MKD,North Macedonia,country
+MK-29,Gjorče Petrov,MKD,North Macedonia,country
+MK-19,Gostivar,MKD,North Macedonia,country
+MK-20,Gradsko,MKD,North Macedonia,country
+MK-34,Ilinden,MKD,North Macedonia,country
+MK-35,Jegunovce,MKD,North Macedonia,country
+MK-37,Karbinci,MKD,North Macedonia,country
+MK-38,Karpoš,MKD,North Macedonia,country
+MK-36,Kavadartsi,MKD,North Macedonia,country
+MK-40,Kičevo,MKD,North Macedonia,country
+MK-39,Kisela Voda,MKD,North Macedonia,country
+MK-42,Kočani,MKD,North Macedonia,country
+MK-41,Konče,MKD,North Macedonia,country
+MK-43,Kratovo,MKD,North Macedonia,country
+MK-44,Kriva Palanka,MKD,North Macedonia,country
+MK-45,Krivogaštani,MKD,North Macedonia,country
+MK-46,Kruševo,MKD,North Macedonia,country
+MK-47,Kumanovo,MKD,North Macedonia,country
+MK-48,Lipkovo,MKD,North Macedonia,country
+MK-49,Lozovo,MKD,North Macedonia,country
+MK-51,Makedonska Kamenica,MKD,North Macedonia,country
+MK-50,Mavrovo and Rostusa,MKD,North Macedonia,country
+MK-53,Mogila,MKD,North Macedonia,country
+MK-54,Negotino,MKD,North Macedonia,country
+MK-55,Novaci,MKD,North Macedonia,country
+MK-56,Novo Selo,MKD,North Macedonia,country
+MK-58,Ohrid,MKD,North Macedonia,country
+MK-57,Oslomej,MKD,North Macedonia,country
+MK-60,Pehčevo,MKD,North Macedonia,country
+MK-61,Plasnica,MKD,North Macedonia,country
+MK-62,Prilep,MKD,North Macedonia,country
+MK-63,Probištip,MKD,North Macedonia,country
+MK-64,Radoviš,MKD,North Macedonia,country
+MK-65,Rankovce,MKD,North Macedonia,country
+MK-66,Resen,MKD,North Macedonia,country
+MK-67,Rosoman,MKD,North Macedonia,country
+MK-68,Saraj,MKD,North Macedonia,country
+MK-85,Skopje,MKD,North Macedonia,country
+MK-70,Sopište,MKD,North Macedonia,country
+MK-71,Staro Nagoričane,MKD,North Macedonia,country
+MK-83,Štip,MKD,North Macedonia,country
+MK-72,Struga,MKD,North Macedonia,country
+MK-73,Strumitsa,MKD,North Macedonia,country
+MK-74,Studeničani,MKD,North Macedonia,country
+MK-84,Šuto Orizari,MKD,North Macedonia,country
+MK-69,Sveti Nikole,MKD,North Macedonia,country
+MK-75,Tearce,MKD,North Macedonia,country
+MK-76,Tetovo,MKD,North Macedonia,country
+MK-10,Valandovo,MKD,North Macedonia,country
+MK-11,Vasilevo,MKD,North Macedonia,country
+MK-13,Veles,MKD,North Macedonia,country
+MK-12,Vevčani,MKD,North Macedonia,country
+MK-14,Vinica,MKD,North Macedonia,country
+MK-15,Vraneštica,MKD,North Macedonia,country
+MK-16,Vrapcište,MKD,North Macedonia,country
+MK-31,Zajas,MKD,North Macedonia,country
+MK-32,Zelenikovo,MKD,North Macedonia,country
+MK-30,Želino,MKD,North Macedonia,country
+MK-33,Zrnovci,MKD,North Macedonia,country
+CYN-00,Northern Cyprus,CYN,Northern Cyprus,none
+MNP-4940,Northern Islands,MNP,Northern Mariana Islands,country
+MNP-4937,Rota,MNP,Northern Mariana Islands,country
+MNP-4939,Saipan,MNP,Northern Mariana Islands,country
+MNP-4938,Tinian,MNP,Northern Mariana Islands,country
+NO-02,Akershus,NOR,Norway,country
+NO-09,Aust-Agder,NOR,Norway,country
+BVT-00,Bouvet Island,NOR,Norway,country
+NO-06,Buskerud,NOR,Norway,country
+NO-20,Finnmark,NOR,Norway,country
+NO-04,Hedmark,NOR,Norway,country
+NO-12,Hordaland,NOR,Norway,country
+NO-15,Møre og Romsdal,NOR,Norway,country
+NO-17,Nord-Trøndelag,NOR,Norway,country
+NO-18,Nordland,NOR,Norway,country
+NO-05,Oppland,NOR,Norway,country
+NO-03,Oslo,NOR,Norway,country
+NO-01,Østfold,NOR,Norway,country
+NO-11,Rogaland,NOR,Norway,country
+NO-14,Sogn og Fjordane,NOR,Norway,country
+NO-16,Sør-Trøndelag,NOR,Norway,country
+NO-21,Svalbard,NOR,Norway,country
+NO-08,Telemark,NOR,Norway,country
+NO-19,Troms,NOR,Norway,country
+NO-10,Vest-Agder,NOR,Norway,country
+NO-07,Vestfold,NOR,Norway,country
+OM-DA,Ad Dakhliyah,OMN,Oman,country
+OM-BA,Al Batnah North,OMN,Oman,country
+OM-BJ,Al Batnah South,OMN,Oman,country
+OM-BU,Al Buraymi,OMN,Oman,country
+OM-ZA,Al Dhahira,OMN,Oman,country
+OM-WU,Al Wusta,OMN,Oman,country
+OM-SS,Ash Sharqiyah North,OMN,Oman,country
+OM-SH,Ash Sharqiyah South,OMN,Oman,country
+OM-ZU,Dhofar,OMN,Oman,country
+OM-MU,Musandam,OMN,Oman,country
+OM-MA,Muscat,OMN,Oman,country
+PK-JK,Azad Kashmir,PAK,Pakistan,country
+PK-BA,Baluchistan,PAK,Pakistan,country
+PK-TA,F.A.T.A.,PAK,Pakistan,country
+PK-IS,F.C.T.,PAK,Pakistan,country
+PK-KP,K.P.,PAK,Pakistan,country
+PK-GB,Northern Areas,PAK,Pakistan,country
+PK-PB,Punjab,PAK,Pakistan,country
+PK-SD,Sind,PAK,Pakistan,country
+PW-002,Aimeliik,PLW,Palau,country
+PW-004,Airai,PLW,Palau,country
+PW-010,Angaur,PLW,Palau,country
+PW-050,Hatobohei,PLW,Palau,country
+PW-100,Kayangel,PLW,Palau,country
+PW-150,Koror,PLW,Palau,country
+PW-212,Melekeok,PLW,Palau,country
+PW-214,Ngaraard,PLW,Palau,country
+PW-218,Ngarchelong,PLW,Palau,country
+PW-222,Ngardmau,PLW,Palau,country
+PW-224,Ngatpang,PLW,Palau,country
+PW-226,Ngchesar,PLW,Palau,country
+PW-227,Ngeremlengui,PLW,Palau,country
+PW-228,Ngiwal,PLW,Palau,country
+PW-350,Peleliu,PLW,Palau,country
+PW-370,Sonsorol,PLW,Palau,country
+PS-GZZ,Gaza Strip,PSE,Palestine,country
+PS-WBK,West Bank,PSE,Palestine,country
+PA-1,Bocas del Toro,PAN,Panama,country
+PA-4,Chiriquí,PAN,Panama,country
+PA-2,Coclé,PAN,Panama,country
+PA-3,Colón,PAN,Panama,country
+PA-5,Darién,PAN,Panama,country
+PA-EM,Emberá,PAN,Panama,country
+PA-6,Herrera,PAN,Panama,country
+PA-KY,Kuna Yala,PAN,Panama,country
+PA-7,Los Santos,PAN,Panama,country
+PA-NB,Ngöbe Buglé,PAN,Panama,country
+PA-8,Panama,PAN,Panama,country
+PA-9,Veraguas,PAN,Panama,country
+PG-CPM,Central,PNG,Papua New Guinea,country
+PG-CPK,Chimbu,PNG,Papua New Guinea,country
+PG-EBR,East New Britain,PNG,Papua New Guinea,country
+PG-ESW,East Sepik,PNG,Papua New Guinea,country
+PG-EHG,Eastern Highlands,PNG,Papua New Guinea,country
+PG-EPW,Enga,PNG,Papua New Guinea,country
+PG-GPK,Gulf,PNG,Papua New Guinea,country
+PG-MPM,Madang,PNG,Papua New Guinea,country
+PG-MRL,Manus,PNG,Papua New Guinea,country
+PG-MBA,Milne Bay,PNG,Papua New Guinea,country
+PG-MPL,Morobe,PNG,Papua New Guinea,country
+PG-NCD,National Capital District,PNG,Papua New Guinea,country
+PG-NIK,New Ireland,PNG,Papua New Guinea,country
+PG-NSB,North Solomons,PNG,Papua New Guinea,country
+PG-NPP,Northern,PNG,Papua New Guinea,country
+PG-SAN,Sandaun,PNG,Papua New Guinea,country
+PG-SHM,Southern Highlands,PNG,Papua New Guinea,country
+PG-WBK,West New Britain,PNG,Papua New Guinea,country
+PG-WPD,Western,PNG,Papua New Guinea,country
+PG-WHM,Western Highlands,PNG,Papua New Guinea,country
+PY-16,Alto Paraguay,PRY,Paraguay,country
+PY-10,Alto Paraná,PRY,Paraguay,country
+PY-13,Amambay,PRY,Paraguay,country
+PY-ASU,Asunción,PRY,Paraguay,country
+PY-19,Boquerón,PRY,Paraguay,country
+PY-5,Caaguazú,PRY,Paraguay,country
+PY-6,Caazapá,PRY,Paraguay,country
+PY-14,Canindeyú,PRY,Paraguay,country
+PY-11,Central,PRY,Paraguay,country
+PY-1,Concepción,PRY,Paraguay,country
+PY-3,Cordillera,PRY,Paraguay,country
+PY-4,Guairá,PRY,Paraguay,country
+PY-7,Itapúa,PRY,Paraguay,country
+PY-8,Misiones,PRY,Paraguay,country
+PY-12,Ñeembucú,PRY,Paraguay,country
+PY-9,Paraguarí,PRY,Paraguay,country
+PY-15,Presidente Hayes,PRY,Paraguay,country
+PY-2,San Pedro,PRY,Paraguay,country
+PE-AMA,Amazonas,PER,Peru,country
+PE-ANC,Áncash,PER,Peru,country
+PE-APU,Apurímac,PER,Peru,country
+PE-ARE,Arequipa,PER,Peru,country
+PE-AYA,Ayacucho,PER,Peru,country
+PE-CAJ,Cajamarca,PER,Peru,country
+PE-CAL,Callao,PER,Peru,country
+PE-CUS,Cusco,PER,Peru,country
+PE-HUV,Huancavelica,PER,Peru,country
+PE-HUC,Huánuco,PER,Peru,country
+PE-ICA,Ica,PER,Peru,country
+PE-JUN,Junín,PER,Peru,country
+PE-LAL,La Libertad,PER,Peru,country
+PE-LAM,Lambayeque,PER,Peru,country
+PER-591,Lima,PER,Peru,country
+PER-587,Lima Province,PER,Peru,country
+PE-LOR,Loreto,PER,Peru,country
+PE-MDD,Madre de Dios,PER,Peru,country
+PE-MOQ,Moquegua,PER,Peru,country
+PE-PAS,Pasco,PER,Peru,country
+PE-PIU,Piura,PER,Peru,country
+PE-PUN,Puno,PER,Peru,country
+PE-SAM,San Martín,PER,Peru,country
+PE-TAC,Tacna,PER,Peru,country
+PE-TUM,Tumbes,PER,Peru,country
+PE-UCA,Ucayali,PER,Peru,country
+PH-ABR,Abra,PHL,Philippines,country
+PHL-2587,Agusan del Norte,PHL,Philippines,country
+PH-AGS,Agusan del Sur,PHL,Philippines,country
+PH-AKL,Aklan,PHL,Philippines,country
+PH-ALB,Albay,PHL,Philippines,country
+PHL-5538,Angeles,PHL,Philippines,country
+PH-ANT,Antique,PHL,Philippines,country
+PH-APA,Apayao,PHL,Philippines,country
+PH-AUR,Aurora,PHL,Philippines,country
+PH-BCD,Bacolod,PHL,Philippines,country
+PHL-5539,Baguio,PHL,Philippines,country
+PH-BAS,Basilan,PHL,Philippines,country
+PH-BAN,Bataan,PHL,Philippines,country
+PH-BTN,Batanes,PHL,Philippines,country
+PH-BTG,Batangas,PHL,Philippines,country
+PHL-2559,Benguet,PHL,Philippines,country
+PH-BIL,Biliran,PHL,Philippines,country
+PH-BOH,Bohol,PHL,Philippines,country
+PH-BUK,Bukidnon,PHL,Philippines,country
+PH-BUL,Bulacan,PHL,Philippines,country
+PHL-5532,Butuan,PHL,Philippines,country
+PH-CAG,Cagayan,PHL,Philippines,country
+PHL-5531,Cagayan de Oro,PHL,Philippines,country
+PHL-5545,Caloocan,PHL,Philippines,country
+PH-CAN,Camarines Norte,PHL,Philippines,country
+PHL-2538,Camarines Sur,PHL,Philippines,country
+PH-CAM,Camiguin,PHL,Philippines,country
+PH-CAP,Capiz,PHL,Philippines,country
+PH-CAT,Catanduanes,PHL,Philippines,country
+PH-CAV,Cavite,PHL,Philippines,country
+PHL-5522,Cebu,PHL,Philippines,country
+PHL-2514,Cebu,PHL,Philippines,country
+PH-COM,Compostela Valley,PHL,Philippines,country
+PHL-5527,Cotabato,PHL,Philippines,country
+PHL-2579,Cotabato,PHL,Philippines,country
+PHL-5541,Dagupan,PHL,Philippines,country
+PHL-5528,Davao,PHL,Philippines,country
+PHL-2591,Davao del Norte,PHL,Philippines,country
+PH-DAS,Davao del Sur,PHL,Philippines,country
+PH-DAO,Davao Oriental,PHL,Philippines,country
+PH-EAS,Eastern Samar,PHL,Philippines,country
+PHL-5529,General Santos,PHL,Philippines,country
+PH-GUI,Guimaras,PHL,Philippines,country
+PH-IFU,Ifugao,PHL,Philippines,country
+PHL-5530,Iligan,PHL,Philippines,country
+PH-ILN,Ilocos Norte,PHL,Philippines,country
+PH-ILS,Ilocos Sur,PHL,Philippines,country
+PHL-2529,Iloilo,PHL,Philippines,country
+PHL-5526,Iloilo,PHL,Philippines,country
+PHL-2550,Isabela,PHL,Philippines,country
+PH-KAL,Kalinga,PHL,Philippines,country
+PH-LUN,La Union,PHL,Philippines,country
+PH-LAG,Laguna,PHL,Philippines,country
+PHL-2573,Lanao del Norte,PHL,Philippines,country
+PH-LAS,Lanao del Sur,PHL,Philippines,country
+PH-LAP,Lapu-Lapu,PHL,Philippines,country
+PHL-5556,Las Pinas,PHL,Philippines,country
+PHL-2583,Leyte,PHL,Philippines,country
+PHL-5560,Lucena,PHL,Philippines,country
+PH-MAG,Maguindanao,PHL,Philippines,country
+PHL-5553,Makati,PHL,Philippines,country
+PHL-5546,Malabon,PHL,Philippines,country
+PHL-5542,Mandaluyong City,PHL,Philippines,country
+PH-MDE,Mandaue,PHL,Philippines,country
+PHL-5543,Manila,PHL,Philippines,country
+PHL-5550,Marikina,PHL,Philippines,country
+PH-MAD,Marinduque,PHL,Philippines,country
+PH-MAS,Masbate,PHL,Philippines,country
+PH-MDC,Mindoro Occidental,PHL,Philippines,country
+PH-MDR,Mindoro Oriental,PHL,Philippines,country
+PH-MSC,Misamis Occidental,PHL,Philippines,country
+PHL-2595,Misamis Oriental,PHL,Philippines,country
+PH-MOU,Mountain Province,PHL,Philippines,country
+PHL-5557,Muntinlupa,PHL,Philippines,country
+PHL-5536,Naga,PHL,Philippines,country
+PHL-5544,Navotas,PHL,Philippines,country
+PH-NEC,Negros Occidental,PHL,Philippines,country
+PH-NER,Negros Oriental,PHL,Philippines,country
+PH-NSA,Northern Samar,PHL,Philippines,country
+PH-NUE,Nueva Ecija,PHL,Philippines,country
+PH-NUV,Nueva Vizcaya,PHL,Philippines,country
+PHL-5540,Olongapo,PHL,Philippines,country
+PHL-5534,Ormoc,PHL,Philippines,country
+PHL-2534,Palawan,PHL,Philippines,country
+PHL-2558,Pampanga,PHL,Philippines,country
+PHL-2562,Pangasinan,PHL,Philippines,country
+PHL-5555,Paranaque,PHL,Philippines,country
+PHL-5554,Pasay,PHL,Philippines,country
+PHL-5552,Pasig,PHL,Philippines,country
+PHL-5559,Pateros,PHL,Philippines,country
+PHL-5533,Puerto Princesa,PHL,Philippines,country
+PHL-2572,Quezon,PHL,Philippines,country
+PHL-5549,Quezon City,PHL,Philippines,country
+PH-QUI,Quirino,PHL,Philippines,country
+PH-RIZ,Rizal,PHL,Philippines,country
+PH-ROM,Romblon,PHL,Philippines,country
+PH-WSA,Samar,PHL,Philippines,country
+PHL-5551,San Juan,PHL,Philippines,country
+PHL-5537,Santiago,PHL,Philippines,country
+PH-SAR,Sarangani,PHL,Philippines,country
+PH-SIG,Siquijor,PHL,Philippines,country
+PH-SOR,Sorsogon,PHL,Philippines,country
+PHL-2599,South Cotabato,PHL,Philippines,country
+PH-SLE,Southern Leyte,PHL,Philippines,country
+PH-SUK,Sultan Kudarat,PHL,Philippines,country
+PH-SLU,Sulu,PHL,Philippines,country
+PH-SUN,Surigao del Norte,PHL,Philippines,country
+PH-SUR,Surigao del Sur,PHL,Philippines,country
+PHL-5535,Tacloban,PHL,Philippines,country
+PHL-5558,Taguig,PHL,Philippines,country
+PH-TAR,Tarlac,PHL,Philippines,country
+PH-TAW,Tawi-Tawi,PHL,Philippines,country
+PHL-5547,Valenzuela,PHL,Philippines,country
+PHL-2560,Zambales,PHL,Philippines,country
+PHL-4932,Zamboanga,PHL,Philippines,country
+PHL-2520,Zamboanga del Norte,PHL,Philippines,country
+PH-ZAS,Zamboanga del Sur,PHL,Philippines,country
+PH-ZSI,Zamboanga Sibugay,PHL,Philippines,country
+PCN-00,Pitcairn Islands,PCN,Pitcairn Islands,none
+PL-WP,Greater Poland,POL,Poland,country
+PL-KP,Kuyavian-Pomeranian,POL,Poland,country
+PL-MA,Lesser Poland,POL,Poland,country
+PL-LD,Łódź,POL,Poland,country
+PL-DS,Lower Silesian,POL,Poland,country
+PL-LU,Lublin,POL,Poland,country
+PL-LB,Lubusz,POL,Poland,country
+PL-MZ,Masovian,POL,Poland,country
+PL-OP,Opole,POL,Poland,country
+PL-PD,Podlachian,POL,Poland,country
+PL-PM,Pomeranian,POL,Poland,country
+PL-SL,Silesian,POL,Poland,country
+PL-PK,Subcarpathian,POL,Poland,country
+PL-SK,Świętokrzyskie,POL,Poland,country
+PL-WN,Warmian-Masurian,POL,Poland,country
+PL-ZP,West Pomeranian,POL,Poland,country
+PT-01,Aveiro,PRT,Portugal,country
+PT-20,Azores,PRT,Portugal,country
+PT-02,Beja,PRT,Portugal,country
+PT-03,Braga,PRT,Portugal,country
+PT-04,Bragança,PRT,Portugal,country
+PT-05,Castelo Branco,PRT,Portugal,country
+PT-06,Coimbra,PRT,Portugal,country
+PT-07,Évora,PRT,Portugal,country
+PT-08,Faro,PRT,Portugal,country
+PT-09,Guarda,PRT,Portugal,country
+PT-10,Leiria,PRT,Portugal,country
+PT-11,Lisboa,PRT,Portugal,country
+PT-30,Madeira,PRT,Portugal,country
+PT-12,Portalegre,PRT,Portugal,country
+PT-13,Porto,PRT,Portugal,country
+PT-14,Santarém,PRT,Portugal,country
+PT-15,Setúbal,PRT,Portugal,country
+PT-16,Viana do Castelo,PRT,Portugal,country
+PT-17,Vila Real,PRT,Portugal,country
+PT-18,Viseu,PRT,Portugal,country
+US-PR,Puerto Rico,PRI,Puerto Rico,country
+QA-DA,Ad Dawhah,QAT,Qatar,country
+QA-ZA,Al Daayen,QAT,Qatar,country
+QA-KH,Al Khawr,QAT,Qatar,country
+QA-WA,Al Wakrah,QAT,Qatar,country
+QA-RA,Ar Rayyān,QAT,Qatar,country
+QA-MS,Madinat ach Shamal,QAT,Qatar,country
+QA-US,Umm Salal,QAT,Qatar,country
+CV-BV,Boa Vista,CPV,Republic of Cabo Verde,country
+CV-BR,Brava,CPV,Republic of Cabo Verde,country
+CV-MA,Maio,CPV,Republic of Cabo Verde,country
+CV-MO,Mosteiros,CPV,Republic of Cabo Verde,country
+CV-PA,Paul,CPV,Republic of Cabo Verde,country
+CV-PN,Porto Novo,CPV,Republic of Cabo Verde,country
+CV-PR,Praia,CPV,Republic of Cabo Verde,country
+CV-RB,Ribeira Brava,CPV,Republic of Cabo Verde,country
+CV-RG,Ribeira Grande,CPV,Republic of Cabo Verde,country
+CV-RS,Ribeira Grande de Santiago,CPV,Republic of Cabo Verde,country
+CV-SL,Sal,CPV,Republic of Cabo Verde,country
+CV-CA,Santa Catarina,CPV,Republic of Cabo Verde,country
+CV-CF,Santa Catarina do Fogo,CPV,Republic of Cabo Verde,country
+CV-CR,Santa Cruz,CPV,Republic of Cabo Verde,country
+CV-SD,São Domingos,CPV,Republic of Cabo Verde,country
+CV-SF,São Filipe,CPV,Republic of Cabo Verde,country
+CV-SO,São Lourenço dos Órgãos,CPV,Republic of Cabo Verde,country
+CV-SM,São Miguel,CPV,Republic of Cabo Verde,country
+CV-SS,São Salvador do Mundo,CPV,Republic of Cabo Verde,country
+CV-SV,São Vicente,CPV,Republic of Cabo Verde,country
+CV-TA,Tarrafal,CPV,Republic of Cabo Verde,country
+CV-TS,Tarrafal de São Nicolau,CPV,Republic of Cabo Verde,country
+KR-26,Busan,KOR,Republic of Korea,country
+KR-27,Daegu,KOR,Republic of Korea,country
+KR-30,Daejeon,KOR,Republic of Korea,country
+KR-42,Gangwon,KOR,Republic of Korea,country
+KR-29,Gwangju,KOR,Republic of Korea,country
+KR-41,Gyeonggi,KOR,Republic of Korea,country
+KR-28,Incheon,KOR,Republic of Korea,country
+KR-49,Jeju,KOR,Republic of Korea,country
+KR-43,North Chungcheong,KOR,Republic of Korea,country
+KR-47,North Gyeongsang,KOR,Republic of Korea,country
+KR-45,North Jeolla,KOR,Republic of Korea,country
+KR-50,Sejong,KOR,Republic of Korea,country
+KR-11,Seoul,KOR,Republic of Korea,country
+KR-44,South Chungcheong,KOR,Republic of Korea,country
+KR-48,South Gyeongsang,KOR,Republic of Korea,country
+KR-46,South Jeolla,KOR,Republic of Korea,country
+KR-31,Ulsan,KOR,Republic of Korea,country
+CG-11,Bouenza,COG,Republic of the Congo,country
+CG-BZV,Brazzaville,COG,Republic of the Congo,country
+CG-8,Cuvette,COG,Republic of the Congo,country
+CG-15,Cuvette-Ouest,COG,Republic of the Congo,country
+CG-5,Kouilou,COG,Republic of the Congo,country
+CG-2,Lékoumou,COG,Republic of the Congo,country
+CG-7,Likouala,COG,Republic of the Congo,country
+CG-9,Niari,COG,Republic of the Congo,country
+CG-14,Plateaux,COG,Republic of the Congo,country
+CG-16,Pointe Noire,COG,Republic of the Congo,country
+CG-12,Pool,COG,Republic of the Congo,country
+CG-13,Sangha,COG,Republic of the Congo,country
+RO-AB,Alba,ROU,Romania,country
+RO-AR,Arad,ROU,Romania,country
+RO-AG,Arges,ROU,Romania,country
+RO-BC,Bacau,ROU,Romania,country
+RO-BH,Bihor,ROU,Romania,country
+RO-BN,Bistrita-Nasaud,ROU,Romania,country
+RO-BT,Botosani,ROU,Romania,country
+RO-BR,Braila,ROU,Romania,country
+RO-BV,Brasov,ROU,Romania,country
+RO-B,Bucharest,ROU,Romania,country
+RO-BZ,Buzau,ROU,Romania,country
+RO-CL,Calarasi,ROU,Romania,country
+RO-CS,Caras-Severin,ROU,Romania,country
+RO-CJ,Cluj,ROU,Romania,country
+RO-CT,Constanta,ROU,Romania,country
+RO-CV,Covasna,ROU,Romania,country
+RO-DB,Dâmbovita,ROU,Romania,country
+RO-DJ,Dolj,ROU,Romania,country
+RO-GL,Galati,ROU,Romania,country
+RO-GR,Giurgiu,ROU,Romania,country
+RO-GJ,Gorj,ROU,Romania,country
+RO-HR,Harghita,ROU,Romania,country
+RO-HD,Hunedoara,ROU,Romania,country
+RO-IL,Ialomita,ROU,Romania,country
+RO-IS,Iasi,ROU,Romania,country
+RO-IF,Ilfov,ROU,Romania,country
+RO-MM,Maramures,ROU,Romania,country
+RO-MH,Mehedinti,ROU,Romania,country
+RO-MS,Mures,ROU,Romania,country
+RO-NT,Neamt,ROU,Romania,country
+RO-OT,Olt,ROU,Romania,country
+RO-PH,Prahova,ROU,Romania,country
+RO-SJ,Salaj,ROU,Romania,country
+RO-SM,Satu Mare,ROU,Romania,country
+RO-SB,Sibiu,ROU,Romania,country
+RO-SV,Suceava,ROU,Romania,country
+RO-TR,Teleorman,ROU,Romania,country
+RO-TM,Timis,ROU,Romania,country
+RO-TL,Tulcea,ROU,Romania,country
+RO-VL,Vâlcea,ROU,Romania,country
+RO-VS,Vaslui,ROU,Romania,country
+RO-VN,Vrancea,ROU,Romania,country
+RU-AD,Adygey,RUS,Russian Federation,country
+RU-ALT,Altay,RUS,Russian Federation,country
+RU-AMU,Amur,RUS,Russian Federation,country
+RU-ARK,Arkhangel'sk,RUS,Russian Federation,country
+RU-AST,Astrakhan',RUS,Russian Federation,country
+RU-BA,Bashkortostan,RUS,Russian Federation,country
+RU-BEL,Belgorod,RUS,Russian Federation,country
+RU-BRY,Bryansk,RUS,Russian Federation,country
+RU-BU,Buryat,RUS,Russian Federation,country
+RU-CE,Chechnya,RUS,Russian Federation,country
+RU-CHE,Chelyabinsk,RUS,Russian Federation,country
+RU-ZAB,Chita,RUS,Russian Federation,country
+RU-CHU,Chukchi Autonomous Okrug,RUS,Russian Federation,country
+RU-CU,Chuvash,RUS,Russian Federation,country
+RU-SPE,City of St. Petersburg,RUS,Russian Federation,country
+UA-43,Crimea,RUS,Russian Federation,country
+RU-DA,Dagestan,RUS,Russian Federation,country
+RU-AL,Gorno-Altay,RUS,Russian Federation,country
+RU-IN,Ingush,RUS,Russian Federation,country
+RU-IRK,Irkutsk,RUS,Russian Federation,country
+RU-IVA,Ivanovo,RUS,Russian Federation,country
+RU-KB,Kabardin-Balkar,RUS,Russian Federation,country
+RU-KGD,Kaliningrad,RUS,Russian Federation,country
+RU-KL,Kalmyk,RUS,Russian Federation,country
+RU-KLU,Kaluga,RUS,Russian Federation,country
+RU-KAM,Kamchatka,RUS,Russian Federation,country
+RU-KC,Karachay-Cherkess,RUS,Russian Federation,country
+RU-KR,Karelia,RUS,Russian Federation,country
+RU-KEM,Kemerovo,RUS,Russian Federation,country
+RU-KHA,Khabarovsk,RUS,Russian Federation,country
+RU-KK,Khakass,RUS,Russian Federation,country
+RU-KHM,Khanty-Mansiy,RUS,Russian Federation,country
+RU-KIR,Kirov,RUS,Russian Federation,country
+RU-KO,Komi,RUS,Russian Federation,country
+RU-KOS,Kostroma,RUS,Russian Federation,country
+RU-KDA,Krasnodar,RUS,Russian Federation,country
+RU-KYA,Krasnoyarsk,RUS,Russian Federation,country
+RU-KGN,Kurgan,RUS,Russian Federation,country
+RU-KRS,Kursk,RUS,Russian Federation,country
+RU-LEN,Leningrad,RUS,Russian Federation,country
+RU-LIP,Lipetsk,RUS,Russian Federation,country
+RU-MAG,Maga Buryatdan,RUS,Russian Federation,country
+RU-ME,Mariy-El,RUS,Russian Federation,country
+RU-MO,Mordovia,RUS,Russian Federation,country
+RU-MOW,Moskovskaya,RUS,Russian Federation,country
+RU-MOS,Moskva,RUS,Russian Federation,country
+RU-MUR,Murmansk,RUS,Russian Federation,country
+RU-NEN,Nenets,RUS,Russian Federation,country
+RU-NIZ,Nizhegorod,RUS,Russian Federation,country
+RU-SE,North Ossetia,RUS,Russian Federation,country
+RU-NGR,Novgorod,RUS,Russian Federation,country
+RU-NVS,Novosibirsk,RUS,Russian Federation,country
+RU-OMS,Omsk,RUS,Russian Federation,country
+RU-ORL,Orel,RUS,Russian Federation,country
+RU-ORE,Orenburg,RUS,Russian Federation,country
+RU-PNZ,Penza,RUS,Russian Federation,country
+RU-PER,Perm',RUS,Russian Federation,country
+RU-PRI,Primor'ye,RUS,Russian Federation,country
+RU-PSK,Pskov,RUS,Russian Federation,country
+RU-ROS,Rostov,RUS,Russian Federation,country
+RUS-99,Russian Federation,RUS,Russian Federation,country
+RU-RYA,Ryazan',RUS,Russian Federation,country
+RU-SA,Sakha (Yakutia),RUS,Russian Federation,country
+RU-SAK,Sakhalin,RUS,Russian Federation,country
+RU-SAM,Samara,RUS,Russian Federation,country
+RU-SAR,Saratov,RUS,Russian Federation,country
+UA-40,Sevastopol,RUS,Russian Federation,country
+RU-SMO,Smolensk,RUS,Russian Federation,country
+RU-STA,Stavropol',RUS,Russian Federation,country
+RU-SVE,Sverdlovsk,RUS,Russian Federation,country
+RU-TAM,Tambov,RUS,Russian Federation,country
+RU-TA,Tatarstan,RUS,Russian Federation,country
+RU-TOM,Tomsk,RUS,Russian Federation,country
+RU-TUL,Tula,RUS,Russian Federation,country
+RU-TY,Tuva,RUS,Russian Federation,country
+RU-TVE,Tver',RUS,Russian Federation,country
+RU-TYU,Tyumen',RUS,Russian Federation,country
+RU-UD,Udmurt,RUS,Russian Federation,country
+RU-ULY,Ul'yanovsk,RUS,Russian Federation,country
+RU-VLA,Vladimir,RUS,Russian Federation,country
+RU-VGG,Volgograd,RUS,Russian Federation,country
+RU-VLG,Vologda,RUS,Russian Federation,country
+RU-VOR,Voronezh,RUS,Russian Federation,country
+RU-YAN,Yamal-Nenets,RUS,Russian Federation,country
+RU-YAR,Yaroslavl',RUS,Russian Federation,country
+RU-YEV,Yevrey,RUS,Russian Federation,country
+RW-02,Eastern,RWA,Rwanda,country
+RW-01,Kigali City,RWA,Rwanda,country
+RW-03,Northern,RWA,Rwanda,country
+RW-05,Southern,RWA,Rwanda,country
+RW-04,Western,RWA,Rwanda,country
+SH-AC,Ascension,SHN,Saint Helena,none
+SH-HL,Saint Helena,SHN,Saint Helena,none
+SH-TA,Tristan da Cunha,SHN,Saint Helena,none
+KN-01,Christ Church Nichola Town,KNA,Saint Kitts and Nevis,country
+KN-02,Saint Anne Sandy Point,KNA,Saint Kitts and Nevis,country
+KN-03,Saint George Basseterre,KNA,Saint Kitts and Nevis,country
+KN-04,Saint George Gingerland,KNA,Saint Kitts and Nevis,country
+KN-05,Saint James Windward,KNA,Saint Kitts and Nevis,country
+KN-06,Saint John Capesterre,KNA,Saint Kitts and Nevis,country
+KN-07,Saint John Figtree,KNA,Saint Kitts and Nevis,country
+KN-08,Saint Mary Cayon,KNA,Saint Kitts and Nevis,country
+KN-09,Saint Paul Capesterre,KNA,Saint Kitts and Nevis,country
+KN-10,Saint Paul Charlestown,KNA,Saint Kitts and Nevis,country
+KN-11,Saint Peter Basseterre,KNA,Saint Kitts and Nevis,country
+KN-12,Saint Thomas Lowland,KNA,Saint Kitts and Nevis,country
+KN-13,Saint Thomas Middle Island,KNA,Saint Kitts and Nevis,country
+KN-14,Trinity Palmetto Point,KNA,Saint Kitts and Nevis,country
+LC-01,Anse-la-Raye,LCA,Saint Lucia,country
+LC-02,Castries,LCA,Saint Lucia,country
+LC-03,Choiseul,LCA,Saint Lucia,country
+LC-04,Dauphin,LCA,Saint Lucia,country
+LC-05,Dennery,LCA,Saint Lucia,country
+LC-06,Gros Islet,LCA,Saint Lucia,country
+LC-07,Laborie,LCA,Saint Lucia,country
+LC-08,Micoud,LCA,Saint Lucia,country
+LC-09,Praslin,LCA,Saint Lucia,country
+LC-10,Soufrière,LCA,Saint Lucia,country
+LC-11,Vieux Fort,LCA,Saint Lucia,country
+SPM-4867,Miquelon-Langlade,SPM,Saint Pierre and Miquelon,none
+SPM-4866,Saint-Pierre,SPM,Saint Pierre and Miquelon,none
+VC-01,Charlotte,VCT,Saint Vincent and the Grenadines,country
+VC-06,Grenadines,VCT,Saint Vincent and the Grenadines,country
+VC-02,Saint Andrew,VCT,Saint Vincent and the Grenadines,country
+VC-03,Saint David,VCT,Saint Vincent and the Grenadines,country
+VC-04,Saint George,VCT,Saint Vincent and the Grenadines,country
+VC-05,Saint Patrick,VCT,Saint Vincent and the Grenadines,country
+BLM-5113,Saint Barthélemy,BLM,Saint-Barthélemy,none
+MAF-5145,St. Martin,MAF,Saint-Martin,country
+WS-AA,A'ana,WSM,Samoa,country
+WS-AL,Aiga-i-le-Tai,WSM,Samoa,country
+WS-AT,Atua,WSM,Samoa,country
+WS-FA,Fa'asaleleaga,WSM,Samoa,country
+WS-GE,Gaga'emauga,WSM,Samoa,country
+WS-GI,Gaga'ifomauga,WSM,Samoa,country
+WS-PA,Palauli,WSM,Samoa,country
+WS-SA,Satupa'itea,WSM,Samoa,country
+WS-TU,Tuamasaga,WSM,Samoa,country
+WS-VF,Va'a-o-Fonoti,WSM,Samoa,country
+WS-VS,Vaisigano,WSM,Samoa,country
+SM-01,Acquaviva,SMR,San Marino,country
+SM-06,Borgo Maggiore,SMR,San Marino,country
+SM-02,Chiesanuova,SMR,San Marino,country
+SM-03,Domagnano,SMR,San Marino,country
+SM-04,Faetano,SMR,San Marino,country
+SM-05,Fiorentino,SMR,San Marino,country
+SM-08,Montegiardino,SMR,San Marino,country
+SM-07,San Marino,SMR,San Marino,country
+SM-09,Serravalle,SMR,San Marino,country
+ST-P,Príncipe,STP,São Tomé and Principe,country
+ST-S,São Tomé,STP,São Tomé and Principe,country
+SA-14,`Asir,SAU,Saudi Arabia,country
+SA-11,Al Bahah,SAU,Saudi Arabia,country
+SA-08,Al Hudud ash Shamaliyah,SAU,Saudi Arabia,country
+SA-12,Al Jawf,SAU,Saudi Arabia,country
+SA-03,Al Madinah,SAU,Saudi Arabia,country
+SA-05,Al Quassim,SAU,Saudi Arabia,country
+SA-01,Ar Riyad,SAU,Saudi Arabia,country
+SA-04,Ash Sharqiyah,SAU,Saudi Arabia,country
+SA-06,Ha'il,SAU,Saudi Arabia,country
+SA-09,Jizan,SAU,Saudi Arabia,country
+SA-02,Makkah,SAU,Saudi Arabia,country
+SA-10,Najran,SAU,Saudi Arabia,country
+SA-07,Tabuk,SAU,Saudi Arabia,country
+SCR-ALL,Scarborough Reef,SCR,Scarborough Reef,none
+SN-DK,Dakar,SEN,Senegal,country
+SN-DB,Diourbel,SEN,Senegal,country
+SN-FK,Fatick,SEN,Senegal,country
+SN-KA,Kaffrine,SEN,Senegal,country
+SN-KL,Kaolack,SEN,Senegal,country
+SN-KE,Kédougou,SEN,Senegal,country
+SN-KD,Kolda,SEN,Senegal,country
+SN-LG,Louga,SEN,Senegal,country
+SN-MT,Matam,SEN,Senegal,country
+SN-SL,Saint-Louis,SEN,Senegal,country
+SN-SE,Sédhiou,SEN,Senegal,country
+SN-TC,Tambacounda,SEN,Senegal,country
+SN-TH,Thiès,SEN,Senegal,country
+SN-ZG,Ziguinchor,SEN,Senegal,country
+RS-14,Borski,SRB,Serbia,country
+RS-11,Branicevski,SRB,Serbia,country
+RS-00,Grad Beograd,SRB,Serbia,country
+RS-23,Jablanicki,SRB,Serbia,country
+RS-06,Južno-Backi,SRB,Serbia,country
+RS-04,Južno-Banatski,SRB,Serbia,country
+RS-09,Kolubarski,SRB,Serbia,country
+RS-08,Macvanski,SRB,Serbia,country
+RS-17,Moravicki,SRB,Serbia,country
+RS-20,Nišavski,SRB,Serbia,country
+RS-24,Pcinjski,SRB,Serbia,country
+RS-22,Pirotski,SRB,Serbia,country
+RS-10,Podunavski,SRB,Serbia,country
+RS-19,Pomoravski,SRB,Serbia,country
+RS-13,Pomoravski,SRB,Serbia,country
+RS-18,Raški,SRB,Serbia,country
+RS-01,Severno-Backi,SRB,Serbia,country
+RS-03,Severno-Banatski,SRB,Serbia,country
+RS-02,Srednje-Banatski,SRB,Serbia,country
+RS-07,Sremski,SRB,Serbia,country
+RS-12,Šumadijski,SRB,Serbia,country
+RS-21,Toplicki,SRB,Serbia,country
+RS-15,Zajecarski,SRB,Serbia,country
+RS-05,Zapadno-Backi,SRB,Serbia,country
+RS-16,Zlatiborski,SRB,Serbia,country
+SER-ALL,Serranilla Bank,SER,Serranilla Bank,none
+SC-01,Anse aux Pins,SYC,Seychelles,country
+SC-02,Anse Boileau,SYC,Seychelles,country
+SC-03,Anse Etoile,SYC,Seychelles,country
+SC-05,Anse Royale,SYC,Seychelles,country
+SC-04,Au Cap,SYC,Seychelles,country
+SC-06,Baie Lazare,SYC,Seychelles,country
+SC-07,Baie Sainte Anne,SYC,Seychelles,country
+SC-08,Beau Vallon,SYC,Seychelles,country
+SC-09,Bel Air,SYC,Seychelles,country
+SC-10,Bel Ombre,SYC,Seychelles,country
+SC-11,Cascade,SYC,Seychelles,country
+SC-16,English River,SYC,Seychelles,country
+SC-12,Glacis,SYC,Seychelles,country
+SC-13,Grand'Anse,SYC,Seychelles,country
+SC-14,Grand'Anse Praslin,SYC,Seychelles,country
+SC-15,La Digue and Inner Islands,SYC,Seychelles,country
+SC-24,Les Mamelles,SYC,Seychelles,country
+SC-17,Mont Buxton,SYC,Seychelles,country
+SC-18,Mont Fleuri,SYC,Seychelles,country
+SYC-5197,Outer Islands,SYC,Seychelles,country
+SC-19,Plaisance,SYC,Seychelles,country
+SC-20,Pointe La Rue,SYC,Seychelles,country
+SC-21,Port Glaud,SYC,Seychelles,country
+SC-25,Roche Caïman,SYC,Seychelles,country
+SC-22,Saint Louis,SYC,Seychelles,country
+SC-23,Takamaka,SYC,Seychelles,country
+KAS-00,Kashmir,KAS,Siachen Glacier,none
+SL-E,Eastern,SLE,Sierra Leone,country
+SL-N,Northern,SLE,Sierra Leone,country
+SL-S,Southern,SLE,Sierra Leone,country
+SL-W,Western,SLE,Sierra Leone,country
+SG-01,Central Singapore,SGP,Singapore,country
+SG-02,North East,SGP,Singapore,country
+SG-03,North West,SGP,Singapore,country
+SG-04,South East,SGP,Singapore,country
+SG-05,South West,SGP,Singapore,country
+NL-SX,Sint Maarten,SXM,Sint Maarten,country
+SK-BC,Banskobystrický,SVK,Slovakia,country
+SK-BL,Bratislavský,SVK,Slovakia,country
+SK-KI,Košický,SVK,Slovakia,country
+SK-NI,Nitriansky,SVK,Slovakia,country
+SK-PV,Prešov,SVK,Slovakia,country
+SK-TC,Trenciansky,SVK,Slovakia,country
+SK-TA,Trnavský,SVK,Slovakia,country
+SK-ZI,Žilinský,SVK,Slovakia,country
+SI-001,Ajdovščina,SVN,Slovenia,country
+SI-195,Apace,SVN,Slovenia,country
+SI-002,Beltinci,SVN,Slovenia,country
+SI-148,Benedikt,SVN,Slovenia,country
+SI-149,Bistrica ob Sotli,SVN,Slovenia,country
+SI-003,Bled,SVN,Slovenia,country
+SI-150,Bloke,SVN,Slovenia,country
+SI-004,Bohinj,SVN,Slovenia,country
+SI-005,Borovnica,SVN,Slovenia,country
+SI-006,Bovec,SVN,Slovenia,country
+SI-151,Braslovce,SVN,Slovenia,country
+SI-007,Brda,SVN,Slovenia,country
+SI-009,Brežice,SVN,Slovenia,country
+SI-008,Brezovica,SVN,Slovenia,country
+SI-152,Cankova,SVN,Slovenia,country
+SI-011,Celje,SVN,Slovenia,country
+SI-012,Cerklje na Gorenjskem,SVN,Slovenia,country
+SI-013,Cerknica,SVN,Slovenia,country
+SI-014,Cerkno,SVN,Slovenia,country
+SI-153,Cerkvenjak,SVN,Slovenia,country
+SI-015,Črenšovci,SVN,Slovenia,country
+SI-016,Črna na Koroškem,SVN,Slovenia,country
+SI-017,Crnomelj,SVN,Slovenia,country
+SI-018,Destrnik,SVN,Slovenia,country
+SI-019,Divaca,SVN,Slovenia,country
+SI-154,Dobje,SVN,Slovenia,country
+SI-020,Dobrepolje,SVN,Slovenia,country
+SI-155,Dobrna,SVN,Slovenia,country
+SI-021,Dobrova-Polhov Gradec,SVN,Slovenia,country
+SI-156,Dobrovnik,SVN,Slovenia,country
+SI-022,Dol pri Ljubljani,SVN,Slovenia,country
+SI-157,Dolenjske Toplice,SVN,Slovenia,country
+SI-023,Domžale,SVN,Slovenia,country
+SI-024,Dornava,SVN,Slovenia,country
+SI-025,Dravograd,SVN,Slovenia,country
+SI-026,Duplek,SVN,Slovenia,country
+SI-027,Gorenja vas-Poljane,SVN,Slovenia,country
+SI-028,Gorišnica,SVN,Slovenia,country
+SI-029,Gornja Radgona,SVN,Slovenia,country
+SI-030,Gornji Grad,SVN,Slovenia,country
+SI-031,Gornji Petrovci,SVN,Slovenia,country
+SI-158,Grad,SVN,Slovenia,country
+SI-032,Grosuplje,SVN,Slovenia,country
+SI-159,Hajdina,SVN,Slovenia,country
+SI-160,Hoce-Slivnica,SVN,Slovenia,country
+SI-161,Hodoš,SVN,Slovenia,country
+SI-162,Horjul,SVN,Slovenia,country
+SI-034,Hrastnik,SVN,Slovenia,country
+SI-035,Hrpelje-Kozina,SVN,Slovenia,country
+SI-036,Idrija,SVN,Slovenia,country
+SI-037,Ig,SVN,Slovenia,country
+SI-038,Ilirska Bistrica,SVN,Slovenia,country
+SI-039,Ivancna Gorica,SVN,Slovenia,country
+SI-040,Izola,SVN,Slovenia,country
+SI-041,Jesenice,SVN,Slovenia,country
+SI-163,Jezersko,SVN,Slovenia,country
+SI-042,Juršinci,SVN,Slovenia,country
+SI-043,Kamnik,SVN,Slovenia,country
+SI-044,Kanal,SVN,Slovenia,country
+SI-045,Kidricevo,SVN,Slovenia,country
+SI-046,Kobarid,SVN,Slovenia,country
+SI-047,Kobilje,SVN,Slovenia,country
+SI-048,Kocevje,SVN,Slovenia,country
+SI-049,Komen,SVN,Slovenia,country
+SI-164,Komenda,SVN,Slovenia,country
+SI-050,Koper,SVN,Slovenia,country
+SI-165,Kostel,SVN,Slovenia,country
+SI-051,Kozje,SVN,Slovenia,country
+SI-052,Kranj,SVN,Slovenia,country
+SI-053,Kranjska Gora,SVN,Slovenia,country
+SI-166,Križevci,SVN,Slovenia,country
+SVN-939,Krsko,SVN,Slovenia,country
+SVN-958,Krško,SVN,Slovenia,country
+SI-055,Kungota,SVN,Slovenia,country
+SI-056,Kuzma,SVN,Slovenia,country
+SI-057,Laško,SVN,Slovenia,country
+SI-058,Lenart,SVN,Slovenia,country
+SI-059,Lendava,SVN,Slovenia,country
+SI-060,Litija,SVN,Slovenia,country
+SI-061,Ljubljana,SVN,Slovenia,country
+SI-062,Ljubno,SVN,Slovenia,country
+SI-063,Ljutomer,SVN,Slovenia,country
+SI-064,Logatec,SVN,Slovenia,country
+SI-065,Loška dolina,SVN,Slovenia,country
+SI-066,Loški Potok,SVN,Slovenia,country
+SI-167,Lovrenc na Pohorju,SVN,Slovenia,country
+SI-067,Luce,SVN,Slovenia,country
+SI-068,Lukovica,SVN,Slovenia,country
+SI-069,Majšperk,SVN,Slovenia,country
+SI-070,Maribor,SVN,Slovenia,country
+SI-168,Markovci,SVN,Slovenia,country
+SI-071,Medvode,SVN,Slovenia,country
+SI-072,Mengeš,SVN,Slovenia,country
+SI-073,Metlika,SVN,Slovenia,country
+SI-074,Mežica,SVN,Slovenia,country
+SI-169,Miklavž na Dravskem polju,SVN,Slovenia,country
+SI-075,Miren-Kostanjevica,SVN,Slovenia,country
+SI-170,Mirna Pec,SVN,Slovenia,country
+SI-076,Mislinja,SVN,Slovenia,country
+SI-077,Moravce,SVN,Slovenia,country
+SI-078,Moravske Toplice,SVN,Slovenia,country
+SI-079,Mozirje,SVN,Slovenia,country
+SI-080,Murska Sobota,SVN,Slovenia,country
+SI-081,Muta,SVN,Slovenia,country
+SI-082,Naklo,SVN,Slovenia,country
+SI-083,Nazarje,SVN,Slovenia,country
+SI-084,Nova Goriška,SVN,Slovenia,country
+SI-085,Novo Mesto,SVN,Slovenia,country
+SI-086,Odranci,SVN,Slovenia,country
+SI-171,Oplotnica,SVN,Slovenia,country
+SI-087,Ormož,SVN,Slovenia,country
+SI-089,Pesnica,SVN,Slovenia,country
+SI-090,Piran,SVN,Slovenia,country
+SI-091,Pivka,SVN,Slovenia,country
+SI-092,Podcetrtek,SVN,Slovenia,country
+SI-172,Podlehnik,SVN,Slovenia,country
+SI-093,Podvelka,SVN,Slovenia,country
+SI-173,Polzela,SVN,Slovenia,country
+SI-094,Postojna,SVN,Slovenia,country
+SI-174,Prebold,SVN,Slovenia,country
+SI-095,Preddvor,SVN,Slovenia,country
+SI-175,Prevalje,SVN,Slovenia,country
+SI-096,Ptuj,SVN,Slovenia,country
+SI-097,Puconci,SVN,Slovenia,country
+SI-098,Race-Fram,SVN,Slovenia,country
+SI-099,Radece,SVN,Slovenia,country
+SI-100,Radenci,SVN,Slovenia,country
+SI-101,Radlje ob Dravi,SVN,Slovenia,country
+SI-102,Radovljica,SVN,Slovenia,country
+SI-103,Ravne na Koroškem,SVN,Slovenia,country
+SI-176,Razkrižje,SVN,Slovenia,country
+SI-104,Ribnica,SVN,Slovenia,country
+SI-177,Ribnica na Pohorju,SVN,Slovenia,country
+SI-106,Rogaška Slatina,SVN,Slovenia,country
+SI-105,Rogašovci,SVN,Slovenia,country
+SI-107,Rogatec,SVN,Slovenia,country
+SI-108,Ruše,SVN,Slovenia,country
+SI-033,Šalovci,SVN,Slovenia,country
+SI-178,Selnica ob Dravi,SVN,Slovenia,country
+SI-109,Semic,SVN,Slovenia,country
+SI-183,Šempeter-Vrtojba,SVN,Slovenia,country
+SI-117,Šenčur,SVN,Slovenia,country
+SI-118,Šentilj,SVN,Slovenia,country
+SI-119,Šentjernej,SVN,Slovenia,country
+SI-120,Šentjur pri Celju,SVN,Slovenia,country
+SI-110,Sevnica,SVN,Slovenia,country
+SI-111,Sežana,SVN,Slovenia,country
+SI-121,Škocjan,SVN,Slovenia,country
+SI-122,Škofja Loka,SVN,Slovenia,country
+SI-123,Škofljica,SVN,Slovenia,country
+SI-112,Slovenj Gradec,SVN,Slovenia,country
+SI-113,Slovenska Bistrica,SVN,Slovenia,country
+SI-114,Slovenske Konjice,SVN,Slovenia,country
+SI-124,Šmarje pri Jelšah,SVN,Slovenia,country
+SI-194,Šmartno in Litiji,SVN,Slovenia,country
+SI-125,Šmartno ob Paki,SVN,Slovenia,country
+SI-179,Sodražica,SVN,Slovenia,country
+SI-180,Solcava,SVN,Slovenia,country
+SI-126,Šoštanj,SVN,Slovenia,country
+SI-115,Starše,SVN,Slovenia,country
+SI-127,Štore,SVN,Slovenia,country
+SI-181,Sveta Ana,SVN,Slovenia,country
+SI-182,Sveti Andraž v Slovenskih Goricah,SVN,Slovenia,country
+SI-116,Sveti Jurij,SVN,Slovenia,country
+SI-184,Tabor,SVN,Slovenia,country
+SI-128,Tolmin,SVN,Slovenia,country
+SI-129,Trbovlje,SVN,Slovenia,country
+SI-130,Trebnje,SVN,Slovenia,country
+SI-185,Trnovska vas,SVN,Slovenia,country
+SI-131,Tržič,SVN,Slovenia,country
+SI-186,Trzin,SVN,Slovenia,country
+SI-132,Turnišče,SVN,Slovenia,country
+SI-133,Velenje,SVN,Slovenia,country
+SI-187,Velika Polana,SVN,Slovenia,country
+SI-134,Velike Lašče,SVN,Slovenia,country
+SI-188,Veržej,SVN,Slovenia,country
+SI-135,Videm,SVN,Slovenia,country
+SI-136,Vipava,SVN,Slovenia,country
+SI-137,Vitanje,SVN,Slovenia,country
+SI-138,Vodice,SVN,Slovenia,country
+SI-139,Vojnik,SVN,Slovenia,country
+SI-189,Vransko,SVN,Slovenia,country
+SI-140,Vrhnika,SVN,Slovenia,country
+SI-141,Vuzenica,SVN,Slovenia,country
+SI-190,Žalec,SVN,Slovenia,country
+SI-05,Zasavska,SVN,Slovenia,country
+SI-143,Zavrc,SVN,Slovenia,country
+SI-146,Železniki,SVN,Slovenia,country
+SI-191,Žetale,SVN,Slovenia,country
+SI-147,Žiri,SVN,Slovenia,country
+SI-192,Žirovnica,SVN,Slovenia,country
+SI-144,Zrece,SVN,Slovenia,country
+SI-193,Žužemberk,SVN,Slovenia,country
+SB-CT,Capital Territory (Honiara),SLB,Solomon Islands,country
+SB-CE,Central,SLB,Solomon Islands,country
+SLB-3508,Choiseul,SLB,Solomon Islands,country
+SB-GU,Guadalcanal,SLB,Solomon Islands,country
+SB-IS,Isabel,SLB,Solomon Islands,country
+SB-MK,Makira,SLB,Solomon Islands,country
+SB-ML,Malaita,SLB,Solomon Islands,country
+SB-RB,Rennell and Bellona,SLB,Solomon Islands,country
+SB-TE,Temotu,SLB,Solomon Islands,country
+SLB-3507,Western,SLB,Solomon Islands,country
+SO-BK,Bakool,SOM,Somalia,country
+SO-BN,Banaadir,SOM,Somalia,country
+SO-BR,Bari,SOM,Somalia,country
+SO-BY,Bay,SOM,Somalia,country
+SO-GA,Galguduud,SOM,Somalia,country
+SO-GE,Gedo,SOM,Somalia,country
+SO-HI,Hiiraan,SOM,Somalia,country
+SO-JD,Jubbada Dhexe,SOM,Somalia,country
+SO-JH,Jubbada Hoose,SOM,Somalia,country
+SO-MU,Mudug,SOM,Somalia,country
+SO-NU,Nugaal,SOM,Somalia,country
+SO-SD,Shabeellaha Dhexe,SOM,Somalia,country
+SO-SH,Shabeellaha Hoose,SOM,Somalia,country
+SOL-00,Somaliland,SOL,Somaliland,none
+ZA-EC,Eastern Cape,ZAF,South Africa,country
+ZA-FS,Free State,ZAF,South Africa,country
+ZA-GT,Gauteng,ZAF,South Africa,country
+ZA-NL,KwaZulu-Natal,ZAF,South Africa,country
+ZA-LP,Limpopo,ZAF,South Africa,country
+ZA-MP,Mpumalanga,ZAF,South Africa,country
+ZA-NW,North West,ZAF,South Africa,country
+ZA-NC,Northern Cape,ZAF,South Africa,country
+ZA-WC,Western Cape,ZAF,South Africa,country
+SGS-00,South Georgia and the South Sandwich Islands,SGS,South Georgia and the Islands,none
+SS-EC,Central Equatoria,SSD,South Sudan,country
+SS-EE,Eastern Equatoria,SSD,South Sudan,country
+SS-JG,Jonglei,SSD,South Sudan,country
+SS-LK,Lakes,SSD,South Sudan,country
+SS-BN,Northern Bahr el Ghazal,SSD,South Sudan,country
+SS-UY,Unity,SSD,South Sudan,country
+SS-NU,Upper Nile,SSD,South Sudan,country
+SS-WR,Warrap,SSD,South Sudan,country
+SS-BW,Western Bahr el Ghazal,SSD,South Sudan,country
+SS-EW,Western Equatoria,SSD,South Sudan,country
+SPI-ALL,Southern Patagonian Ice Field,SPI,Southern Patagonian Ice Field,none
+ES-VI,Álava,ESP,Spain,country
+ES-AB,Albacete,ESP,Spain,country
+ES-A,Alicante,ESP,Spain,country
+ES-AL,Almería,ESP,Spain,country
+ES-O,Asturias,ESP,Spain,country
+ES-AV,Ávila,ESP,Spain,country
+ES-BA,Badajoz,ESP,Spain,country
+ES-PM,Baleares,ESP,Spain,country
+ES-B,Barcelona,ESP,Spain,country
+ES-BI,Bizkaia,ESP,Spain,country
+ES-BU,Burgos,ESP,Spain,country
+ES-CC,Cáceres,ESP,Spain,country
+ES-CA,Cádiz,ESP,Spain,country
+ES-S,Cantabria,ESP,Spain,country
+ES-CS,Castellón,ESP,Spain,country
+ES-CE,Ceuta,ESP,Spain,country
+ES-CR,Ciudad Real,ESP,Spain,country
+ES-CO,Córdoba,ESP,Spain,country
+ES-CU,Cuenca,ESP,Spain,country
+ES-GI,Gerona,ESP,Spain,country
+ES-SS,Gipuzkoa,ESP,Spain,country
+ES-GR,Granada,ESP,Spain,country
+ES-GU,Guadalajara,ESP,Spain,country
+ES-H,Huelva,ESP,Spain,country
+ES-HU,Huesca,ESP,Spain,country
+ES-J,Jaén,ESP,Spain,country
+ES-C,La Coruña,ESP,Spain,country
+ES-LO,La Rioja,ESP,Spain,country
+ES-GC,Las Palmas,ESP,Spain,country
+ES-LE,León,ESP,Spain,country
+ES-L,Lérida,ESP,Spain,country
+ES-LU,Lugo,ESP,Spain,country
+ES-M,Madrid,ESP,Spain,country
+ES-MA,Málaga,ESP,Spain,country
+ES-ML,Melilla,ESP,Spain,country
+ES-MU,Murcia,ESP,Spain,country
+ES-NA,Navarra,ESP,Spain,country
+ES-OR,Orense,ESP,Spain,country
+ES-P,Palencia,ESP,Spain,country
+ES-PO,Pontevedra,ESP,Spain,country
+ES-SA,Salamanca,ESP,Spain,country
+ES-TF,Santa Cruz de Tenerife,ESP,Spain,country
+ES-SG,Segovia,ESP,Spain,country
+ES-SE,Sevilla,ESP,Spain,country
+ES-SO,Soria,ESP,Spain,country
+ES-T,Tarragona,ESP,Spain,country
+ES-TE,Teruel,ESP,Spain,country
+ES-TO,Toledo,ESP,Spain,country
+ES-V,Valencia,ESP,Spain,country
+ES-VA,Valladolid,ESP,Spain,country
+ES-ZA,Zamora,ESP,Spain,country
+ES-Z,Zaragoza,ESP,Spain,country
+PGA-00,Spratly Islands,PGA,Spratly Islands,none
+LK-52,Ampāra,LKA,Sri Lanka,country
+LK-71,Anurādhapura,LKA,Sri Lanka,country
+LK-81,Badulla,LKA,Sri Lanka,country
+LK-31,Gālla,LKA,Sri Lanka,country
+LK-12,Gampaha,LKA,Sri Lanka,country
+LK-33,Hambantŏṭa,LKA,Sri Lanka,country
+LK-92,Kægalla,LKA,Sri Lanka,country
+LK-13,Kaḷutara,LKA,Sri Lanka,country
+LK-42,Kilinŏchchi,LKA,Sri Lanka,country
+LK-11,Kŏḷamba,LKA,Sri Lanka,country
+LK-61,Kuruṇægala,LKA,Sri Lanka,country
+LK-51,Maḍakalapuva,LKA,Sri Lanka,country
+LK-21,Mahanuvara,LKA,Sri Lanka,country
+LK-43,Mannārama,LKA,Sri Lanka,country
+LK-22,Mātale,LKA,Sri Lanka,country
+LK-32,Mātara,LKA,Sri Lanka,country
+LK-82,Mŏṇarāgala,LKA,Sri Lanka,country
+LK-45,Mulativ,LKA,Sri Lanka,country
+LK-23,Nuvara Ĕliya,LKA,Sri Lanka,country
+LK-72,Pŏḷŏnnaruva,LKA,Sri Lanka,country
+LK-62,Puttalama,LKA,Sri Lanka,country
+LK-91,Ratnapura,LKA,Sri Lanka,country
+LK-53,Trikuṇāmalaya,LKA,Sri Lanka,country
+LK-44,Vavuniyāva,LKA,Sri Lanka,country
+LK-41,Yāpanaya,LKA,Sri Lanka,country
+SD-NB,Blue Nile,SDN,Sudan,country
+SD-DE,Central Darfur,SDN,Sudan,country
+SDN-5857,Eastern Darfur,SDN,Sudan,country
+SD-GD,Gedarif,SDN,Sudan,country
+SD-GZ,Gezira,SDN,Sudan,country
+SD-KA,Kassala,SDN,Sudan,country
+SD-KH,Khartoum,SDN,Sudan,country
+SD-DN,North Darfur,SDN,Sudan,country
+SD-KN,North Kordufan,SDN,Sudan,country
+SD-NO,Northern,SDN,Sudan,country
+SD-RS,Red Sea,SDN,Sudan,country
+SD-NR,River Nile,SDN,Sudan,country
+SD-SI,Sennar,SDN,Sudan,country
+SD-KS,South Kordufan,SDN,Sudan,country
+SDN-5856,Southern Darfur,SDN,Sudan,country
+SD-DW,Western Darfur,SDN,Sudan,country
+SD-NW,White Nile,SDN,Sudan,country
+SR-BR,Brokopondo,SUR,Suriname,country
+SR-CM,Commewijne,SUR,Suriname,country
+SR-CR,Coronie,SUR,Suriname,country
+SR-MA,Marowijne,SUR,Suriname,country
+SR-NI,Nickerie,SUR,Suriname,country
+SR-PR,Para,SUR,Suriname,country
+SR-PM,Paramaribo,SUR,Suriname,country
+SR-SA,Saramacca,SUR,Suriname,country
+SR-SI,Sipaliwini,SUR,Suriname,country
+SR-WA,Wanica,SUR,Suriname,country
+SE-K,Blekinge,SWE,Sweden,country
+SE-W,Dalarna,SWE,Sweden,country
+SE-X,Gävleborg,SWE,Sweden,country
+SE-I,Gotland,SWE,Sweden,country
+SE-N,Halland,SWE,Sweden,country
+SE-Z,Jämtland,SWE,Sweden,country
+SE-F,Jönköping,SWE,Sweden,country
+SE-H,Kalmar,SWE,Sweden,country
+SE-G,Kronoberg,SWE,Sweden,country
+SE-BD,Norrbotten,SWE,Sweden,country
+SE-T,Orebro,SWE,Sweden,country
+SE-E,Östergötland,SWE,Sweden,country
+SE-M,Skåne,SWE,Sweden,country
+SE-D,Södermanland,SWE,Sweden,country
+SE-AB,Stockholm,SWE,Sweden,country
+SE-C,Uppsala,SWE,Sweden,country
+SE-S,Värmland,SWE,Sweden,country
+SE-AC,Västerbotten,SWE,Sweden,country
+SE-Y,Västernorrland,SWE,Sweden,country
+SE-U,Västmanland,SWE,Sweden,country
+SE-O,Västra Götaland,SWE,Sweden,country
+CH-AG,Aargau,CHE,Switzerland,country
+CH-AR,Appenzell Ausserrhoden,CHE,Switzerland,country
+CH-AI,Appenzell Innerrhoden,CHE,Switzerland,country
+CH-BL,Basel-Landschaft,CHE,Switzerland,country
+CH-BS,Basel-Stadt,CHE,Switzerland,country
+CH-BE,Bern,CHE,Switzerland,country
+CH-FR,Fribourg,CHE,Switzerland,country
+CH-GE,Genève,CHE,Switzerland,country
+CH-GL,Glarus,CHE,Switzerland,country
+CH-GR,Graubünden,CHE,Switzerland,country
+CH-JU,Jura,CHE,Switzerland,country
+CH-LU,Lucerne,CHE,Switzerland,country
+CH-NE,Neuchâtel,CHE,Switzerland,country
+CH-NW,Nidwalden,CHE,Switzerland,country
+CH-OW,Obwalden,CHE,Switzerland,country
+CH-SG,Sankt Gallen,CHE,Switzerland,country
+CH-SH,Schaffhausen,CHE,Switzerland,country
+CH-SZ,Schwyz,CHE,Switzerland,country
+CH-SO,Solothurn,CHE,Switzerland,country
+CH-TG,Thurgau,CHE,Switzerland,country
+CH-TI,Ticino,CHE,Switzerland,country
+CH-UR,Uri,CHE,Switzerland,country
+CH-VS,Valais,CHE,Switzerland,country
+CH-VD,Vaud,CHE,Switzerland,country
+CH-ZG,Zug,CHE,Switzerland,country
+CH-ZH,Zürich,CHE,Switzerland,country
+SY-HL,Aleppo,SYR,Syria,country
+SY-RA,Ar Raqqah,SYR,Syria,country
+SY-SU,As Suwayda',SYR,Syria,country
+SY-DI,Damascus,SYR,Syria,country
+SY-DR,Dar`a,SYR,Syria,country
+SY-DY,Dayr Az Zawr,SYR,Syria,country
+SY-HM,Hamah,SYR,Syria,country
+SY-HA,Hasaka (Al Haksa),SYR,Syria,country
+SY-HI,Homs (Hims),SYR,Syria,country
+SY-ID,Idlib,SYR,Syria,country
+SY-LA,Lattakia,SYR,Syria,country
+SY-QU,Quneitra,SYR,Syria,country
+SY-RD,Rif Dimashq,SYR,Syria,country
+SY-TA,Tartus,SYR,Syria,country
+SYR-5261,UNDOF,SYR,Syria,country
+TW-CHA,Changhua,TWN,Taiwan,none
+TW-CYQ,Chiayi,TWN,Taiwan,none
+TW-CYI,Chiayi City,TWN,Taiwan,none
+TW-HSQ,Hsinchu,TWN,Taiwan,none
+TW-HSZ,Hsinchu City,TWN,Taiwan,none
+TW-HUA,Hualien,TWN,Taiwan,none
+TW-KHH,Kaohsiung City,TWN,Taiwan,none
+TW-KEE,Keelung City,TWN,Taiwan,none
+TW-KIN,Kinmen,TWN,Taiwan,none
+TW-MIA,Miaoli,TWN,Taiwan,none
+TW-NAN,Nantou,TWN,Taiwan,none
+TW-TPQ,New Taipei City,TWN,Taiwan,none
+TW-PEN,Penghu,TWN,Taiwan,none
+TW-PIF,Pingtung,TWN,Taiwan,none
+TW-TXG,Taichung City,TWN,Taiwan,none
+TW-TNN,Tainan City,TWN,Taiwan,none
+TW-TPE,Taipei City,TWN,Taiwan,none
+TW-TTT,Taitung,TWN,Taiwan,none
+TW-TAO,Taoyuan,TWN,Taiwan,none
+TW-ILA,Yilan,TWN,Taiwan,none
+TW-YUN,Yunlin,TWN,Taiwan,none
+TJ-DU,Dushanbe,TJK,Tajikistan,country
+TJ-GB,Gorno-Badakhshan,TJK,Tajikistan,country
+TJ-KT,Khatlon,TJK,Tajikistan,country
+TJ-SU,Leninabad,TJK,Tajikistan,country
+TJK-368,Tadzhikistan Territories,TJK,Tajikistan,country
+TZ-01,Arusha,TZA,Tanzania,country
+TZ-02,Dar-Es-Salaam,TZA,Tanzania,country
+TZ-03,Dodoma,TZA,Tanzania,country
+TZ-27,Geita,TZA,Tanzania,country
+TZ-04,Iringa,TZA,Tanzania,country
+TZ-05,Kagera,TZA,Tanzania,country
+TZ-06,Kaskazini-Pemba,TZA,Tanzania,country
+TZ-07,Kaskazini-Unguja,TZA,Tanzania,country
+TZ-28,Katavi,TZA,Tanzania,country
+TZ-08,Kigoma,TZA,Tanzania,country
+TZ-09,Kilimanjaro,TZA,Tanzania,country
+TZ-10,Kusini-Pemba,TZA,Tanzania,country
+TZ-12,Lindi,TZA,Tanzania,country
+TZ-26,Manyara,TZA,Tanzania,country
+TZ-13,Mara,TZA,Tanzania,country
+TZ-14,Mbeya,TZA,Tanzania,country
+TZ-16,Morogoro,TZA,Tanzania,country
+TZ-17,Mtwara,TZA,Tanzania,country
+TZ-18,Mwanza,TZA,Tanzania,country
+TZ-29,Njombe,TZA,Tanzania,country
+TZ-19,Pwani,TZA,Tanzania,country
+TZ-20,Rukwa,TZA,Tanzania,country
+TZ-21,Ruvuma,TZA,Tanzania,country
+TZ-22,Shinyanga,TZA,Tanzania,country
+TZ-30,Simiyu,TZA,Tanzania,country
+TZ-23,Singida,TZA,Tanzania,country
+TZ-24,Tabora,TZA,Tanzania,country
+TZ-25,Tanga,TZA,Tanzania,country
+TZ-11,Zanzibar South and Central,TZA,Tanzania,country
+TZ-15,Zanzibar West,TZA,Tanzania,country
+TH-37,Amnat Charoen,THA,Thailand,country
+TH-15,Ang Thong,THA,Thailand,country
+TH-10,Bangkok Metropolis,THA,Thailand,country
+TH-38,Bueng Kan,THA,Thailand,country
+TH-31,Buri Ram,THA,Thailand,country
+TH-24,Chachoengsao,THA,Thailand,country
+TH-18,Chai Nat,THA,Thailand,country
+TH-36,Chaiyaphum,THA,Thailand,country
+TH-22,Chanthaburi,THA,Thailand,country
+TH-50,Chiang Mai,THA,Thailand,country
+TH-57,Chiang Rai,THA,Thailand,country
+TH-20,Chon Buri,THA,Thailand,country
+TH-86,Chumphon,THA,Thailand,country
+TH-46,Kalasin,THA,Thailand,country
+TH-62,Kamphaeng Phet,THA,Thailand,country
+TH-71,Kanchanaburi,THA,Thailand,country
+TH-40,Khon Kaen,THA,Thailand,country
+TH-81,Krabi,THA,Thailand,country
+TH-52,Lampang,THA,Thailand,country
+TH-51,Lamphun,THA,Thailand,country
+TH-42,Loei,THA,Thailand,country
+TH-16,Lop Buri,THA,Thailand,country
+TH-58,Mae Hong Son,THA,Thailand,country
+TH-44,Maha Sarakham,THA,Thailand,country
+TH-49,Mukdahan,THA,Thailand,country
+TH-26,Nakhon Nayok,THA,Thailand,country
+TH-73,Nakhon Pathom,THA,Thailand,country
+TH-48,Nakhon Phanom,THA,Thailand,country
+TH-30,Nakhon Ratchasima,THA,Thailand,country
+TH-60,Nakhon Sawan,THA,Thailand,country
+TH-80,Nakhon Si Thammarat,THA,Thailand,country
+TH-55,Nan,THA,Thailand,country
+TH-96,Narathiwat,THA,Thailand,country
+TH-39,Nong Bua Lam Phu,THA,Thailand,country
+TH-43,Nong Khai,THA,Thailand,country
+TH-12,Nonthaburi,THA,Thailand,country
+TH-13,Pathum Thani,THA,Thailand,country
+TH-94,Pattani,THA,Thailand,country
+TH-82,Phangnga,THA,Thailand,country
+TH-93,Phatthalung,THA,Thailand,country
+TH-56,Phayao,THA,Thailand,country
+TH-67,Phetchabun,THA,Thailand,country
+TH-76,Phetchaburi,THA,Thailand,country
+TH-66,Phichit,THA,Thailand,country
+TH-65,Phitsanulok,THA,Thailand,country
+TH-14,Phra Nakhon Si Ayutthaya,THA,Thailand,country
+TH-54,Phrae,THA,Thailand,country
+TH-83,Phuket,THA,Thailand,country
+TH-25,Prachin Buri,THA,Thailand,country
+TH-77,Prachuap Khiri Khan,THA,Thailand,country
+TH-85,Ranong,THA,Thailand,country
+TH-70,Ratchaburi,THA,Thailand,country
+TH-21,Rayong,THA,Thailand,country
+TH-45,Roi Et,THA,Thailand,country
+TH-27,Sa Kaeo,THA,Thailand,country
+TH-47,Sakon Nakhon,THA,Thailand,country
+TH-11,Samut Prakan,THA,Thailand,country
+TH-74,Samut Sakhon,THA,Thailand,country
+TH-75,Samut Songkhram,THA,Thailand,country
+TH-19,Saraburi,THA,Thailand,country
+TH-91,Satun,THA,Thailand,country
+TH-33,Si Sa Ket,THA,Thailand,country
+TH-17,Sing Buri,THA,Thailand,country
+TH-90,Songkhla,THA,Thailand,country
+TH-64,Sukhothai,THA,Thailand,country
+TH-72,Suphan Buri,THA,Thailand,country
+TH-84,Surat Thani,THA,Thailand,country
+TH-32,Surin,THA,Thailand,country
+TH-63,Tak,THA,Thailand,country
+TH-92,Trang,THA,Thailand,country
+TH-23,Trat,THA,Thailand,country
+TH-34,Ubon Ratchathani,THA,Thailand,country
+TH-41,Udon Thani,THA,Thailand,country
+TH-61,Uthai Thani,THA,Thailand,country
+TH-53,Uttaradit,THA,Thailand,country
+TH-95,Yala,THA,Thailand,country
+TH-35,Yasothon,THA,Thailand,country
+GM-B,Banjul,GMB,The Gambia,country
+GM-M,Central River,GMB,The Gambia,country
+GM-L,Lower River,GMB,The Gambia,country
+GM-N,North Bank,GMB,The Gambia,country
+GM-U,Upper River,GMB,The Gambia,country
+GM-W,West Coast,GMB,The Gambia,country
+TL-AL,Aileu,TLS,Timor-Leste,country
+TL-AN,Ainaro,TLS,Timor-Leste,country
+TL-OE,Ambeno,TLS,Timor-Leste,country
+TL-BA,Baucau,TLS,Timor-Leste,country
+TL-BO,Bobonaro,TLS,Timor-Leste,country
+TL-CO,Cova Lima,TLS,Timor-Leste,country
+TL-DI,Dili,TLS,Timor-Leste,country
+TL-ER,Ermera,TLS,Timor-Leste,country
+TL-LA,Lautém,TLS,Timor-Leste,country
+TL-LI,Liquica,TLS,Timor-Leste,country
+TL-MT,Manatuto,TLS,Timor-Leste,country
+TL-MF,Manufahi,TLS,Timor-Leste,country
+TL-VI,Viqueque,TLS,Timor-Leste,country
+TG-C,Centre,TGO,Togo,country
+TG-K,Kara,TGO,Togo,country
+TG-M,Maritime,TGO,Togo,country
+TG-P,Plateaux,TGO,Togo,country
+TG-S,Savanes,TGO,Togo,country
+TO-01,Eua,TON,Tonga,country
+TO-02,Ha'apai,TON,Tonga,country
+TO-03,Niuas,TON,Tonga,country
+TO-04,Tongatapu,TON,Tonga,country
+TO-05,Vava'u,TON,Tonga,country
+TT-ARI,Arima,TTO,Trinidad and Tobago,country
+TT-CHA,Chaguanas,TTO,Trinidad and Tobago,country
+TT-CTT,Couva-Tabaquite-Talparo,TTO,Trinidad and Tobago,country
+TT-DMN,Diego Martin,TTO,Trinidad and Tobago,country
+TT-ETO,Eastern Tobago,TTO,Trinidad and Tobago,country
+TT-PED,Penal-Debe,TTO,Trinidad and Tobago,country
+TT-PTF,Point Fortin,TTO,Trinidad and Tobago,country
+TT-POS,Port of Spain,TTO,Trinidad and Tobago,country
+TT-PRT,Princes Town,TTO,Trinidad and Tobago,country
+TT-RCM,Rio Claro-Mayaro,TTO,Trinidad and Tobago,country
+TT-SFO,San Fernando,TTO,Trinidad and Tobago,country
+TT-SJL,San Juan-Laventille,TTO,Trinidad and Tobago,country
+TT-SGE,Sangre Grande,TTO,Trinidad and Tobago,country
+TT-SIP,Siparia,TTO,Trinidad and Tobago,country
+TT-TUP,Tunapuna/Piarco,TTO,Trinidad and Tobago,country
+TT-WTO,Western Tobago,TTO,Trinidad and Tobago,country
+TN-31,Béja,TUN,Tunisia,country
+TN-13,Ben Arous (Tunis Sud),TUN,Tunisia,country
+TN-23,Bizerte,TUN,Tunisia,country
+TN-81,Gabès,TUN,Tunisia,country
+TN-71,Gafsa,TUN,Tunisia,country
+TN-32,Jendouba,TUN,Tunisia,country
+TN-41,Kairouan,TUN,Tunisia,country
+TN-42,Kassérine,TUN,Tunisia,country
+TN-73,Kebili,TUN,Tunisia,country
+TN-33,Le Kef,TUN,Tunisia,country
+TN-53,Mahdia,TUN,Tunisia,country
+TN-14,Manubah,TUN,Tunisia,country
+TN-82,Médenine,TUN,Tunisia,country
+TN-52,Monastir,TUN,Tunisia,country
+TN-21,Nabeul,TUN,Tunisia,country
+TN-61,Sfax,TUN,Tunisia,country
+TN-43,Sidi Bou Zid,TUN,Tunisia,country
+TN-34,Siliana,TUN,Tunisia,country
+TN-51,Sousse,TUN,Tunisia,country
+TN-83,Tataouine,TUN,Tunisia,country
+TN-72,Tozeur,TUN,Tunisia,country
+TN-11,Tunis,TUN,Tunisia,country
+TN-22,Zaghouan,TUN,Tunisia,country
+TR-01,Adana,TUR,Turkey,country
+TR-02,Adiyaman,TUR,Turkey,country
+TR-03,Afyonkarahisar,TUR,Turkey,country
+TR-04,Agri,TUR,Turkey,country
+TR-68,Aksaray,TUR,Turkey,country
+TR-05,Amasya,TUR,Turkey,country
+TR-06,Ankara,TUR,Turkey,country
+TR-07,Antalya,TUR,Turkey,country
+TR-75,Ardahan,TUR,Turkey,country
+TR-08,Artvin,TUR,Turkey,country
+TR-09,Aydin,TUR,Turkey,country
+TR-10,Balikesir,TUR,Turkey,country
+TR-74,Bartın,TUR,Turkey,country
+TR-72,Batman,TUR,Turkey,country
+TR-69,Bayburt,TUR,Turkey,country
+TR-11,Bilecik,TUR,Turkey,country
+TR-12,Bingöl,TUR,Turkey,country
+TR-13,Bitlis,TUR,Turkey,country
+TR-14,Bolu,TUR,Turkey,country
+TR-15,Burdur,TUR,Turkey,country
+TR-16,Bursa,TUR,Turkey,country
+TR-17,Çanakkale,TUR,Turkey,country
+TR-18,Çankiri,TUR,Turkey,country
+TR-19,Çorum,TUR,Turkey,country
+TR-20,Denizli,TUR,Turkey,country
+TR-21,Diyarbakir,TUR,Turkey,country
+TR-81,Düzce,TUR,Turkey,country
+TR-22,Edirne,TUR,Turkey,country
+TR-23,Elazig,TUR,Turkey,country
+TR-24,Erzincan,TUR,Turkey,country
+TR-25,Erzurum,TUR,Turkey,country
+TR-26,Eskisehir,TUR,Turkey,country
+TR-27,Gaziantep,TUR,Turkey,country
+TR-28,Giresun,TUR,Turkey,country
+TR-29,Gümüshane,TUR,Turkey,country
+TR-30,Hakkari,TUR,Turkey,country
+TR-31,Hatay,TUR,Turkey,country
+TR-76,Iğdir,TUR,Turkey,country
+TR-32,Isparta,TUR,Turkey,country
+TR-34,Istanbul,TUR,Turkey,country
+TR-35,Izmir,TUR,Turkey,country
+TR-46,K. Maras,TUR,Turkey,country
+TR-78,Karabük,TUR,Turkey,country
+TR-70,Karaman,TUR,Turkey,country
+TR-36,Kars,TUR,Turkey,country
+TR-37,Kastamonu,TUR,Turkey,country
+TR-38,Kayseri,TUR,Turkey,country
+TR-79,Kilis,TUR,Turkey,country
+TR-71,Kinkkale,TUR,Turkey,country
+TR-39,Kirklareli,TUR,Turkey,country
+TR-40,Kirsehir,TUR,Turkey,country
+TR-41,Kocaeli,TUR,Turkey,country
+TR-42,Konya,TUR,Turkey,country
+TR-43,Kütahya,TUR,Turkey,country
+TR-44,Malatya,TUR,Turkey,country
+TR-45,Manisa,TUR,Turkey,country
+TR-47,Mardin,TUR,Turkey,country
+TR-33,Mersin,TUR,Turkey,country
+TR-48,Mugla,TUR,Turkey,country
+TR-49,Mus,TUR,Turkey,country
+TR-50,Nevsehir,TUR,Turkey,country
+TR-51,Nigde,TUR,Turkey,country
+TR-52,Ordu,TUR,Turkey,country
+TR-80,Osmaniye,TUR,Turkey,country
+TR-53,Rize,TUR,Turkey,country
+TR-54,Sakarya,TUR,Turkey,country
+TR-55,Samsun,TUR,Turkey,country
+TR-63,Sanliurfa,TUR,Turkey,country
+TR-56,Siirt,TUR,Turkey,country
+TR-57,Sinop,TUR,Turkey,country
+TR-73,Sirnak,TUR,Turkey,country
+TR-58,Sivas,TUR,Turkey,country
+TR-59,Tekirdag,TUR,Turkey,country
+TR-60,Tokat,TUR,Turkey,country
+TR-61,Trabzon,TUR,Turkey,country
+TR-62,Tunceli,TUR,Turkey,country
+TR-64,Usak,TUR,Turkey,country
+TR-65,Van,TUR,Turkey,country
+TR-77,Yalova,TUR,Turkey,country
+TR-66,Yozgat,TUR,Turkey,country
+TR-67,Zinguldak,TUR,Turkey,country
+TM-A,Ahal,TKM,Turkmenistan,country
+TM-B,Balkan,TKM,Turkmenistan,country
+TM-L,Chardzhou,TKM,Turkmenistan,country
+TM-M,Mary,TKM,Turkmenistan,country
+TM-D,Tashauz,TKM,Turkmenistan,country
+TCA-5007,Grand Turk,TCA,Turks and Caicos Islands,country
+TCA-5003,Middle Caicos,TCA,Turks and Caicos Islands,country
+TCA-5004,North Caicos,TCA,Turks and Caicos Islands,country
+TCA-5005,Providenciales and West Caicos,TCA,Turks and Caicos Islands,country
+TCA-5008,Salt Cay,TCA,Turks and Caicos Islands,country
+TCA-5006,South Caicos and East Caicos,TCA,Turks and Caicos Islands,country
+TUV-00,Tuvalu,TUV,Tuvalu,country
+UG-317,Abim,UGA,Uganda,country
+UG-301,Adjumani,UGA,Uganda,country
+UG-322,Agago,UGA,Uganda,country
+UG-323,Alebtong,UGA,Uganda,country
+UG-314,Amolatar,UGA,Uganda,country
+UG-324,Amudat,UGA,Uganda,country
+UG-216,Amuria,UGA,Uganda,country
+UG-319,Amuru,UGA,Uganda,country
+UG-302,Apac,UGA,Uganda,country
+UG-303,Arua,UGA,Uganda,country
+UG-217,Budaka,UGA,Uganda,country
+UG-223,Bududa,UGA,Uganda,country
+UG-201,Bugiri,UGA,Uganda,country
+UG-325,Buhweju,UGA,Uganda,country
+UG-117,Buikwe,UGA,Uganda,country
+UG-224,Bukedea,UGA,Uganda,country
+UG-118,Bukomansimbi,UGA,Uganda,country
+UG-218,Bukwa,UGA,Uganda,country
+UG-225,Bulambuli,UGA,Uganda,country
+UG-419,Buliisa,UGA,Uganda,country
+UG-401,Bundibugyo,UGA,Uganda,country
+UG-402,Bushenyi,UGA,Uganda,country
+UG-202,Busia,UGA,Uganda,country
+UG-219,Butaleja,UGA,Uganda,country
+UG-119,Butambala,UGA,Uganda,country
+UG-120,Buvuma,UGA,Uganda,country
+UG-226,Buyende,UGA,Uganda,country
+UG-318,Dokolo,UGA,Uganda,country
+UG-121,Gomba,UGA,Uganda,country
+UG-304,Gulu,UGA,Uganda,country
+UG-403,Hoima,UGA,Uganda,country
+UG-416,Ibanda,UGA,Uganda,country
+UG-203,Iganga,UGA,Uganda,country
+UG-417,Isingiro,UGA,Uganda,country
+UG-204,Jinja,UGA,Uganda,country
+UG-315,Kaabong,UGA,Uganda,country
+UG-404,Kabale,UGA,Uganda,country
+UG-405,Kabarole,UGA,Uganda,country
+UG-213,Kaberamaido,UGA,Uganda,country
+UG-101,Kalangala,UGA,Uganda,country
+UG-220,Kaliro,UGA,Uganda,country
+UG-122,Kalungu,UGA,Uganda,country
+UG-102,Kampala,UGA,Uganda,country
+UG-205,Kamuli,UGA,Uganda,country
+UG-413,Kamwenge,UGA,Uganda,country
+UG-414,Kanungu,UGA,Uganda,country
+UG-206,Kapchorwa,UGA,Uganda,country
+UG-406,Kasese,UGA,Uganda,country
+UG-207,Katakwi,UGA,Uganda,country
+UG-112,Kayunga,UGA,Uganda,country
+UG-407,Kibale,UGA,Uganda,country
+UG-103,Kiboga,UGA,Uganda,country
+UG-227,Kibuku,UGA,Uganda,country
+UG-420,Kiryandongo,UGA,Uganda,country
+UG-408,Kisoro,UGA,Uganda,country
+UG-305,Kitgum,UGA,Uganda,country
+UG-316,Koboko,UGA,Uganda,country
+UG-326,Kole,UGA,Uganda,country
+UG-306,Kotido,UGA,Uganda,country
+UG-208,Kumi,UGA,Uganda,country
+UG-228,Kween,UGA,Uganda,country
+UG-123,Kyankwanzi,UGA,Uganda,country
+UG-421,Kyegegwa,UGA,Uganda,country
+UG-415,Kyenjojo,UGA,Uganda,country
+UG-327,Lamwo,UGA,Uganda,country
+UG-307,Lira,UGA,Uganda,country
+UG-229,Luuka,UGA,Uganda,country
+UG-104,Luweero,UGA,Uganda,country
+UG-124,Lwengo,UGA,Uganda,country
+UG-116,Lyantonde,UGA,Uganda,country
+UG-221,Manafwa,UGA,Uganda,country
+UG-320,Maracha,UGA,Uganda,country
+UG-105,Masaka,UGA,Uganda,country
+UG-409,Masindi,UGA,Uganda,country
+UG-214,Mayuge,UGA,Uganda,country
+UG-209,Mbale,UGA,Uganda,country
+UGA-3374,Mbarara,UGA,Uganda,country
+UGA-3371,Mbarara,UGA,Uganda,country
+UG-422,Mitooma,UGA,Uganda,country
+UG-114,Mityana,UGA,Uganda,country
+UG-308,Moroto,UGA,Uganda,country
+UG-309,Moyo,UGA,Uganda,country
+UG-106,Mpigi,UGA,Uganda,country
+UG-107,Mubende,UGA,Uganda,country
+UG-108,Mukono,UGA,Uganda,country
+UG-311,Nakapiripirit,UGA,Uganda,country
+UG-115,Nakaseke,UGA,Uganda,country
+UG-109,Nakasongola,UGA,Uganda,country
+UG-230,Namayingo,UGA,Uganda,country
+UG-222,Namutumba,UGA,Uganda,country
+UG-328,Napak,UGA,Uganda,country
+UG-310,Nebbi,UGA,Uganda,country
+UG-231,Ngora,UGA,Uganda,country
+UG-423,Ntoroko,UGA,Uganda,country
+UG-411,Ntungamo,UGA,Uganda,country
+UG-329,Nwoya,UGA,Uganda,country
+UG-330,Otuke,UGA,Uganda,country
+UG-321,Oyam,UGA,Uganda,country
+UG-312,Pader,UGA,Uganda,country
+UG-210,Pallisa,UGA,Uganda,country
+UG-110,Rakai,UGA,Uganda,country
+UG-424,Rubirizi,UGA,Uganda,country
+UG-412,Rukungiri,UGA,Uganda,country
+UG-111,Sembabule,UGA,Uganda,country
+UG-232,Serere,UGA,Uganda,country
+UG-425,Sheema,UGA,Uganda,country
+UG-215,Sironko,UGA,Uganda,country
+UG-211,Soroti,UGA,Uganda,country
+UG-212,Tororo,UGA,Uganda,country
+UG-113,Wakiso,UGA,Uganda,country
+UG-313,Yumbe,UGA,Uganda,country
+UG-331,Zombo,UGA,Uganda,country
+UA-71,Cherkasy,UKR,Ukraine,country
+UA-74,Chernihiv,UKR,Ukraine,country
+UA-77,Chernivtsi,UKR,Ukraine,country
+UA-12,Dnipropetrovs'k,UKR,Ukraine,country
+UA-14,Donets'k,UKR,Ukraine,country
+UA-26,Ivano-Frankivs'k,UKR,Ukraine,country
+UA-63,Kharkiv,UKR,Ukraine,country
+UA-65,Kherson,UKR,Ukraine,country
+UA-68,Khmel'nyts'kyy,UKR,Ukraine,country
+UA-32,Kiev,UKR,Ukraine,country
+UA-30,Kiev City,UKR,Ukraine,country
+UA-35,Kirovohrad,UKR,Ukraine,country
+UA-46,L'viv,UKR,Ukraine,country
+UA-09,Luhans'k,UKR,Ukraine,country
+UA-48,Mykolayiv,UKR,Ukraine,country
+UA-51,Odessa,UKR,Ukraine,country
+UA-53,Poltava,UKR,Ukraine,country
+UA-56,Rivne,UKR,Ukraine,country
+UA-59,Sumy,UKR,Ukraine,country
+UA-61,Ternopil',UKR,Ukraine,country
+UA-21,Transcarpathia,UKR,Ukraine,country
+UA-05,Vinnytsya,UKR,Ukraine,country
+UA-07,Volyn,UKR,Ukraine,country
+UA-23,Zaporizhzhya,UKR,Ukraine,country
+UA-18,Zhytomyr,UKR,Ukraine,country
+AE-AZ,Abu Dhabi,ARE,United Arab Emirates,country
+AE-AJ,Ajman,ARE,United Arab Emirates,country
+AE-DU,Dubay,ARE,United Arab Emirates,country
+AE-FU,Fujayrah,ARE,United Arab Emirates,country
+ARE-344,Neutral Zone,ARE,United Arab Emirates,country
+ARE-347,Neutral Zone,ARE,United Arab Emirates,country
+AE-RK,Ras Al Khaymah,ARE,United Arab Emirates,country
+AE-SH,Sharjah,ARE,United Arab Emirates,country
+AE-UQ,Umm Al Qaywayn,ARE,United Arab Emirates,country
+GB-ABE,Aberdeen,GBR,United Kingdom,country
+GB-ABD,Aberdeenshire,GBR,United Kingdom,country
+GB-AGY,Anglesey,GBR,United Kingdom,country
+GB-ANS,Angus,GBR,United Kingdom,country
+GB-ANT,Antrim,GBR,United Kingdom,country
+GB-ARD,Ards,GBR,United Kingdom,country
+GB-AGB,Argyll and Bute,GBR,United Kingdom,country
+GB-ARM,Armagh,GBR,United Kingdom,country
+GB-BLA,Ballymena,GBR,United Kingdom,country
+GB-BLY,Ballymoney,GBR,United Kingdom,country
+GB-BNB,Banbridge,GBR,United Kingdom,country
+GB-BDG,Barking and Dagenham,GBR,United Kingdom,country
+GB-BNE,Barnet,GBR,United Kingdom,country
+GB-BNS,Barnsley,GBR,United Kingdom,country
+GB-BAS,Bath and North East Somerset,GBR,United Kingdom,country
+GB-BDF,Bedford,GBR,United Kingdom,country
+GB-BFS,Belfast,GBR,United Kingdom,country
+GB-BEX,Bexley,GBR,United Kingdom,country
+GB-BIR,Birmingham,GBR,United Kingdom,country
+GB-BBD,Blackburn with Darwen,GBR,United Kingdom,country
+GB-BPL,Blackpool,GBR,United Kingdom,country
+GB-BGW,Blaenau Gwent,GBR,United Kingdom,country
+GB-BOL,Bolton,GBR,United Kingdom,country
+GB-BMH,Bournemouth,GBR,United Kingdom,country
+GB-BRC,Bracknell Forest,GBR,United Kingdom,country
+GB-BRD,Bradford,GBR,United Kingdom,country
+GB-BEN,Brent,GBR,United Kingdom,country
+GB-BGE,Bridgend,GBR,United Kingdom,country
+GB-BNH,Brighton and Hove,GBR,United Kingdom,country
+GB-BST,Bristol,GBR,United Kingdom,country
+GB-BRY,Bromley,GBR,United Kingdom,country
+GB-BKM,Buckinghamshire,GBR,United Kingdom,country
+GB-BUR,Bury,GBR,United Kingdom,country
+GB-CAY,Caerphilly,GBR,United Kingdom,country
+GB-CLD,Calderdale,GBR,United Kingdom,country
+GB-CAM,Cambridgeshire,GBR,United Kingdom,country
+GB-CMD,Camden,GBR,United Kingdom,country
+GB-CRF,Cardiff,GBR,United Kingdom,country
+GB-CMN,Carmarthenshire,GBR,United Kingdom,country
+GB-CKF,Carrickfergus,GBR,United Kingdom,country
+GB-CSR,Castlereagh,GBR,United Kingdom,country
+GB-CBF,Central Bedfordshire,GBR,United Kingdom,country
+GB-CGN,Ceredigion,GBR,United Kingdom,country
+GB-CHE,Cheshire East,GBR,United Kingdom,country
+GB-CHW,Cheshire West and Chester,GBR,United Kingdom,country
+GB-LND,City,GBR,United Kingdom,country
+GB-CLK,Clackmannanshire,GBR,United Kingdom,country
+GB-CLR,Coleraine,GBR,United Kingdom,country
+GB-CWY,Conwy,GBR,United Kingdom,country
+GB-CON,Cornwall,GBR,United Kingdom,country
+GB-COV,Coventry,GBR,United Kingdom,country
+GB-CGV,Craigavon,GBR,United Kingdom,country
+GB-CRY,Croydon,GBR,United Kingdom,country
+GB-CMA,Cumbria,GBR,United Kingdom,country
+GB-DAL,Darlington,GBR,United Kingdom,country
+GB-DEN,Denbighshire,GBR,United Kingdom,country
+GB-DER,Derby,GBR,United Kingdom,country
+GB-DBY,Derbyshire,GBR,United Kingdom,country
+GB-DRY,Derry,GBR,United Kingdom,country
+GB-DEV,Devon,GBR,United Kingdom,country
+GB-DNC,Doncaster,GBR,United Kingdom,country
+GB-DOR,Dorset,GBR,United Kingdom,country
+GB-DOW,Down,GBR,United Kingdom,country
+GB-DUD,Dudley,GBR,United Kingdom,country
+GB-DGY,Dumfries and Galloway,GBR,United Kingdom,country
+GB-DND,Dundee,GBR,United Kingdom,country
+GB-DGN,Dungannon,GBR,United Kingdom,country
+GB-DUR,Durham,GBR,United Kingdom,country
+GB-EAL,Ealing,GBR,United Kingdom,country
+GB-EAY,East Ayrshire,GBR,United Kingdom,country
+GB-EDU,East Dunbartonshire,GBR,United Kingdom,country
+GB-ELN,East Lothian,GBR,United Kingdom,country
+GB-ERW,East Renfrewshire,GBR,United Kingdom,country
+GB-ERY,East Riding of Yorkshire,GBR,United Kingdom,country
+GB-ESX,East Sussex,GBR,United Kingdom,country
+GB-EDH,Edinburgh,GBR,United Kingdom,country
+GB-ELS,Eilean Siar,GBR,United Kingdom,country
+GB-ENF,Enfield,GBR,United Kingdom,country
+GB-ESS,Essex,GBR,United Kingdom,country
+GB-FAL,Falkirk,GBR,United Kingdom,country
+GB-FER,Fermanagh,GBR,United Kingdom,country
+GB-FIF,Fife,GBR,United Kingdom,country
+GB-FLN,Flintshire,GBR,United Kingdom,country
+GB-GAT,Gateshead,GBR,United Kingdom,country
+GB-GLG,Glasgow,GBR,United Kingdom,country
+GB-GLS,Gloucestershire,GBR,United Kingdom,country
+GB-GRE,Greenwich,GBR,United Kingdom,country
+GB-GWN,Gwynedd,GBR,United Kingdom,country
+GB-HCK,Hackney,GBR,United Kingdom,country
+GB-WRL,Halton,GBR,United Kingdom,country
+GB-HAL,Halton,GBR,United Kingdom,country
+GB-HMF,Hammersmith and Fulham,GBR,United Kingdom,country
+GB-HAM,Hampshire,GBR,United Kingdom,country
+GB-HRY,Haringey,GBR,United Kingdom,country
+GB-HRW,Harrow,GBR,United Kingdom,country
+GB-HPL,Hartlepool,GBR,United Kingdom,country
+GB-HAV,Havering,GBR,United Kingdom,country
+GB-HEF,Herefordshire,GBR,United Kingdom,country
+GB-HRT,Hertfordshire,GBR,United Kingdom,country
+GB-HLD,Highland,GBR,United Kingdom,country
+GB-HIL,Hillingdon,GBR,United Kingdom,country
+GB-HNS,Hounslow,GBR,United Kingdom,country
+GB-IVC,Inverclyde,GBR,United Kingdom,country
+GB-IOW,Isle of Wight,GBR,United Kingdom,country
+GB-IOS,Isles of Scilly,GBR,United Kingdom,country
+GB-ISL,Islington,GBR,United Kingdom,country
+GB-KEC,Kensington and Chelsea,GBR,United Kingdom,country
+GB-KEN,Kent,GBR,United Kingdom,country
+GB-KHL,Kingston upon Hull,GBR,United Kingdom,country
+GB-KTT,Kingston upon Thames,GBR,United Kingdom,country
+GB-KIR,Kirklees,GBR,United Kingdom,country
+GB-KWL,Knowsley,GBR,United Kingdom,country
+GB-LBH,Lambeth,GBR,United Kingdom,country
+GB-LAN,Lancashire,GBR,United Kingdom,country
+GB-LRN,Larne,GBR,United Kingdom,country
+GB-LDS,Leeds,GBR,United Kingdom,country
+GB-LCE,Leicester,GBR,United Kingdom,country
+GB-LEC,Leicestershire,GBR,United Kingdom,country
+GB-LEW,Lewisham,GBR,United Kingdom,country
+GB-LMV,Limavady,GBR,United Kingdom,country
+GB-LIN,Lincolnshire,GBR,United Kingdom,country
+GB-LSB,Lisburn,GBR,United Kingdom,country
+GB-LIV,Liverpool,GBR,United Kingdom,country
+GB-LUT,Luton,GBR,United Kingdom,country
+GB-MFT,Magherafelt,GBR,United Kingdom,country
+GB-MAN,Manchester,GBR,United Kingdom,country
+GB-MDW,Medway,GBR,United Kingdom,country
+GB-SHN,Merseyside,GBR,United Kingdom,country
+GB-MTY,Merthyr Tydfil,GBR,United Kingdom,country
+GB-MRT,Merton,GBR,United Kingdom,country
+GB-CKT,Mid Ulster,GBR,United Kingdom,country
+GB-MDB,Middlesbrough,GBR,United Kingdom,country
+GB-MLN,Midlothian,GBR,United Kingdom,country
+GB-MIK,Milton Keynes,GBR,United Kingdom,country
+GB-MON,Monmouthshire,GBR,United Kingdom,country
+GB-MRY,Moray,GBR,United Kingdom,country
+GB-MYL,Moyle,GBR,United Kingdom,country
+GB-NTL,Neath Port Talbot,GBR,United Kingdom,country
+GB-NET,Newcastle upon Tyne,GBR,United Kingdom,country
+GB-NWM,Newham,GBR,United Kingdom,country
+GB-NWP,Newport,GBR,United Kingdom,country
+GB-NYM,Newry and Mourne,GBR,United Kingdom,country
+GB-NTA,Newtownabbey,GBR,United Kingdom,country
+GB-NFK,Norfolk,GBR,United Kingdom,country
+GB-NAY,North Ayshire,GBR,United Kingdom,country
+GB-NDN,North Down,GBR,United Kingdom,country
+GB-NEL,North East Lincolnshire,GBR,United Kingdom,country
+GB-NLK,North Lanarkshire,GBR,United Kingdom,country
+GB-NLN,North Lincolnshire,GBR,United Kingdom,country
+GB-NSM,North Somerset,GBR,United Kingdom,country
+GB-NTY,North Tyneside,GBR,United Kingdom,country
+GB-NYK,North Yorkshire,GBR,United Kingdom,country
+GB-NTH,Northamptonshire,GBR,United Kingdom,country
+GB-NBL,Northumberland,GBR,United Kingdom,country
+GB-NGM,Nottingham,GBR,United Kingdom,country
+GB-NTT,Nottinghamshire,GBR,United Kingdom,country
+GB-OLD,Oldham,GBR,United Kingdom,country
+GB-OMH,Omagh,GBR,United Kingdom,country
+GB-ORK,Orkney,GBR,United Kingdom,country
+GB-OXF,Oxfordshire,GBR,United Kingdom,country
+GB-PEM,Pembrokeshire,GBR,United Kingdom,country
+GB-PKN,Perthshire and Kinross,GBR,United Kingdom,country
+GB-PTE,Peterborough,GBR,United Kingdom,country
+GB-PLY,Plymouth,GBR,United Kingdom,country
+GB-POL,Poole,GBR,United Kingdom,country
+GB-POR,Portsmouth,GBR,United Kingdom,country
+GB-POW,Powys,GBR,United Kingdom,country
+GB-RDG,Reading,GBR,United Kingdom,country
+GB-RDB,Redbridge,GBR,United Kingdom,country
+GB-RCC,Redcar and Cleveland,GBR,United Kingdom,country
+GB-RFW,Renfrewshire,GBR,United Kingdom,country
+GB-RCT,"Rhondda, Cynon, Taff",GBR,United Kingdom,country
+GB-RIC,Richmond upon Thames,GBR,United Kingdom,country
+GB-RCH,Rochdale,GBR,United Kingdom,country
+GB-ROT,Rotherham,GBR,United Kingdom,country
+GB-WNM,Royal Borough of Windsor and Maidenhead,GBR,United Kingdom,country
+GB-RUT,Rutland,GBR,United Kingdom,country
+GB-SLF,Salford,GBR,United Kingdom,country
+GB-SAW,Sandwell,GBR,United Kingdom,country
+GB-SCB,Scottish Borders,GBR,United Kingdom,country
+GB-SFT,Sefton,GBR,United Kingdom,country
+GB-SHF,Sheffield,GBR,United Kingdom,country
+GB-ZET,Shetland Islands,GBR,United Kingdom,country
+GB-SHR,Shropshire,GBR,United Kingdom,country
+GB-SLG,Slough,GBR,United Kingdom,country
+GB-SOL,Solihull,GBR,United Kingdom,country
+GB-SOM,Somerset,GBR,United Kingdom,country
+GB-SAY,South Ayrshire,GBR,United Kingdom,country
+GB-SGC,South Gloucestershire,GBR,United Kingdom,country
+GB-SLK,South Lanarkshire,GBR,United Kingdom,country
+GB-STY,South Tyneside,GBR,United Kingdom,country
+GB-STH,Southampton,GBR,United Kingdom,country
+GB-SOS,Southend-on-Sea,GBR,United Kingdom,country
+GB-SWK,Southwark,GBR,United Kingdom,country
+GB-STS,Staffordshire,GBR,United Kingdom,country
+GB-STG,Stirling,GBR,United Kingdom,country
+GB-SKP,Stockport,GBR,United Kingdom,country
+GB-STT,Stockton-on-Tees,GBR,United Kingdom,country
+GB-STE,Stoke-on-Trent,GBR,United Kingdom,country
+GB-STB,Strabane,GBR,United Kingdom,country
+GB-SFK,Suffolk,GBR,United Kingdom,country
+GB-SND,Sunderland,GBR,United Kingdom,country
+GB-SRY,Surrey,GBR,United Kingdom,country
+GB-STN,Sutton,GBR,United Kingdom,country
+GB-SWA,Swansea,GBR,United Kingdom,country
+GB-SWD,Swindon,GBR,United Kingdom,country
+GB-TAM,Tameside,GBR,United Kingdom,country
+GB-TFW,Telford and Wrekin,GBR,United Kingdom,country
+GB-THR,Thurrock,GBR,United Kingdom,country
+GB-TOB,Torbay,GBR,United Kingdom,country
+GB-TOF,Torfaen,GBR,United Kingdom,country
+GB-TWH,Tower Hamlets,GBR,United Kingdom,country
+GB-TRF,Trafford,GBR,United Kingdom,country
+GB-VGL,Vale of Glamorgan,GBR,United Kingdom,country
+GB-WKF,Wakefield,GBR,United Kingdom,country
+GB-WLL,Walsall,GBR,United Kingdom,country
+GB-WFT,Waltham Forest,GBR,United Kingdom,country
+GB-WND,Wandsworth,GBR,United Kingdom,country
+GB-WRT,Warrington,GBR,United Kingdom,country
+GB-WAR,Warwickshire,GBR,United Kingdom,country
+GB-WBK,West Berkshire,GBR,United Kingdom,country
+GB-WDU,West Dunbartonshire,GBR,United Kingdom,country
+GB-WLN,West Lothian,GBR,United Kingdom,country
+GB-WSX,West Sussex,GBR,United Kingdom,country
+GB-WSM,Westminster,GBR,United Kingdom,country
+GB-WGN,Wigan,GBR,United Kingdom,country
+GB-WIL,Wiltshire,GBR,United Kingdom,country
+GB-WOK,Wokingham,GBR,United Kingdom,country
+GB-WLV,Wolverhampton,GBR,United Kingdom,country
+GB-WOR,Worcestershire,GBR,United Kingdom,country
+GB-WRX,Wrexham,GBR,United Kingdom,country
+GB-YOR,York,GBR,United Kingdom,country
+US-AL,Alabama,USA,United States,country
+US-AK,Alaska,USA,United States,country
+US-AZ,Arizona,USA,United States,country
+US-AR,Arkansas,USA,United States,country
+US-CA,California,USA,United States,country
+US-CO,Colorado,USA,United States,country
+US-CT,Connecticut,USA,United States,country
+US-DE,Delaware,USA,United States,country
+US-DC,District of Columbia,USA,United States,country
+US-FL,Florida,USA,United States,country
+US-GA,Georgia,USA,United States,country
+US-HI,Hawaii,USA,United States,country
+US-ID,Idaho,USA,United States,country
+US-IL,Illinois,USA,United States,country
+US-IN,Indiana,USA,United States,country
+US-IA,Iowa,USA,United States,country
+US-KS,Kansas,USA,United States,country
+US-KY,Kentucky,USA,United States,country
+US-LA,Louisiana,USA,United States,country
+US-ME,Maine,USA,United States,country
+US-MD,Maryland,USA,United States,country
+US-MA,Massachusetts,USA,United States,country
+US-MI,Michigan,USA,United States,country
+US-MN,Minnesota,USA,United States,country
+US-MS,Mississippi,USA,United States,country
+US-MO,Missouri,USA,United States,country
+US-MT,Montana,USA,United States,country
+US-NE,Nebraska,USA,United States,country
+US-NV,Nevada,USA,United States,country
+US-NH,New Hampshire,USA,United States,country
+US-NJ,New Jersey,USA,United States,country
+US-NM,New Mexico,USA,United States,country
+US-NY,New York,USA,United States,country
+US-NC,North Carolina,USA,United States,country
+US-ND,North Dakota,USA,United States,country
+US-OH,Ohio,USA,United States,country
+US-OK,Oklahoma,USA,United States,country
+US-OR,Oregon,USA,United States,country
+US-PA,Pennsylvania,USA,United States,country
+US-RI,Rhode Island,USA,United States,country
+US-SC,South Carolina,USA,United States,country
+US-SD,South Dakota,USA,United States,country
+US-TN,Tennessee,USA,United States,country
+US-TX,Texas,USA,United States,country
+US-UT,Utah,USA,United States,country
+US-VT,Vermont,USA,United States,country
+US-VA,Virginia,USA,United States,country
+US-WA,Washington,USA,United States,country
+US-WV,West Virginia,USA,United States,country
+US-WI,Wisconsin,USA,United States,country
+US-WY,Wyoming,USA,United States,country
+UM-81,Baker Island,UMI,United States Minor Outlying Islands,none
+UM-84,Howland Island,UMI,United States Minor Outlying Islands,none
+UM-86,Jarvis Island,UMI,United States Minor Outlying Islands,none
+UM-67,Johnston Atoll,UMI,United States Minor Outlying Islands,none
+UM-71,Midway Islands,UMI,United States Minor Outlying Islands,none
+UM-76,Navassa Island,UMI,United States Minor Outlying Islands,none
+UM-95,Palmyra Atoll,UMI,United States Minor Outlying Islands,none
+UM-79,Wake Atoll,UMI,United States Minor Outlying Islands,none
+VIR-4870,Saint Croix,VIR,United States Virgin Islands,country
+VIR-4869,Saint John,VIR,United States Virgin Islands,country
+VIR-4868,Saint Thomas,VIR,United States Virgin Islands,country
+UY-AR,Artigas,URY,Uruguay,country
+UY-CA,Canelones,URY,Uruguay,country
+UY-CL,Cerro Largo,URY,Uruguay,country
+UY-CO,Colonia,URY,Uruguay,country
+UY-DU,Durazno,URY,Uruguay,country
+UY-FS,Flores,URY,Uruguay,country
+UY-FD,Florida,URY,Uruguay,country
+UY-LA,Lavalleja,URY,Uruguay,country
+UY-MA,Maldonado,URY,Uruguay,country
+UY-MO,Montevideo,URY,Uruguay,country
+UY-PA,Paysandú,URY,Uruguay,country
+UY-RN,Río Negro,URY,Uruguay,country
+UY-RV,Rivera,URY,Uruguay,country
+UY-RO,Rocha,URY,Uruguay,country
+UY-SA,Salto,URY,Uruguay,country
+UY-SJ,San José,URY,Uruguay,country
+UY-SO,Soriano,URY,Uruguay,country
+UY-TA,Tacuarembó,URY,Uruguay,country
+UY-TT,Treinta y Tres,URY,Uruguay,country
+USG-00,Guantanamo Bay USNB,USG,US Naval Base Guantanamo Bay,none
+UZ-AN,Andijon,UZB,Uzbekistan,country
+UZ-BU,Bukhoro,UZB,Uzbekistan,country
+UZ-FA,Ferghana,UZB,Uzbekistan,country
+UZ-JI,Jizzakh,UZB,Uzbekistan,country
+UZ-QR,Karakalpakstan,UZB,Uzbekistan,country
+UZ-QA,Kashkadarya,UZB,Uzbekistan,country
+UZ-XO,Khorezm,UZB,Uzbekistan,country
+UZ-NG,Namangan,UZB,Uzbekistan,country
+UZ-NW,Navoi,UZB,Uzbekistan,country
+UZ-SA,Samarkand,UZB,Uzbekistan,country
+UZ-SI,Sirdaryo,UZB,Uzbekistan,country
+UZ-SU,Surkhandarya,UZB,Uzbekistan,country
+UZ-TO,Tashkent,UZB,Uzbekistan,country
+UZ-TK,Tashkent,UZB,Uzbekistan,country
+VU-MAP,Malampa,VUT,Vanuatu,country
+VU-PAM,Penama,VUT,Vanuatu,country
+VU-SAM,Sanma,VUT,Vanuatu,country
+VU-SEE,Shefa,VUT,Vanuatu,country
+VU-TAE,Tafea,VUT,Vanuatu,country
+VU-TOB,Torba,VUT,Vanuatu,country
+VAT-00,Vatican,VAT,Vatican,none
+VE-Z,Amazonas,VEN,Venezuela,country
+VE-B,Anzoátegui,VEN,Venezuela,country
+VE-C,Apure,VEN,Venezuela,country
+VE-D,Aragua,VEN,Venezuela,country
+VE-E,Barinas,VEN,Venezuela,country
+VE-F,Bolívar,VEN,Venezuela,country
+VE-G,Carabobo,VEN,Venezuela,country
+VE-H,Cojedes,VEN,Venezuela,country
+VE-Y,Delta Amacuro,VEN,Venezuela,country
+VE-W,Dependencias Federales,VEN,Venezuela,country
+VE-A,Distrito Capital,VEN,Venezuela,country
+VE-I,Falcón,VEN,Venezuela,country
+VE-J,Guárico,VEN,Venezuela,country
+VE-K,Lara,VEN,Venezuela,country
+VE-L,Mérida,VEN,Venezuela,country
+VE-M,Miranda,VEN,Venezuela,country
+VE-N,Monagas,VEN,Venezuela,country
+VE-O,Nueva Esparta,VEN,Venezuela,country
+VE-P,Portuguesa,VEN,Venezuela,country
+VE-R,Sucre,VEN,Venezuela,country
+VE-S,Táchira,VEN,Venezuela,country
+VE-T,Trujillo,VEN,Venezuela,country
+VE-X,Vargas,VEN,Venezuela,country
+VEN-99,Venezuela,VEN,Venezuela,country
+VE-U,Yaracuy,VEN,Venezuela,country
+VE-V,Zulia,VEN,Venezuela,country
+VN-44,An Giang,VNM,Vietnam,country
+VN-43,Bà Rịa - Vũng Tàu,VNM,Vietnam,country
+VN-54,Bắc Giang,VNM,Vietnam,country
+VN-55,Bạc Liêu,VNM,Vietnam,country
+VN-56,Bắc Ninh,VNM,Vietnam,country
+VN-50,Bến Tre,VNM,Vietnam,country
+VN-31,Bình Định,VNM,Vietnam,country
+VN-57,Bình Dương,VNM,Vietnam,country
+VN-58,Bình Phước,VNM,Vietnam,country
+VN-40,Bình Thuận,VNM,Vietnam,country
+VN-59,Cà Mau,VNM,Vietnam,country
+VN-CT,Can Tho,VNM,Vietnam,country
+VN-04,Cao Bằng,VNM,Vietnam,country
+VN-DN,Đà Nẵng,VNM,Vietnam,country
+VN-33,Đắk Lắk,VNM,Vietnam,country
+VN-72,Đắk Nông,VNM,Vietnam,country
+VN-71,Điện Biên,VNM,Vietnam,country
+VN-53,Đông Bắc,VNM,Vietnam,country
+VN-66,Đồng Bằng Sông Hồng,VNM,Vietnam,country
+VN-39,Đông Nam Bộ,VNM,Vietnam,country
+VN-45,Ðong Tháp,VNM,Vietnam,country
+VN-30,Gia Lai,VNM,Vietnam,country
+VN-03,Hà Giang,VNM,Vietnam,country
+VN-63,Hà Nam,VNM,Vietnam,country
+VN-HN,Ha Noi,VNM,Vietnam,country
+VN-23,Ha Tinh,VNM,Vietnam,country
+VN-61,Hải Dương,VNM,Vietnam,country
+VN-HP,Hải Phòng,VNM,Vietnam,country
+VN-73,Hau Giang,VNM,Vietnam,country
+VN-SG,Hồ Chí Minh city,VNM,Vietnam,country
+VN-14,Hòa Bình,VNM,Vietnam,country
+VN-34,Khánh Hòa,VNM,Vietnam,country
+VN-47,Kiên Giang,VNM,Vietnam,country
+VN-28,Kon Tum,VNM,Vietnam,country
+VN-01,Lai Chau,VNM,Vietnam,country
+VN-35,Lâm Đồng,VNM,Vietnam,country
+VN-09,Lạng Sơn,VNM,Vietnam,country
+VN-02,Lào Cai,VNM,Vietnam,country
+VN-41,Long An,VNM,Vietnam,country
+VN-67,Nam Định,VNM,Vietnam,country
+VN-22,Nghệ An,VNM,Vietnam,country
+VN-18,Ninh Bình,VNM,Vietnam,country
+VN-36,Ninh Thuận,VNM,Vietnam,country
+VN-68,Phú Thọ,VNM,Vietnam,country
+VN-32,Phú Yên,VNM,Vietnam,country
+VN-24,Quảng Bình,VNM,Vietnam,country
+VN-27,Quàng Nam,VNM,Vietnam,country
+VN-29,Quảng Ngãi,VNM,Vietnam,country
+VN-13,Quảng Ninh,VNM,Vietnam,country
+VN-25,Quảng Trị,VNM,Vietnam,country
+VN-52,Sóc Trăng,VNM,Vietnam,country
+VN-05,Son La,VNM,Vietnam,country
+VN-37,Tây Ninh,VNM,Vietnam,country
+VN-20,Thái Bình,VNM,Vietnam,country
+VN-69,Thái Nguyên,VNM,Vietnam,country
+VN-21,Thanh Hóa,VNM,Vietnam,country
+VN-26,Thừa Thiên - Huế,VNM,Vietnam,country
+VN-46,Tiền Giang,VNM,Vietnam,country
+VN-51,Trà Vinh,VNM,Vietnam,country
+VN-07,Tuyên Quang,VNM,Vietnam,country
+VN-49,Vĩnh Long,VNM,Vietnam,country
+VN-70,Vĩnh Phúc,VNM,Vietnam,country
+VN-06,Yên Bái,VNM,Vietnam,country
+WF-UV,`Uvea,WLF,Wallis and Futuna Islands,none
+WF-AL,Alo,WLF,Wallis and Futuna Islands,none
+WF-SG,Sigave,WLF,Wallis and Futuna Islands,none
+SAH-00,Western Sahara,ESH,Western Sahara,none
+YE-AD,`Adan,YEM,Yemen,country
+YE-AB,Abyan,YEM,Yemen,country
+YE-BA,Al Bayda',YEM,Yemen,country
+YE-DA,Al Dali',YEM,Yemen,country
+YE-HU,Al Hudaydah,YEM,Yemen,country
+YE-JA,Al Jawf,YEM,Yemen,country
+YE-MR,Al Mahrah,YEM,Yemen,country
+YE-MW,Al Mahwit,YEM,Yemen,country
+YE-SA,Amanat Al Asimah,YEM,Yemen,country
+YE-AM,Amran,YEM,Yemen,country
+YE-DH,Dhamar,YEM,Yemen,country
+YE-HD,Hadramawt,YEM,Yemen,country
+YE-HJ,Hajjah,YEM,Yemen,country
+YE-IB,Ibb,YEM,Yemen,country
+YE-LA,Lahij,YEM,Yemen,country
+YE-MA,Ma'rib,YEM,Yemen,country
+YE-RA,Raymah,YEM,Yemen,country
+YE-SD,Sa`dah,YEM,Yemen,country
+YE-SN,Sana'a,YEM,Yemen,country
+YE-SH,Shabwah,YEM,Yemen,country
+YE-TA,Ta`izz,YEM,Yemen,country
+ZM-02,Central,ZMB,Zambia,country
+ZM-08,Copperbelt,ZMB,Zambia,country
+ZM-03,Eastern,ZMB,Zambia,country
+ZM-04,Luapula,ZMB,Zambia,country
+ZM-09,Lusaka,ZMB,Zambia,country
+ZM-10,Muchinga,ZMB,Zambia,country
+ZM-06,North-Western,ZMB,Zambia,country
+ZM-05,Northern,ZMB,Zambia,country
+ZM-07,Southern,ZMB,Zambia,country
+ZM-01,Western,ZMB,Zambia,country
+ZW-BU,Bulawayo,ZWE,Zimbabwe,country
+ZW-HA,Harare,ZWE,Zimbabwe,country
+ZW-MA,Manicaland,ZWE,Zimbabwe,country
+ZW-MC,Mashonaland Central,ZWE,Zimbabwe,country
+ZW-ME,Mashonaland East,ZWE,Zimbabwe,country
+ZW-MW,Mashonaland West,ZWE,Zimbabwe,country
+ZW-MV,Masvingo,ZWE,Zimbabwe,country
+ZW-MN,Matabeleland North,ZWE,Zimbabwe,country
+ZW-MS,Matabeleland South,ZWE,Zimbabwe,country
+ZW-MI,Midlands,ZWE,Zimbabwe,country

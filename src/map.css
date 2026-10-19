@@ -1,0 +1,106 @@
+/* Peta Dunia: styles embedded in peta-dunia.svg. Every selector is scoped to svg.pd so the
+   map can also be pasted inline into an HTML page without leaking styles. */
+svg.pd {
+  font-family: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+  background: #fff;
+}
+svg.pd .pd-sea { fill: #f4f4f4; }
+svg.pd .pd-grat { fill: none; stroke: #e0e0e0; stroke-width: .6; vector-effect: non-scaling-stroke; pointer-events: none; }
+svg.pd #pd-map path {
+  fill: #c6c6c6;
+  stroke: #fff;
+  stroke-width: .3;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+  cursor: pointer;
+  transition: fill .12s ease-out;
+  outline: none;
+}
+svg.pd #pd-map path.pd-d { fill: #a6c8ff; }
+svg.pd #pd-map g:hover path { fill: #b0b0b0; }
+svg.pd #pd-map g:hover path.pd-d { fill: #8db8ff; }
+svg.pd #pd-map g path:hover { fill: #4589ff; }
+svg.pd #pd-map g path.pd-sel { fill: #0f62fe; }
+svg.pd.pd-drag #pd-map path { cursor: grabbing; transition: none; }
+svg.pd.pd-z2 #pd-map path { stroke-width: .6; }
+svg.pd.pd-z3 #pd-map path { stroke-width: 1; }
+svg.pd .pd-borders { fill: none; stroke: #6f6f6f; stroke-width: .7; stroke-linejoin: round; vector-effect: non-scaling-stroke; pointer-events: none; }
+svg.pd.pd-z2 .pd-borders { stroke-width: 1; }
+svg.pd.pd-z3 .pd-borders { stroke-width: 1.4; }
+svg.pd .pd-hl { fill: none; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
+svg.pd #pd-hl-sel { stroke: #002d9c; stroke-width: 1.5; }
+svg.pd #pd-hl-focus { stroke: #161616; stroke-width: 2.5; }
+svg.pd #pd-hl-focus-in { stroke: #fff; stroke-width: 1; }
+
+/* Overlay: drawn in screen pixels, never scaled with the map. */
+svg.pd #pd-ui text { fill: #161616; }
+svg.pd .pd-mute { fill: #525252 !important; }
+svg.pd .pd-soft { fill: #6f6f6f !important; }
+svg.pd .pd-plate { fill: #fff; }
+svg.pd .pd-read { pointer-events: none; font-size: 12px; letter-spacing: .32px; }
+svg.pd .pd-attr { font-size: 11px; letter-spacing: .32px; }
+svg.pd .pd-hint { pointer-events: none; font-size: 12px; letter-spacing: .32px; transition: opacity .2s; }
+svg.pd .pd-hint .pd-plate { fill: #161616; }
+svg.pd .pd-hint text { fill: #fff !important; }
+
+svg.pd .pd-btn { cursor: pointer; outline: none; }
+svg.pd .pd-btn > rect { fill: #fff; transition: fill .12s; }
+svg.pd .pd-btn:hover > rect { fill: #e8e8e8; }
+svg.pd .pd-btn:active > rect { fill: #c6c6c6; }
+svg.pd .pd-btn:focus-visible > rect { stroke: #0f62fe; stroke-width: 2; }
+svg.pd .pd-ico { fill: none; stroke: #161616; stroke-width: 1.5; stroke-linecap: square; pointer-events: none; }
+svg.pd .pd-ctl > .pd-btn > rect { fill: #fff; }
+
+svg.pd #pd-panel { visibility: hidden; }
+svg.pd #pd-panel.pd-open { visibility: visible; }
+svg.pd .pd-card { opacity: 0; transform: translateY(8px); transition: opacity .18s cubic-bezier(.2, 0, .38, .9), transform .24s cubic-bezier(.2, 0, .38, .9); }
+svg.pd .pd-open .pd-card { opacity: 1; transform: none; }
+svg.pd .pd-card > .pd-plate { filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .25)); }
+svg.pd .pd-title { font-size: 16px; font-weight: 600; letter-spacing: .16px; }
+svg.pd .pd-sub { font-size: 12px; letter-spacing: .32px; }
+svg.pd .pd-tab { cursor: pointer; outline: none; }
+svg.pd .pd-tab > rect { fill: #fff; transition: fill .12s; }
+svg.pd .pd-tab:hover > rect { fill: #f4f4f4; }
+svg.pd .pd-tab:focus-visible > rect { stroke: #0f62fe; stroke-width: 2; }
+svg.pd .pd-tab text { font-size: 12px; letter-spacing: .32px; fill: #525252 !important; }
+svg.pd .pd-tab[aria-pressed="true"] text { fill: #161616 !important; font-weight: 600; }
+svg.pd .pd-tab .pd-bar-on { fill: #0f62fe; opacity: 0; }
+svg.pd .pd-tab[aria-pressed="true"] .pd-bar-on { opacity: 1; }
+svg.pd .pd-tab .pd-bar-off { fill: #e0e0e0; }
+svg.pd .pd-seg { cursor: pointer; outline: none; }
+svg.pd .pd-seg > rect { fill: #f4f4f4; transition: fill .12s; }
+svg.pd .pd-seg:hover > rect { fill: #e8e8e8; }
+svg.pd .pd-seg[aria-pressed="true"] > rect { fill: #161616; }
+svg.pd .pd-seg:focus-visible > rect { stroke: #0f62fe; stroke-width: 2; }
+svg.pd .pd-seg text { font-size: 12px; letter-spacing: .32px; fill: #525252 !important; }
+svg.pd .pd-seg[aria-pressed="true"] text { fill: #fff !important; }
+svg.pd .pd-kpi { font-size: 24px; font-weight: 300; }
+svg.pd .pd-kpi-l { font-size: 12px; letter-spacing: .32px; }
+
+/* Charts */
+svg.pd .pd-grid { stroke: #e0e0e0; stroke-width: 1; shape-rendering: crispEdges; }
+svg.pd .pd-base { stroke: #8d8d8d; stroke-width: 1; shape-rendering: crispEdges; }
+svg.pd .pd-ax { font-size: 11px; letter-spacing: .2px; fill: #6f6f6f !important; font-variant-numeric: tabular-nums; }
+svg.pd .pd-line { fill: none; stroke: #0f62fe; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round;
+  stroke-dasharray: 1; animation: pd-draw .7s cubic-bezier(.2, 0, .38, .9) both; }
+svg.pd .pd-area { fill: #0f62fe; opacity: .1; animation: pd-fade .7s ease-out both; }
+svg.pd .pd-dot { fill: #0f62fe; stroke: #fff; stroke-width: 2; }
+svg.pd .pd-bar { fill: #0f62fe; transform-box: fill-box; transform-origin: 50% 100%; animation: pd-grow .45s cubic-bezier(.2, 0, .38, .9) both; transition: fill .1s; }
+svg.pd .pd-hbar { transform-origin: 0 50%; animation-name: pd-growx; }
+svg.pd .pd-bar.pd-hot { fill: #002d9c; }
+svg.pd .pd-guide { stroke: #161616; stroke-width: 1; stroke-dasharray: 2 2; shape-rendering: crispEdges; pointer-events: none; }
+svg.pd .pd-hit { fill: transparent; cursor: crosshair; }
+svg.pd .pd-ghost { fill: none; stroke: #c6c6c6; stroke-width: 1; stroke-dasharray: 3 3; }
+svg.pd .pd-nd { font-size: 16px; font-weight: 600; }
+svg.pd .pd-val { font-size: 11px; font-variant-numeric: tabular-nums; }
+@keyframes pd-draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+@keyframes pd-fade { from { opacity: 0; } }
+@keyframes pd-grow { from { transform: scaleY(0); } }
+@keyframes pd-growx { from { transform: scaleX(0); } }
+@media (prefers-reduced-motion: reduce) {
+  svg.pd *, svg.pd .pd-card { animation: none !important; transition: none !important; }
+}

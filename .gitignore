@@ -1,0 +1,8 @@
+.env
+.DS_Store
+.playwright-cli/
+.taste-skill/
+.impeccable/
+node_modules/
+build/
+docs/index.html
