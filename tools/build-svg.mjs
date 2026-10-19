@@ -206,7 +206,7 @@ const title = "Peta Dunia: interactive world map of countries and their first-le
 const desc = "Every country and its states, provinces and territories, each clickable. Select a region to open a chart. " +
   "Keyboard: Tab to the map, arrow keys move between neighbouring regions, Page Up and Page Down jump between countries, " +
   "type a name to find it, Enter or Space opens its chart, Escape closes it, plus and minus zoom, 0 resets.";
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" id="peta-dunia" class="pd" viewBox="0 0 ${WIDTH} ${HEIGHT}" ` +
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" id="peta-dunia" class="pd" viewBox="0 0 ${WIDTH} ${HEIGHT}" preserveAspectRatio="xMidYMin meet" ` +
   `role="group" aria-roledescription="interactive map" aria-labelledby="pd-title" aria-describedby="pd-desc">` +
   `<title id="pd-title">${esc(title)}</title><desc id="pd-desc">${esc(desc)}</desc>` +
   `<style><![CDATA[${css}]]></style>` +
